@@ -2,7 +2,7 @@
 pid: obj2
 artist: Unknown
 location: Egypt
-label: Sulwan Al-Muta'a
+label: Sulwan Al-Mutaʾa
 _date: 14th century
 object_type: manuscript
 current_location: The Museum of Islamic Art, Qatar
