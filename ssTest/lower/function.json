@@ -1,0 +1,13 @@
+
+  { "stem" : "function",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "functionality",
+            "context" : "...reverse alphabetical order, as a test of the <mark>functionality<\/mark> of the @data-ssFilterSortKey setting; the Random numeric...",
+            "weight" : 1,
+            "pos" : 24 } ] } ] }

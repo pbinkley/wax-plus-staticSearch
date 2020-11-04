@@ -1,0 +1,43 @@
+
+  { "stem" : "cursus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "cursus",
+            "context" : "...felis faucibus aliquet. Cras ultrices turpis id nibh <mark>cursus<\/mark> fringilla. Aenean nec magna turpis. Suspendisse egestas...",
+            "weight" : 1,
+            "pos" : 213 },
+          
+          { "form" : "cursus",
+            "context" : "...nulla sollicitudin viverra. Morbi semper lectus quis dolor <mark>cursus<\/mark>, ut convallis lacus venenatis. Pellentesque lorem mauris,...",
+            "weight" : 1,
+            "pos" : 334 },
+          
+          { "form" : "cursus",
+            "context" : "...felis faucibus aliquet. Cras ultrices turpis id nibh <mark>cursus<\/mark> fringilla. Aenean nec magna turpis. Suspendisse egestas...",
+            "weight" : 1,
+            "pos" : 386 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "cursus",
+            "context" : "...felis faucibus aliquet. Cras ultrices turpis id nibh <mark>cursus<\/mark> fringilla. Aenean nec magna turpis. Suspendisse egestas...",
+            "weight" : 1,
+            "pos" : 209 },
+          
+          { "form" : "cursus",
+            "context" : "...nulla sollicitudin viverra. Morbi semper lectus quis dolor <mark>cursus<\/mark>, ut convallis lacus venenatis. Pellentesque lorem mauris,...",
+            "weight" : 1,
+            "pos" : 330 },
+          
+          { "form" : "cursus",
+            "context" : "...felis faucibus aliquet. Cras ultrices turpis id nibh <mark>cursus<\/mark> fringilla. Aenean nec magna turpis. Suspendisse egestas...",
+            "weight" : 1,
+            "pos" : 434 } ] } ] }

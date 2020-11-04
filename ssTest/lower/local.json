@@ -1,0 +1,13 @@
+
+  { "stem" : "local",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "context" : "...interact with programs, files, and directories on your <mark>local<\/mark> computer.",
+            "weight" : 1,
+            "pos" : 227 } ] } ] }

@@ -1,0 +1,28 @@
+
+  { "stem" : "رسالة",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "رسالة",
+            "context" : "...Excerpt from \"The Book of Horses\" (فَرَس نامه [<mark>رسالة<\/mark> في الخيول)",
+            "weight" : 2,
+            "pos" : 19 },
+          
+          { "form" : "رسالة",
+            "context" : "...Excerpt from \"The Book of Horses\" (فَرَس نامه [<mark>رسالة<\/mark> في الخيول) Artist Bahādur Fīrūz, ʻAbd Allāh...",
+            "weight" : 1,
+            "pos" : 26 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "رسالة",
+            "context" : "...Excerpt from \"The Book of Horses\" (فَرَس نامه [<mark>رسالة<\/mark> في الخيول)",
+            "weight" : 1,
+            "pos" : 128 } ] } ] }

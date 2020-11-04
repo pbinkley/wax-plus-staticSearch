@@ -1,0 +1,28 @@
+
+  { "stem" : "set",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "setting",
+            "context" : "...a test of the functionality of the @data-ssFilterSortKey <mark>setting<\/mark>; the Random numeric value options should appear...",
+            "weight" : 1,
+            "pos" : 28 },
+          
+          { "form" : "setting",
+            "context" : "...although they do not have a configured @data-ssFilterSortKey <mark>setting<\/mark>.",
+            "weight" : 1,
+            "pos" : 42 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "set",
+            "context" : "This site's sample collection comprises a <mark>set<\/mark> of objects, each of which is represented...",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

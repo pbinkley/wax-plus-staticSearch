@@ -1,0 +1,13 @@
+
+  { "stem" : "look",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "look",
+            "context" : "So what does the Wax workflow <mark>look<\/mark> like?",
+            "weight" : 2,
+            "pos" : 318 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "flat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flat",
+            "context" : "...Wax are static. This means they consist of <mark>flat<\/mark> HTML, CSS, and JavaScript files that don't...",
+            "weight" : 1,
+            "pos" : 92 } ] } ] }

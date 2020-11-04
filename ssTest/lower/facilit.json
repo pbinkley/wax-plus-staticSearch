@@ -1,0 +1,13 @@
+
+  { "stem" : "facilit",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "facilitating",
+            "context" : "...is also phenomenal for professionals who play a <mark>facilitating<\/mark> role, such as Digital Scholarship Librarians or...",
+            "weight" : 1,
+            "pos" : 285 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "manag",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "management",
+            "context" : "...involves learning the fundamentals of web development, data <mark>management<\/mark>, and plain text editing while leveraging a...",
+            "weight" : 1,
+            "pos" : 133 } ] } ] }

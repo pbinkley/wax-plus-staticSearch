@@ -1,0 +1,33 @@
+
+  { "stem" : "sapien",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sapien",
+            "context" : "...velit leo, mattis ac dui non, vulputate porttitor <mark>sapien<\/mark>. Praesent in aliquet dui. Nulla facilisi. Maecenas...",
+            "weight" : 1,
+            "pos" : 81 },
+          
+          { "form" : "sapien",
+            "context" : "...elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare <mark>sapien<\/mark> a, mollis neque. Duis faucibus diam vitae...",
+            "weight" : 1,
+            "pos" : 299 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sapien",
+            "context" : "...velit leo, mattis ac dui non, vulputate porttitor <mark>sapien<\/mark>. Praesent in aliquet dui. Nulla facilisi. Maecenas...",
+            "weight" : 1,
+            "pos" : 81 },
+          
+          { "form" : "sapien",
+            "context" : "...elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare <mark>sapien<\/mark> a, mollis neque. Duis faucibus diam vitae...",
+            "weight" : 1,
+            "pos" : 295 } ] } ] }

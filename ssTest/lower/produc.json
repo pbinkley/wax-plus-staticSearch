@@ -1,0 +1,18 @@
+
+  { "stem" : "produc",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "producing",
+            "context" : "...Wax is a minimal computing project for <mark>producing<\/mark> digital exhibitions focused on longevity, low costs,...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "produce",
+            "context" : "...made to learn and to teach, and can <mark>produce<\/mark> beautifully rendered, high-quality image collections and scholarly...",
+            "weight" : 1,
+            "pos" : 39 } ] } ] }

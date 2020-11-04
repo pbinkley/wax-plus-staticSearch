@@ -1,0 +1,238 @@
+
+  { "stem" : "Github",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "Using Git and <mark>GitHub<\/mark> to version control and collaborate on projects....",
+            "weight" : 1,
+            "pos" : 231 },
+          
+          { "form" : "GitHub",
+            "context" : "...of Wax exhibitions, check out this workshop, this <mark>GitHub<\/mark> repository, and this custom Wax site.",
+            "weight" : 1,
+            "pos" : 275 },
+          
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 390 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "...get in touch, or fork the project on <mark>GitHub<\/mark>. If you encounter any issue with the...",
+            "weight" : 1,
+            "pos" : 63 },
+          
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 91 } ] },
+      
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 73 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 63 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 412 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "search_index",
+        "docUri" : "search\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 29 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 72 } ] },
+      
+      { "docId" : "exhibits_index",
+        "docUri" : "exhibits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 37 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 67 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 67 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 90 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 69 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 460 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 63 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 78 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 34 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 71 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "GitHub",
+            "context" : "<mark>GitHub<\/mark> \/ Credits \/ Contact",
+            "weight" : 1,
+            "pos" : 57 } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "numer",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "numeric",
+            "context" : "...the functionality of the @data-ssFilterSortKey setting; the Random <mark>numeric<\/mark> value options should appear in ascending numeric...",
+            "weight" : 1,
+            "pos" : 30 },
+          
+          { "form" : "numeric",
+            "context" : "...Random numeric value options should appear in ascending <mark>numeric<\/mark> order although they do not have a...",
+            "weight" : 1,
+            "pos" : 35 } ] } ] }

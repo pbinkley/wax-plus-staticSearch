@@ -1,0 +1,13 @@
+
+  { "stem" : "elasticlunr",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ElasticLunr",
+            "context" : "...and frameworks including Jekyll, IIIF, OpenSeaDragon, Rake, and <mark>ElasticLunr<\/mark>. Wax builds upon work by Peter Binkley,...",
+            "weight" : 1,
+            "pos" : 44 } ] } ] }

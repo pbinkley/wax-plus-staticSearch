@@ -1,0 +1,13 @@
+
+  { "stem" : "interoper",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "interoperable",
+            "context" : "...such strives to make its collections findable, accessible, <mark>interoperable<\/mark> and reusable.",
+            "weight" : 1,
+            "pos" : 27 } ] } ] }

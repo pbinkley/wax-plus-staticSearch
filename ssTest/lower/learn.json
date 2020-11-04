@@ -1,0 +1,43 @@
+
+  { "stem" : "learn",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Learning",
+            "context" : "...largely transferable for use in other digital projects. '<mark>Learning<\/mark> Wax' does not mean learning how to...",
+            "weight" : 1,
+            "pos" : 121 },
+          
+          { "form" : "learning",
+            "context" : "...other digital projects. 'Learning Wax' does not mean <mark>learning<\/mark> how to use a platform. It involves...",
+            "weight" : 1,
+            "pos" : 124 },
+          
+          { "form" : "learning",
+            "context" : "...learning how to use a platform. It involves <mark>learning<\/mark> the fundamentals of web development, data management,...",
+            "weight" : 1,
+            "pos" : 128 },
+          
+          { "form" : "learning",
+            "context" : "...beginners, Wax has a relatively high, but general-purpose <mark>learning<\/mark> curve. To get the most out of...",
+            "weight" : 1,
+            "pos" : 212 },
+          
+          { "form" : "learning",
+            "context" : "...However, Wax is also great for teaching or <mark>learning<\/mark> the skills above! For examples of digital...",
+            "weight" : 1,
+            "pos" : 264 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "learn",
+            "context" : "...and flexibility. Our underlying technology is made to <mark>learn<\/mark> and to teach, and can produce beautifully...",
+            "weight" : 1,
+            "pos" : 37 } ] } ] }

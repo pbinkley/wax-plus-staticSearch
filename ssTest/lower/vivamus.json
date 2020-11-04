@@ -1,0 +1,23 @@
+
+  { "stem" : "vivamus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vivamus",
+            "context" : "...bibendum. Ut laoreet elit nec dolor molestie finibus. <mark>Vivamus<\/mark> justo risus, scelerisque nec dolor ut, pretium...",
+            "weight" : 1,
+            "pos" : 36 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vivamus",
+            "context" : "...bibendum. Ut laoreet elit nec dolor molestie finibus. <mark>Vivamus<\/mark> justo risus, scelerisque nec dolor ut, pretium...",
+            "weight" : 1,
+            "pos" : 36 } ] } ] }

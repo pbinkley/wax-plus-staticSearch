@@ -1,0 +1,18 @@
+
+  { "stem" : "best",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "best",
+            "context" : "...to create their scholarly or cultural exhibits. It's <mark>best<\/mark> suited for folks who are willing to...",
+            "weight" : 1,
+            "pos" : 195 },
+          
+          { "form" : "best",
+            "context" : "Using file-naming conventions and <mark>best<\/mark> practices.",
+            "weight" : 1,
+            "pos" : 253 } ] } ] }

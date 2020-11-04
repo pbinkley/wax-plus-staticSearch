@@ -1,0 +1,38 @@
+
+  { "stem" : "venenati",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "venenatis",
+            "context" : "Integer eu augue elementum, <mark>venenatis<\/mark> nisi vitae, ultrices magna. Nunc accumsan sem...",
+            "weight" : 1,
+            "pos" : 230 },
+          
+          { "form" : "venenatis",
+            "context" : "...semper lectus quis dolor cursus, ut convallis lacus <mark>venenatis<\/mark>. Pellentesque lorem mauris, malesuada a fringilla et,...",
+            "weight" : 1,
+            "pos" : 337 },
+          
+          { "form" : "venenatis",
+            "context" : "Integer eu augue elementum, <mark>venenatis<\/mark> nisi vitae, ultrices magna. Nunc accumsan sem...",
+            "weight" : 1,
+            "pos" : 356 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "venenatis",
+            "context" : "Integer eu augue elementum, <mark>venenatis<\/mark> nisi vitae, ultrices magna. Nunc accumsan sem...",
+            "weight" : 1,
+            "pos" : 226 },
+          
+          { "form" : "venenatis",
+            "context" : "...semper lectus quis dolor cursus, ut convallis lacus <mark>venenatis<\/mark>. Pellentesque lorem mauris, malesuada a fringilla et,...",
+            "weight" : 1,
+            "pos" : 333 } ] } ] }

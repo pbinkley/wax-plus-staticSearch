@@ -1,0 +1,63 @@
+
+  { "stem" : "finibus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "finibus",
+            "context" : "...efficitur bibendum. Ut laoreet elit nec dolor molestie <mark>finibus<\/mark>. Vivamus justo risus, scelerisque nec dolor ut,...",
+            "weight" : 1,
+            "pos" : 35 },
+          
+          { "form" : "finibus",
+            "context" : "...eget blandit. Aliquam vitae magna eget nisi suscipit <mark>finibus<\/mark> id sit amet nulla.1",
+            "weight" : 1,
+            "pos" : 69 },
+          
+          { "form" : "finibus",
+            "context" : "...luctus nulla vel tellus rutrum, ac pulvinar erat <mark>finibus<\/mark>. Aliquam erat volutpat. Pellentesque vel velit sit...",
+            "weight" : 1,
+            "pos" : 112 },
+          
+          { "form" : "finibus",
+            "context" : "Duis <mark>finibus<\/mark> leo non velit viverra tincidunt. Fusce efficitur...",
+            "weight" : 1,
+            "pos" : 271 },
+          
+          { "form" : "finibus",
+            "context" : "...malesuada a fringilla et, iaculis sodales metus. Suspendisse <mark>finibus<\/mark> purus ut sem commodo feugiat.",
+            "weight" : 1,
+            "pos" : 347 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "finibus",
+            "context" : "...efficitur bibendum. Ut laoreet elit nec dolor molestie <mark>finibus<\/mark>. Vivamus justo risus, scelerisque nec dolor ut,...",
+            "weight" : 1,
+            "pos" : 35 },
+          
+          { "form" : "finibus",
+            "context" : "...eget blandit. Aliquam vitae magna eget nisi suscipit <mark>finibus<\/mark> id sit amet nulla.",
+            "weight" : 1,
+            "pos" : 69 },
+          
+          { "form" : "finibus",
+            "context" : "...luctus nulla vel tellus rutrum, ac pulvinar erat <mark>finibus<\/mark>. Aliquam erat volutpat. Pellentesque vel velit sit...",
+            "weight" : 1,
+            "pos" : 112 },
+          
+          { "form" : "finibus",
+            "context" : "Duis <mark>finibus<\/mark> leo non velit viverra tincidunt. Fusce efficitur...",
+            "weight" : 1,
+            "pos" : 267 },
+          
+          { "form" : "finibus",
+            "context" : "...malesuada a fringilla et, iaculis sodales metus. Suspendisse <mark>finibus<\/mark> purus ut sem commodo feugiat.",
+            "weight" : 1,
+            "pos" : 343 } ] } ] }

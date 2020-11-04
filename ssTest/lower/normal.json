@@ -1,0 +1,13 @@
+
+  { "stem" : "normal",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "normalizing",
+            "context" : "Creating and <mark>normalizing<\/mark> data files (e.g., CSV, JSON, YAML)",
+            "weight" : 1,
+            "pos" : 242 } ] } ] }

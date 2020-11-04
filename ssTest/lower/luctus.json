@@ -1,0 +1,38 @@
+
+  { "stem" : "luctus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "luctus",
+            "context" : "...at lectus iaculis elementum id id massa. Integer <mark>luctus<\/mark> nulla vel tellus rutrum, ac pulvinar erat...",
+            "weight" : 1,
+            "pos" : 105 },
+          
+          { "form" : "luctus",
+            "context" : "...feugiat sed massa non, ullamcorper efficitur dolor. Sed <mark>luctus<\/mark>, massa eget pharetra posuere, nibh sem eleifend...",
+            "weight" : 1,
+            "pos" : 169 },
+          
+          { "form" : "luctus",
+            "context" : "...feugiat sed massa non, ullamcorper efficitur dolor. Sed <mark>luctus<\/mark>, massa eget pharetra posuere, nibh sem eleifend...",
+            "weight" : 1,
+            "pos" : 394 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "luctus",
+            "context" : "...at lectus iaculis elementum id id massa. Integer <mark>luctus<\/mark> nulla vel tellus rutrum, ac pulvinar erat...",
+            "weight" : 1,
+            "pos" : 105 },
+          
+          { "form" : "luctus",
+            "context" : "...feugiat sed massa non, ullamcorper efficitur dolor.2 Sed <mark>luctus<\/mark>, massa eget pharetra posuere, nibh sem eleifend...",
+            "weight" : 1,
+            "pos" : 173 } ] } ] }

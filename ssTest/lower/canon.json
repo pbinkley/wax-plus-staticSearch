@@ -1,0 +1,13 @@
+
+  { "stem" : "canon",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "canonical",
+            "context" : "...and metadata records and builds around them, handling <mark>canonical<\/mark> information, scholarly content, and site styling differently...",
+            "weight" : 1,
+            "pos" : 164 } ] } ] }

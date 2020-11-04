@@ -1,0 +1,13 @@
+
+  { "stem" : "welcom",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "context" : "We <mark>welcome<\/mark> and encourage contributors and maintainers. Please get...",
+            "weight" : 1,
+            "pos" : 54 } ] } ] }

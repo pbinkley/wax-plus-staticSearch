@@ -1,0 +1,13 @@
+
+  { "stem" : "time",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "time",
+            "context" : "...Coordinators. With some practice, Wax substantially reduces the <mark>time<\/mark> to production and post-production maintenance costs for...",
+            "weight" : 1,
+            "pos" : 295 } ] } ] }

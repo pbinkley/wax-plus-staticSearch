@@ -1,0 +1,13 @@
+
+  { "stem" : "1550",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "1550",
+            "context" : "...Location The Museum of Islamic Art, Qatar Date <mark>1550<\/mark> - 1650 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj8\/manifest.json...",
+            "weight" : 1,
+            "pos" : 41 } ] } ] }

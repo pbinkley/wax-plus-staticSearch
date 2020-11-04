@@ -1,0 +1,13 @@
+
+  { "stem" : "customiz",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "customizable",
+            "context" : "...is purposefully lightweight: a few Ruby gems, some <mark>customizable<\/mark> UI components, good documentation and (hopefully soon!)...",
+            "weight" : 1,
+            "pos" : 72 } ] } ] }

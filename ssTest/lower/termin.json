@@ -1,0 +1,13 @@
+
+  { "stem" : "termin",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Terminal",
+            "context" : "Using an interactive shell (e.g., Bash\/<mark>Terminal<\/mark>) to install and interact with programs, files,...",
+            "weight" : 1,
+            "pos" : 221 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "etiam",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Etiam",
+            "context" : "...pellentesque nulla. Praesent accumsan ut mauris ut euismod. <mark>Etiam<\/mark> mattis a justo eget blandit. Aliquam vitae...",
+            "weight" : 1,
+            "pos" : 58 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Etiam",
+            "context" : "...pellentesque nulla. Praesent accumsan ut mauris ut euismod. <mark>Etiam<\/mark> mattis a justo eget blandit. Aliquam vitae...",
+            "weight" : 1,
+            "pos" : 58 } ] } ] }

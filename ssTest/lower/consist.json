@@ -1,0 +1,13 @@
+
+  { "stem" : "consist",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "consist",
+            "context" : "...created by Wax are static. This means they <mark>consist<\/mark> of flat HTML, CSS, and JavaScript files...",
+            "weight" : 1,
+            "pos" : 91 } ] } ] }

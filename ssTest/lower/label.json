@@ -1,0 +1,123 @@
+
+  { "stem" : "label",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Diwan of Jami Manuscript Artist Unknown Type...",
+            "weight" : 1,
+            "pos" : 18 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Portrait of Hasan ʾAli Mirza Shuja al-Saltana...",
+            "weight" : 1,
+            "pos" : 22 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Page from the Shahnama Artist Unknown Type...",
+            "weight" : 1,
+            "pos" : 17 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Sulwan Al-Mutaʾa Artist Unknown Type manuscript Location...",
+            "weight" : 1,
+            "pos" : 18 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> The Dalaʾil al-Khayrat of al-Juzuli Artist Al-Hajj...",
+            "weight" : 1,
+            "pos" : 20 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Portrait of Fath ʾAli Shah Artist Mihr...",
+            "weight" : 1,
+            "pos" : 19 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Portrait of Sheikh Ali Mirza Artist Unknown...",
+            "weight" : 1,
+            "pos" : 19 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Faridun crosses the River Dijla, fol. 33v...",
+            "weight" : 1,
+            "pos" : 20 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Panel from Iran Artist Unknown Type panel...",
+            "weight" : 1,
+            "pos" : 17 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Excerpt from \"The Book of Horses\" (فَرَس...",
+            "weight" : 1,
+            "pos" : 21 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Map of the World Artist Unknown Type...",
+            "weight" : 1,
+            "pos" : 17 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Label",
+            "context" : " <mark>Label<\/mark> Silk Tapestry Depicting the story of Leila...",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

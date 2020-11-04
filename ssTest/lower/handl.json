@@ -1,0 +1,13 @@
+
+  { "stem" : "handl",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "handling",
+            "context" : "...files and metadata records and builds around them, <mark>handling<\/mark> canonical information, scholarly content, and site styling...",
+            "weight" : 1,
+            "pos" : 163 } ] } ] }

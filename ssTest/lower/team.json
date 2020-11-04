@@ -1,0 +1,13 @@
+
+  { "stem" : "team",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "team",
+            "context" : "...and post-production maintenance costs for you and your <mark>team<\/mark>. In the most common scenario, students, faculty,...",
+            "weight" : 1,
+            "pos" : 302 } ] } ] }

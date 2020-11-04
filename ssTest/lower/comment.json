@@ -1,0 +1,13 @@
+
+  { "stem" : "comment",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "comment",
+            "context" : "...an issue on our repository or post a <mark>comment<\/mark> on Gitter.",
+            "weight" : 1,
+            "pos" : 72 } ] } ] }

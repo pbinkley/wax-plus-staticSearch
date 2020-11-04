@@ -1,0 +1,223 @@
+
+  { "stem" : "2019",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 59 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 68 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 58 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 407 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 59 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 86 } ] },
+      
+      { "docId" : "search_index",
+        "docUri" : "search\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 24 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 67 } ] },
+      
+      { "docId" : "exhibits_index",
+        "docUri" : "exhibits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 32 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 385 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 85 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 455 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 58 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 73 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 29 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 66 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2019",
+            "context" : "© Example copyright org, <mark>2019<\/mark> Built with Minicomp\/Wax",
+            "weight" : 1,
+            "pos" : 52 } ] } ] }

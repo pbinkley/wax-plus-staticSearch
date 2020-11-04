@@ -1,0 +1,13 @@
+
+  { "stem" : "librarian",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Librarians",
+            "context" : "...play a facilitating role, such as Digital Scholarship <mark>Librarians<\/mark> or Coordinators. With some practice, Wax substantially...",
+            "weight" : 1,
+            "pos" : 289 } ] } ] }

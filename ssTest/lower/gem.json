@@ -1,0 +1,13 @@
+
+  { "stem" : "gem",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gems",
+            "context" : "...result, it is purposefully lightweight: a few Ruby <mark>gems<\/mark>, some customizable UI components, good documentation and...",
+            "weight" : 1,
+            "pos" : 71 } ] } ] }

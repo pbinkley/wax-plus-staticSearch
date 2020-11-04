@@ -1,0 +1,18 @@
+
+  { "stem" : "record",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "records",
+            "context" : "...starts with making standardized image files and metadata <mark>records<\/mark> and builds around them, handling canonical information,...",
+            "weight" : 1,
+            "pos" : 160 },
+          
+          { "form" : "records",
+            "context" : "...In summary, you create a file of metadata <mark>records<\/mark> for your collection (in CSV, YAML, or...",
+            "weight" : 1,
+            "pos" : 329 } ] } ] }

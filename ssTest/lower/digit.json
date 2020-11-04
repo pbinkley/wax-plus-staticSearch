@@ -1,0 +1,63 @@
+
+  { "stem" : "digit",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "digital",
+            "context" : "Wax helps you create <mark>digital<\/mark> exhibits. A digital exhibit is a collection...",
+            "weight" : 1,
+            "pos" : 19 },
+          
+          { "form" : "digital",
+            "context" : "...Wax helps you create digital exhibits. A <mark>digital<\/mark> exhibit is a collection of curated cultural...",
+            "weight" : 1,
+            "pos" : 21 },
+          
+          { "form" : "digital",
+            "context" : "...soon!) recipes for creating, deploying, and maintaining custom <mark>digital<\/mark> exhibitions.",
+            "weight" : 1,
+            "pos" : 83 },
+          
+          { "form" : "digital",
+            "context" : "...they are largely transferable for use in other <mark>digital<\/mark> projects. 'Learning Wax' does not mean learning...",
+            "weight" : 1,
+            "pos" : 119 },
+          
+          { "form" : "digital",
+            "context" : "...or learning the skills above! For examples of <mark>digital<\/mark> pedagogy via the creation of Wax exhibitions,...",
+            "weight" : 1,
+            "pos" : 267 },
+          
+          { "form" : "Digital",
+            "context" : "...professionals who play a facilitating role, such as <mark>Digital<\/mark> Scholarship Librarians or Coordinators. With some practice,...",
+            "weight" : 1,
+            "pos" : 287 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "digital",
+            "context" : "...Wax is a minimal computing project for producing <mark>digital<\/mark> exhibitions focused on longevity, low costs, and...",
+            "weight" : 1,
+            "pos" : 27 },
+          
+          { "form" : "Digital",
+            "context" : "...Project) and The Qatar National Library (via World <mark>Digital<\/mark> Library).",
+            "weight" : 1,
+            "pos" : 74 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Digital",
+            "context" : "...Project) and The Qatar National Library (via World <mark>Digital<\/mark> Library).",
+            "weight" : 1,
+            "pos" : 43 } ] } ] }

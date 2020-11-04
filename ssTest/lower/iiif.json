@@ -1,0 +1,193 @@
+
+  { "stem" : "iiif",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Islamic Art, Qatar Date 16th century Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj6\/manifest.json",
+            "weight" : 1,
+            "pos" : 40 },
+          
+          { "form" : "iiif",
+            "context" : "...Qatar Date 16th century Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj6\/manifest.json",
+            "weight" : 1,
+            "pos" : 48 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Art, Qatar Date 1800 - 1850 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj10\/manifest.json",
+            "weight" : 1,
+            "pos" : 49 },
+          
+          { "form" : "iiif",
+            "context" : "...Date 1800 - 1850 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj10\/manifest.json",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Art, Qatar Date 1525 - 1535 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj7\/manifest.json",
+            "weight" : 1,
+            "pos" : 39 },
+          
+          { "form" : "iiif",
+            "context" : "...Date 1525 - 1535 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj7\/manifest.json",
+            "weight" : 1,
+            "pos" : 47 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Islamic Art, Qatar Date 14th century Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj2\/manifest.json",
+            "weight" : 1,
+            "pos" : 40 },
+          
+          { "form" : "iiif",
+            "context" : "...Qatar Date 14th century Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj2\/manifest.json",
+            "weight" : 1,
+            "pos" : 48 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...of Islamic Art, Qatar Date 1801 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj1\/manifest.json",
+            "weight" : 1,
+            "pos" : 48 },
+          
+          { "form" : "iiif",
+            "context" : "...Art, Qatar Date 1801 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj1\/manifest.json",
+            "weight" : 1,
+            "pos" : 56 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...of Islamic Art, Qatar Date 1816 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj9\/manifest.json",
+            "weight" : 1,
+            "pos" : 43 },
+          
+          { "form" : "iiif",
+            "context" : "...Art, Qatar Date 1816 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj9\/manifest.json",
+            "weight" : 1,
+            "pos" : 51 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Art, Qatar Date 1800 - 1850 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj11\/manifest.json",
+            "weight" : 1,
+            "pos" : 43 },
+          
+          { "form" : "iiif",
+            "context" : "...Date 1800 - 1850 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj11\/manifest.json",
+            "weight" : 1,
+            "pos" : 51 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Art, Qatar Date 1525 - 1535 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj4\/manifest.json",
+            "weight" : 1,
+            "pos" : 45 },
+          
+          { "form" : "iiif",
+            "context" : "...Date 1525 - 1535 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj4\/manifest.json",
+            "weight" : 1,
+            "pos" : 53 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Art, Qatar Date 1600 - 1625 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj5\/manifest.json",
+            "weight" : 1,
+            "pos" : 39 },
+          
+          { "form" : "iiif",
+            "context" : "...Date 1600 - 1625 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj5\/manifest.json",
+            "weight" : 1,
+            "pos" : 47 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Library Date Around 1628 - 1658 Source www.wdl.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj12\/manifest.json",
+            "weight" : 1,
+            "pos" : 54 },
+          
+          { "form" : "iiif",
+            "context" : "...Around 1628 - 1658 Source www.wdl.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj12\/manifest.json",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Islamic Art, Qatar Date 15th century Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj3\/manifest.json",
+            "weight" : 1,
+            "pos" : 38 },
+          
+          { "form" : "iiif",
+            "context" : "...Qatar Date 15th century Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj3\/manifest.json",
+            "weight" : 1,
+            "pos" : 46 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...Art, Qatar Date 1550 - 1650 Source commons.wikimedia.org <mark>IIIF<\/mark> Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj8\/manifest.json",
+            "weight" : 1,
+            "pos" : 47 },
+          
+          { "form" : "iiif",
+            "context" : "...Date 1550 - 1650 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/<mark>iiif<\/mark>\/obj8\/manifest.json",
+            "weight" : 1,
+            "pos" : 55 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "IIIF",
+            "context" : "...uses open source libraries and frameworks including Jekyll, <mark>IIIF<\/mark>, OpenSeaDragon, Rake, and ElasticLunr. Wax builds upon...",
+            "weight" : 1,
+            "pos" : 41 } ] } ] }

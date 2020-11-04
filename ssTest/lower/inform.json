@@ -1,0 +1,13 @@
+
+  { "stem" : "inform",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "information",
+            "context" : "...metadata records and builds around them, handling canonical <mark>information<\/mark>, scholarly content, and site styling differently and...",
+            "weight" : 1,
+            "pos" : 165 } ] } ] }

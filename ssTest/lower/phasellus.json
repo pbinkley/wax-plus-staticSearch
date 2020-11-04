@@ -1,0 +1,23 @@
+
+  { "stem" : "phasellus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Phasellus",
+            "context" : "...pharetra elit sem, et euismod massa mattis ut. <mark>Phasellus<\/mark> maximus ipsum in nulla sollicitudin viverra. Morbi...",
+            "weight" : 1,
+            "pos" : 323 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Phasellus",
+            "context" : "...pharetra elit sem, et euismod massa mattis ut. <mark>Phasellus<\/mark> maximus ipsum in nulla sollicitudin viverra. Morbi...",
+            "weight" : 1,
+            "pos" : 319 } ] } ] }

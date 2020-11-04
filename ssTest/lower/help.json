@@ -1,0 +1,23 @@
+
+  { "stem" : "help",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "help",
+            "context" : "...comes with a specific _include called interactive_metadata_table to <mark>help<\/mark> you make pages like this one complete...",
+            "weight" : 1,
+            "pos" : 38 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "helps",
+            "context" : "Wax <mark>helps<\/mark> you create digital exhibits. A digital exhibit...",
+            "weight" : 1,
+            "pos" : 17 } ] } ] }

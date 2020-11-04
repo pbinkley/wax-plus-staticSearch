@@ -1,0 +1,13 @@
+
+  { "stem" : "1628",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "1628",
+            "context" : "...Africa Current Location Qatar National Library Date Around <mark>1628<\/mark> - 1658 Source www.wdl.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj12\/manifest.json...",
+            "weight" : 1,
+            "pos" : 48 } ] } ] }

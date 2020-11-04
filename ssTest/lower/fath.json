@@ -1,0 +1,18 @@
+
+  { "stem" : "fath",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Fath",
+            "context" : "Portrait of <mark>Fath<\/mark> ʾAli Shah",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "Fath",
+            "context" : "Label Portrait of <mark>Fath<\/mark> ʾAli Shah Artist Mihr ʾAli Type portrait...",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

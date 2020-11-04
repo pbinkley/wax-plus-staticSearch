@@ -1,0 +1,43 @@
+
+  { "stem" : "est",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "est",
+            "context" : "...lobortis molestie ante libero non metus. Aenean et <mark>est<\/mark> sit amet est pulvinar convallis vel non...",
+            "weight" : 1,
+            "pos" : 185 },
+          
+          { "form" : "est",
+            "context" : "...libero non metus. Aenean et est sit amet <mark>est<\/mark> pulvinar convallis vel non tortor. Nunc semper...",
+            "weight" : 1,
+            "pos" : 188 },
+          
+          { "form" : "est",
+            "context" : "...lobortis molestie ante libero non metus. Aenean et <mark>est<\/mark> sit amet est pulvinar convallis vel non...",
+            "weight" : 1,
+            "pos" : 410 },
+          
+          { "form" : "est",
+            "context" : "...libero non metus. Aenean et est sit amet <mark>est<\/mark> pulvinar convallis vel non tortor. Nunc semper...",
+            "weight" : 1,
+            "pos" : 413 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "est",
+            "context" : "...lobortis molestie ante libero non metus. Aenean et <mark>est<\/mark> sit amet est pulvinar convallis vel non...",
+            "weight" : 1,
+            "pos" : 189 },
+          
+          { "form" : "est",
+            "context" : "...libero non metus. Aenean et est sit amet <mark>est<\/mark> pulvinar convallis vel non tortor. Nunc semper...",
+            "weight" : 1,
+            "pos" : 192 } ] } ] }

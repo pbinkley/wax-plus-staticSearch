@@ -1,0 +1,28 @@
+
+  { "stem" : "hors",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Horses\"",
+            "context" : "Excerpt from \"The Book of <mark>Horses\"<\/mark> (فَرَس نامه [رسالة في الخيول)",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "Horses\"",
+            "context" : "...Label Excerpt from \"The Book of <mark>Horses\"<\/mark> (فَرَس نامه [رسالة في الخيول) Artist Bahādur...",
+            "weight" : 1,
+            "pos" : 24 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Horses\"",
+            "context" : "Above: Excerpt from \"The Book of <mark>Horses\"<\/mark> (فَرَس نامه [رسالة في الخيول)",
+            "weight" : 1,
+            "pos" : 126 } ] } ] }

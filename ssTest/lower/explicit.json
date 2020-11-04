@@ -1,0 +1,13 @@
+
+  { "stem" : "explicit",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explicit",
+            "context" : "...artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an <mark>explicit<\/mark> narrative or argument. Though Wax focuses on...",
+            "weight" : 1,
+            "pos" : 34 } ] } ] }

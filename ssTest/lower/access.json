@@ -1,0 +1,23 @@
+
+  { "stem" : "access",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accessible",
+            "context" : "...as such strives to make its collections findable, <mark>accessible<\/mark>, interoperable and reusable.",
+            "weight" : 1,
+            "pos" : 26 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "access",
+            "context" : "...is hyper-aware of differences in resources, control and <mark>access<\/mark> around the world and close to home....",
+            "weight" : 1,
+            "pos" : 62 } ] } ] }

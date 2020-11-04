@@ -1,0 +1,18 @@
+
+  { "stem" : "work",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "work",
+            "context" : "...IIIF, OpenSeaDragon, Rake, and ElasticLunr. Wax builds upon <mark>work<\/mark> by Peter Binkley, David Newbury, and others....",
+            "weight" : 1,
+            "pos" : 48 },
+          
+          { "form" : "working",
+            "context" : "For more on <mark>working<\/mark> with Wax, visit our documentation wiki.",
+            "weight" : 1,
+            "pos" : 74 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "agnost",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "agnostic",
+            "context" : "...The skills needed to create Wax sites are <mark>agnostic<\/mark>. This means they are largely transferable for...",
+            "weight" : 1,
+            "pos" : 114 } ] } ] }

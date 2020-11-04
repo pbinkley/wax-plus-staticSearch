@@ -1,0 +1,38 @@
+
+  { "stem" : "test",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Test",
+            "context" : "<mark>Test<\/mark> search page",
+            "weight" : 2,
+            "pos" : 1 },
+          
+          { "form" : "test",
+            "context" : "...This is a simple search page for the <mark>test<\/mark> collection. It runs a number of automated...",
+            "weight" : 1,
+            "pos" : 7 },
+          
+          { "form" : "tests",
+            "context" : "...test collection. It runs a number of automated <mark>tests<\/mark> on load. Note that the Document type...",
+            "weight" : 1,
+            "pos" : 12 },
+          
+          { "form" : "test",
+            "context" : "...appear sorted in reverse alphabetical order, as a <mark>test<\/mark> of the functionality of the @data-ssFilterSortKey setting;...",
+            "weight" : 1,
+            "pos" : 23 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tests",
+            "context" : "From there, you can run <mark>tests<\/mark> on your site to catch errors and...",
+            "weight" : 1,
+            "pos" : 369 } ] } ] }

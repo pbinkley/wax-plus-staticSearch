@@ -1,0 +1,13 @@
+
+  { "stem" : "newburi",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Newbury",
+            "context" : "...Wax builds upon work by Peter Binkley, David <mark>Newbury<\/mark>, and others.",
+            "weight" : 1,
+            "pos" : 52 } ] } ] }

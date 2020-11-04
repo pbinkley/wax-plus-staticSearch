@@ -1,0 +1,18 @@
+
+  { "stem" : "collabor",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "collaborate",
+            "context" : "...Using Git and GitHub to version control and <mark>collaborate<\/mark> on projects.",
+            "weight" : 1,
+            "pos" : 234 },
+          
+          { "form" : "collaborators",
+            "context" : "...common scenario, students, faculty, colleagues or any other <mark>collaborators<\/mark> just have to provide you with a...",
+            "weight" : 1,
+            "pos" : 308 } ] } ] }

@@ -1,0 +1,38 @@
+
+  { "stem" : "urna",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "urna",
+            "context" : "...aliquet ac, ultrices eu sem. Sed vel aliquet <mark>urna<\/mark>. Mauris quis ex at lectus iaculis elementum...",
+            "weight" : 1,
+            "pos" : 97 },
+          
+          { "form" : "urna",
+            "context" : "...Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi <mark>urna<\/mark>, feugiat sed massa non, ullamcorper efficitur dolor....",
+            "weight" : 1,
+            "pos" : 160 },
+          
+          { "form" : "urna",
+            "context" : "...Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi <mark>urna<\/mark>, feugiat sed massa non, ullamcorper efficitur dolor....",
+            "weight" : 1,
+            "pos" : 385 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "urna",
+            "context" : "...aliquet ac, ultrices eu sem. Sed vel aliquet <mark>urna<\/mark>. Mauris quis ex at lectus iaculis elementum...",
+            "weight" : 1,
+            "pos" : 97 },
+          
+          { "form" : "urna",
+            "context" : "...Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi <mark>urna<\/mark>, feugiat sed massa non, ullamcorper efficitur dolor.2...",
+            "weight" : 1,
+            "pos" : 164 } ] } ] }

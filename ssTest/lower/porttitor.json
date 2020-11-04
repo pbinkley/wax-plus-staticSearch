@@ -1,0 +1,33 @@
+
+  { "stem" : "porttitor",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "porttitor",
+            "context" : "...Nam velit leo, mattis ac dui non, vulputate <mark>porttitor<\/mark> sapien. Praesent in aliquet dui. Nulla facilisi....",
+            "weight" : 1,
+            "pos" : 80 },
+          
+          { "form" : "porttitor",
+            "context" : "...tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, <mark>porttitor<\/mark> sit amet volutpat ac, consequat quis lectus....",
+            "weight" : 1,
+            "pos" : 284 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "porttitor",
+            "context" : "...Nam velit leo, mattis ac dui non, vulputate <mark>porttitor<\/mark> sapien. Praesent in aliquet dui. Nulla facilisi....",
+            "weight" : 1,
+            "pos" : 80 },
+          
+          { "form" : "porttitor",
+            "context" : "...tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, <mark>porttitor<\/mark> sit amet volutpat ac, consequat quis lectus....",
+            "weight" : 1,
+            "pos" : 280 } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "shah",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Shah",
+            "context" : "Portrait of Fath ʾAli <mark>Shah<\/mark>",
+            "weight" : 2,
+            "pos" : 18 },
+          
+          { "form" : "Shah",
+            "context" : "Label Portrait of Fath ʾAli <mark>Shah<\/mark> Artist Mihr ʾAli Type portrait Location Iran...",
+            "weight" : 1,
+            "pos" : 23 } ] } ] }

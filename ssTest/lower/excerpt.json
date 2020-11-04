@@ -1,0 +1,28 @@
+
+  { "stem" : "excerpt",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Excerpt",
+            "context" : "<mark>Excerpt<\/mark> from \"The Book of Horses\" (فَرَس نامه...",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Excerpt",
+            "context" : "Label <mark>Excerpt<\/mark> from \"The Book of Horses\" (فَرَس نامه...",
+            "weight" : 1,
+            "pos" : 22 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Excerpt",
+            "context" : "Above: <mark>Excerpt<\/mark> from \"The Book of Horses\" (فَرَس نامه...",
+            "weight" : 1,
+            "pos" : 124 } ] } ] }

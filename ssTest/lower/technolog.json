@@ -1,0 +1,13 @@
+
+  { "stem" : "technolog",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "technology",
+            "context" : "...on longevity, low costs, and flexibility. Our underlying <mark>technology<\/mark> is made to learn and to teach,...",
+            "weight" : 1,
+            "pos" : 35 } ] } ] }

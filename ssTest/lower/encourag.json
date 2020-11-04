@@ -1,0 +1,13 @@
+
+  { "stem" : "encourag",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "encourage",
+            "context" : "We welcome and <mark>encourage<\/mark> contributors and maintainers. Please get in touch,...",
+            "weight" : 1,
+            "pos" : 55 } ] } ] }

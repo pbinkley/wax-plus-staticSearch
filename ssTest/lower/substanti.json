@@ -1,0 +1,13 @@
+
+  { "stem" : "substanti",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "substantially",
+            "context" : "...Scholarship Librarians or Coordinators. With some practice, Wax <mark>substantially<\/mark> reduces the time to production and post-production...",
+            "weight" : 1,
+            "pos" : 293 } ] } ] }

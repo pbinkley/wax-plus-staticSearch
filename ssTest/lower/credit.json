@@ -1,0 +1,338 @@
+
+  { "stem" : "credit",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "<mark>Credits<\/mark>",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 92 } ] },
+      
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 65 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 74 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 413 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 65 } ] },
+      
+      { "docId" : "search_index",
+        "docUri" : "search\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 30 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 73 } ] },
+      
+      { "docId" : "exhibits_index",
+        "docUri" : "exhibits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 38 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 63 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 391 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 68 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 68 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 91 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 70 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 461 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 79 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 63 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 35 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 72 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Credits",
+            "context" : "Wax Documentation <mark>Credits<\/mark>",
+            "weight" : 1,
+            "pos" : 4 },
+          
+          { "form" : "Credits",
+            "context" : "GitHub \/ <mark>Credits<\/mark> \/ Contact",
+            "weight" : 1,
+            "pos" : 58 } ] } ] }

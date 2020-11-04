@@ -1,0 +1,13 @@
+
+  { "stem" : "render",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rendered",
+            "context" : "...learn and to teach, and can produce beautifully <mark>rendered<\/mark>, high-quality image collections and scholarly exhibits. To...",
+            "weight" : 1,
+            "pos" : 41 } ] } ] }

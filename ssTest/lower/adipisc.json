@@ -1,0 +1,23 @@
+
+  { "stem" : "adipisc",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "adipiscing",
+            "context" : "...faucibus feugiat. Lorem ipsum dolor sit amet, consectetur <mark>adipiscing<\/mark> elit. Mauris pharetra elit sem, et euismod...",
+            "weight" : 1,
+            "pos" : 314 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "adipiscing",
+            "context" : "...faucibus feugiat. Lorem ipsum dolor sit amet, consectetur <mark>adipiscing<\/mark> elit. Mauris pharetra elit sem, et euismod...",
+            "weight" : 1,
+            "pos" : 310 } ] } ] }

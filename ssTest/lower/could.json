@@ -1,0 +1,23 @@
+
+  { "stem" : "could",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "could",
+            "context" : "...Though Wax focuses on images and text, it <mark>could<\/mark> be used for sound or video collections...",
+            "weight" : 1,
+            "pos" : 42 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "could",
+            "context" : "...Page not found :( The requested page <mark>could<\/mark> not be found.",
+            "weight" : 1,
+            "pos" : 20 } ] } ] }

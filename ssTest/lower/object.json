@@ -1,0 +1,13 @@
+
+  { "stem" : "object",
+    "instances" : 
+    [ 
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "objects",
+            "context" : "...This site's sample collection comprises a set of <mark>objects<\/mark>, each of which is represented by one...",
+            "weight" : 1,
+            "pos" : 22 } ] } ] }

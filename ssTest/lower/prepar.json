@@ -1,0 +1,13 @@
+
+  { "stem" : "prepar",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prepare",
+            "context" : "...you run a few command line tasks to <mark>prepare<\/mark> the data and metadata for use by...",
+            "weight" : 1,
+            "pos" : 349 } ] } ] }

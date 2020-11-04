@@ -1,0 +1,18 @@
+
+  { "stem" : "put",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "put",
+            "context" : "...JSON format), organize your collection image files, and <mark>put<\/mark> both in the Jekyll site folder. After...",
+            "weight" : 1,
+            "pos" : 339 },
+          
+          { "form" : "put",
+            "context" : "...catch errors and decide where and how to <mark>put<\/mark> it online or in offline media.",
+            "weight" : 1,
+            "pos" : 374 } ] } ] }

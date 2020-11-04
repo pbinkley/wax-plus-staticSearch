@@ -1,0 +1,38 @@
+
+  { "stem" : "integ",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Integer",
+            "context" : "...ex at lectus iaculis elementum id id massa. <mark>Integer<\/mark> luctus nulla vel tellus rutrum, ac pulvinar...",
+            "weight" : 1,
+            "pos" : 104 },
+          
+          { "form" : "Integer",
+            "context" : "<mark>Integer<\/mark> eu augue elementum, venenatis nisi vitae, ultrices...",
+            "weight" : 1,
+            "pos" : 227 },
+          
+          { "form" : "Integer",
+            "context" : "<mark>Integer<\/mark> eu augue elementum, venenatis nisi vitae, ultrices...",
+            "weight" : 1,
+            "pos" : 353 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Integer",
+            "context" : "...ex at lectus iaculis elementum id id massa. <mark>Integer<\/mark> luctus nulla vel tellus rutrum, ac pulvinar...",
+            "weight" : 1,
+            "pos" : 104 },
+          
+          { "form" : "Integer",
+            "context" : "<mark>Integer<\/mark> eu augue elementum, venenatis nisi vitae, ultrices...",
+            "weight" : 1,
+            "pos" : 223 } ] } ] }

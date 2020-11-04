@@ -1,0 +1,28 @@
+
+  { "stem" : "Al-mutaʾa",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Al-Mutaʾa",
+            "context" : "Sulwan <mark>Al-Mutaʾa<\/mark>",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "Al-Mutaʾa",
+            "context" : "Label Sulwan <mark>Al-Mutaʾa<\/mark> Artist Unknown Type manuscript Location Egypt Current...",
+            "weight" : 1,
+            "pos" : 20 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Al-Mutaʾa",
+            "context" : "Above: Sulwan <mark>Al-Mutaʾa<\/mark>",
+            "weight" : 1,
+            "pos" : 349 } ] } ] }

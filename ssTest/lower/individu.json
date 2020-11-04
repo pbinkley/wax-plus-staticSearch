@@ -1,0 +1,13 @@
+
+  { "stem" : "individu",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "individuals",
+            "context" : "Wax was created for <mark>individuals<\/mark> and groups who either don't have or...",
+            "weight" : 1,
+            "pos" : 184 } ] } ] }

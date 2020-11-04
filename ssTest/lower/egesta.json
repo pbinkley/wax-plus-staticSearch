@@ -1,0 +1,33 @@
+
+  { "stem" : "egesta",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "egestas",
+            "context" : "...nibh cursus fringilla. Aenean nec magna turpis. Suspendisse <mark>egestas<\/mark> tellus iaculis ante pharetra imperdiet ac at...",
+            "weight" : 1,
+            "pos" : 220 },
+          
+          { "form" : "egestas",
+            "context" : "...nibh cursus fringilla. Aenean nec magna turpis. Suspendisse <mark>egestas<\/mark> tellus iaculis ante pharetra imperdiet ac at...",
+            "weight" : 1,
+            "pos" : 393 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "egestas",
+            "context" : "...nibh cursus fringilla. Aenean nec magna turpis. Suspendisse <mark>egestas<\/mark> tellus iaculis ante pharetra imperdiet ac at...",
+            "weight" : 1,
+            "pos" : 216 },
+          
+          { "form" : "egestas",
+            "context" : "...nibh cursus fringilla. Aenean nec magna turpis. Suspendisse <mark>egestas<\/mark> tellus iaculis ante pharetra imperdiet ac at...",
+            "weight" : 1,
+            "pos" : 441 } ] } ] }

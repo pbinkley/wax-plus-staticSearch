@@ -1,0 +1,33 @@
+
+  { "stem" : "nation",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "National",
+            "context" : "...WikiMedia and Google Art Project) and The Qatar <mark>National<\/mark> Library (via World Digital Library).",
+            "weight" : 1,
+            "pos" : 70 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "National",
+            "context" : "...Middle East and North Africa Current Location Qatar <mark>National<\/mark> Library Date Around 1628 - 1658 Source...",
+            "weight" : 1,
+            "pos" : 44 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "National",
+            "context" : "...WikiMedia and Google Art Project) and The Qatar <mark>National<\/mark> Library (via World Digital Library).",
+            "weight" : 1,
+            "pos" : 39 } ] } ] }

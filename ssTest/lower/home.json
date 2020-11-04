@@ -1,0 +1,13 @@
+
+  { "stem" : "home",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "home",
+            "context" : "...and access around the world and close to <mark>home<\/mark>. As a result, it is purposefully lightweight:...",
+            "weight" : 1,
+            "pos" : 66 } ] } ] }

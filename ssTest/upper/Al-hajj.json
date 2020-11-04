@@ -1,0 +1,13 @@
+
+  { "stem" : "Al-hajj",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Al-Hajj",
+            "context" : "...Label The Dalaʾil al-Khayrat of al-Juzuli Artist <mark>Al-Hajj<\/mark> Hafiz Muhammad Nuri Type manuscript Location Turkey...",
+            "weight" : 1,
+            "pos" : 27 } ] } ] }

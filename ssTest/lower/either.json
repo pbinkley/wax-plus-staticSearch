@@ -1,0 +1,13 @@
+
+  { "stem" : "either",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "either",
+            "context" : "...Wax was created for individuals and groups who <mark>either<\/mark> don't have or don't want to use...",
+            "weight" : 1,
+            "pos" : 186 } ] } ] }

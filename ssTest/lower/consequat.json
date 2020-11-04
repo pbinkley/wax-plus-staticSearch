@@ -1,0 +1,23 @@
+
+  { "stem" : "consequat",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "consequat",
+            "context" : "...Sed sem felis, porttitor sit amet volutpat ac, <mark>consequat<\/mark> quis lectus. Donec elementum dignissim vehicula. Pellentesque...",
+            "weight" : 1,
+            "pos" : 288 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "consequat",
+            "context" : "...Sed sem felis, porttitor sit amet volutpat ac, <mark>consequat<\/mark> quis lectus. Donec elementum dignissim vehicula. Pellentesque...",
+            "weight" : 1,
+            "pos" : 284 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "complex",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "complex",
+            "context" : "...files that don't need to communicate in a <mark>complex<\/mark> way back to a server. This makes...",
+            "weight" : 1,
+            "pos" : 99 } ] } ] }

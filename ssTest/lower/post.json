@@ -1,0 +1,23 @@
+
+  { "stem" : "post",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "post",
+            "context" : "...please create an issue on our repository or <mark>post<\/mark> a comment on Gitter.",
+            "weight" : 1,
+            "pos" : 71 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "post",
+            "context" : "...Wax substantially reduces the time to production and <mark>post<\/mark>-production maintenance costs for you and your team....",
+            "weight" : 1,
+            "pos" : 298 } ] } ] }

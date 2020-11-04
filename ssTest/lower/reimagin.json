@@ -1,0 +1,13 @@
+
+  { "stem" : "reimagin",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reimagine",
+            "context" : "...for you or others to share, reuse and <mark>reimagine<\/mark> your collection data in other contexts.",
+            "weight" : 1,
+            "pos" : 177 } ] } ] }

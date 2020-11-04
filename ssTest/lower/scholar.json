@@ -1,0 +1,28 @@
+
+  { "stem" : "scholar",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "scholarly",
+            "context" : "...records and builds around them, handling canonical information, <mark>scholarly<\/mark> content, and site styling differently and deliberately....",
+            "weight" : 1,
+            "pos" : 166 },
+          
+          { "form" : "scholarly",
+            "context" : "...use a lot of resources to create their <mark>scholarly<\/mark> or cultural exhibits. It's best suited for...",
+            "weight" : 1,
+            "pos" : 192 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scholarly",
+            "context" : "...can produce beautifully rendered, high-quality image collections and <mark>scholarly<\/mark> exhibits. To start using Wax, please see...",
+            "weight" : 1,
+            "pos" : 47 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "see",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "see",
+            "context" : "...and scholarly exhibits. To start using Wax, please <mark>see<\/mark> our documentation for installation instructions and more....",
+            "weight" : 1,
+            "pos" : 53 } ] } ] }

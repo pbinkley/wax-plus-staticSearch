@@ -1,0 +1,13 @@
+
+  { "stem" : "repres",
+    "instances" : 
+    [ 
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "represented",
+            "context" : "...a set of objects, each of which is <mark>represented<\/mark> by one or more images. The collection...",
+            "weight" : 1,
+            "pos" : 23 } ] } ] }

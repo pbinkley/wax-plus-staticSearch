@@ -1,0 +1,23 @@
+
+  { "stem" : "focus",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "focuses",
+            "context" : "...by an explicit narrative or argument. Though Wax <mark>focuses<\/mark> on images and text, it could be...",
+            "weight" : 1,
+            "pos" : 39 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "focused",
+            "context" : "...a minimal computing project for producing digital exhibitions <mark>focused<\/mark> on longevity, low costs, and flexibility. Our...",
+            "weight" : 1,
+            "pos" : 29 } ] } ] }

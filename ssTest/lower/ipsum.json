@@ -1,0 +1,48 @@
+
+  { "stem" : "ipsum",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ipsum",
+            "context" : "...libero, a pharetra ligula posuere sit amet. Sed <mark>ipsum<\/mark> dolor, elementum eget nisl eget, sagittis vestibulum...",
+            "weight" : 1,
+            "pos" : 136 },
+          
+          { "form" : "ipsum",
+            "context" : "...neque. Duis faucibus diam vitae faucibus feugiat. Lorem <mark>ipsum<\/mark> dolor sit amet, consectetur adipiscing elit. Mauris...",
+            "weight" : 1,
+            "pos" : 305 },
+          
+          { "form" : "ipsum",
+            "context" : "...sem, et euismod massa mattis ut. Phasellus maximus <mark>ipsum<\/mark> in nulla sollicitudin viverra. Morbi semper lectus...",
+            "weight" : 1,
+            "pos" : 321 },
+          
+          { "form" : "ipsum",
+            "context" : "...libero, a pharetra ligula posuere sit amet. Sed <mark>ipsum<\/mark> dolor, elementum eget nisl eget, sagittis vestibulum...",
+            "weight" : 1,
+            "pos" : 361 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ipsum",
+            "context" : "...libero, a pharetra ligula posuere sit amet. Sed <mark>ipsum<\/mark> dolor, elementum eget nisl eget, sagittis vestibulum...",
+            "weight" : 1,
+            "pos" : 140 },
+          
+          { "form" : "ipsum",
+            "context" : "...neque. Duis faucibus diam vitae faucibus feugiat. Lorem <mark>ipsum<\/mark> dolor sit amet, consectetur adipiscing elit. Mauris...",
+            "weight" : 1,
+            "pos" : 309 },
+          
+          { "form" : "ipsum",
+            "context" : "...sem, et euismod massa mattis ut. Phasellus maximus <mark>ipsum<\/mark> in nulla sollicitudin viverra. Morbi semper lectus...",
+            "weight" : 1,
+            "pos" : 325 } ] } ] }

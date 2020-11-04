@@ -1,0 +1,33 @@
+
+  { "stem" : "vehicula",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "vehicula",
+            "context" : "...orci aliquet sodales. Aliquam commodo eros at sagittis <mark>vehicula<\/mark>. Quisque in massa turpis. Aliquam aliquam consectetur...",
+            "weight" : 1,
+            "pos" : 255 },
+          
+          { "form" : "vehicula",
+            "context" : "...volutpat ac, consequat quis lectus. Donec elementum dignissim <mark>vehicula<\/mark>. Pellentesque fringilla ex bibendum, ornare sapien a,...",
+            "weight" : 1,
+            "pos" : 294 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "vehicula",
+            "context" : "...orci aliquet sodales. Aliquam commodo eros at sagittis <mark>vehicula<\/mark>. Quisque in massa turpis. Aliquam aliquam consectetur...",
+            "weight" : 1,
+            "pos" : 251 },
+          
+          { "form" : "vehicula",
+            "context" : "...volutpat ac, consequat quis lectus. Donec elementum dignissim <mark>vehicula<\/mark>. Pellentesque fringilla ex bibendum, ornare sapien a,...",
+            "weight" : 1,
+            "pos" : 290 } ] } ] }

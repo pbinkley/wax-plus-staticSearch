@@ -1,0 +1,23 @@
+
+  { "stem" : "item",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "items",
+            "context" : "The collection <mark>items<\/mark> in this demo are from The Museum...",
+            "weight" : 1,
+            "pos" : 58 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "items",
+            "context" : "...represented by one or more images. The collection <mark>items<\/mark> in this demo are from The Museum...",
+            "weight" : 1,
+            "pos" : 27 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "post-product",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "post-production",
+            "context" : "...Wax substantially reduces the time to production and <mark>post-production<\/mark> maintenance costs for you and your team....",
+            "weight" : 1,
+            "pos" : 297 } ] } ] }

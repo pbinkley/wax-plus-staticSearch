@@ -1,0 +1,23 @@
+
+  { "stem" : "note",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Notes",
+            "context" : "<mark>Notes<\/mark>",
+            "weight" : 2,
+            "pos" : 352 } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Note",
+            "context" : "...runs a number of automated tests on load. <mark>Note<\/mark> that the Document type options should appear...",
+            "weight" : 1,
+            "pos" : 14 } ] } ] }

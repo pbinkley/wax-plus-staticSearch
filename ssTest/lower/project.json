@@ -1,0 +1,63 @@
+
+  { "stem" : "project",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "project",
+            "context" : "Wax is a minimal computing (minicomp) <mark>project<\/mark> led by Marii Nyröp. The project is...",
+            "weight" : 1,
+            "pos" : 20 },
+          
+          { "form" : "project",
+            "context" : "...computing (minicomp) project led by Marii Nyröp. The <mark>project<\/mark> is currently maintained by Marii Nyröp and...",
+            "weight" : 1,
+            "pos" : 24 },
+          
+          { "form" : "project",
+            "context" : "...maintainers. Please get in touch, or fork the <mark>project<\/mark> on GitHub. If you encounter any issue...",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "projects",
+            "context" : "...are largely transferable for use in other digital <mark>projects<\/mark>. 'Learning Wax' does not mean learning how...",
+            "weight" : 1,
+            "pos" : 120 },
+          
+          { "form" : "projects",
+            "context" : "...and GitHub to version control and collaborate on <mark>projects<\/mark>.",
+            "weight" : 1,
+            "pos" : 235 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "project",
+            "context" : "Wax is a minimal computing <mark>project<\/mark> for producing digital exhibitions focused on longevity,...",
+            "weight" : 1,
+            "pos" : 25 },
+          
+          { "form" : "Project",
+            "context" : "...Art, Qatar, (courtesy of WikiMedia and Google Art <mark>Project<\/mark>) and The Qatar National Library (via World...",
+            "weight" : 1,
+            "pos" : 68 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Project",
+            "context" : "...Art, Qatar, (courtesy of WikiMedia and Google Art <mark>Project<\/mark>) and The Qatar National Library (via World...",
+            "weight" : 1,
+            "pos" : 37 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "text",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "text",
+            "context" : "...or argument. Though Wax focuses on images and <mark>text<\/mark>, it could be used for sound or...",
+            "weight" : 1,
+            "pos" : 41 },
+          
+          { "form" : "text",
+            "context" : "...fundamentals of web development, data management, and plain <mark>text<\/mark> editing while leveraging a few great open...",
+            "weight" : 1,
+            "pos" : 135 },
+          
+          { "form" : "text",
+            "context" : "...you with a properly formatted spreadsheet and the <mark>text<\/mark> for the exhibits. The extras are up...",
+            "weight" : 1,
+            "pos" : 313 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "cost",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "costs",
+            "context" : "...reduces the time to production and post-production maintenance <mark>costs<\/mark> for you and your team. In the...",
+            "weight" : 1,
+            "pos" : 301 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "costs",
+            "context" : "...for producing digital exhibitions focused on longevity, low <mark>costs<\/mark>, and flexibility. Our underlying technology is made...",
+            "weight" : 1,
+            "pos" : 32 } ] } ] }

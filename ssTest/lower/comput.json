@@ -1,0 +1,38 @@
+
+  { "stem" : "comput",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "computing",
+            "context" : "...Wax is an extensible workflow based on minimal <mark>computing<\/mark> principles. Wax is hyper-aware of differences in...",
+            "weight" : 1,
+            "pos" : 53 },
+          
+          { "form" : "computer",
+            "context" : "...with programs, files, and directories on your local <mark>computer<\/mark>.",
+            "weight" : 1,
+            "pos" : 228 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "computing",
+            "context" : "Wax is a minimal <mark>computing<\/mark> (minicomp) project led by Marii Nyröp. The...",
+            "weight" : 1,
+            "pos" : 18 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "computing",
+            "context" : "Wax is a minimal <mark>computing<\/mark> project for producing digital exhibitions focused on...",
+            "weight" : 1,
+            "pos" : 24 } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "molesti",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "molestie",
+            "context" : "...erat efficitur bibendum. Ut laoreet elit nec dolor <mark>molestie<\/mark> finibus. Vivamus justo risus, scelerisque nec dolor...",
+            "weight" : 1,
+            "pos" : 34 },
+          
+          { "form" : "molestie",
+            "context" : "...eget pharetra posuere, nibh sem eleifend lectus, lobortis <mark>molestie<\/mark> ante libero non metus. Aenean et est...",
+            "weight" : 1,
+            "pos" : 179 },
+          
+          { "form" : "molestie",
+            "context" : "...magna non dignissim. Sed fringilla a ligula vitae <mark>molestie<\/mark>.",
+            "weight" : 1,
+            "pos" : 265 },
+          
+          { "form" : "molestie",
+            "context" : "...eget pharetra posuere, nibh sem eleifend lectus, lobortis <mark>molestie<\/mark> ante libero non metus. Aenean et est...",
+            "weight" : 1,
+            "pos" : 404 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "molestie",
+            "context" : "...erat efficitur bibendum. Ut laoreet elit nec dolor <mark>molestie<\/mark> finibus. Vivamus justo risus, scelerisque nec dolor...",
+            "weight" : 1,
+            "pos" : 34 },
+          
+          { "form" : "molestie",
+            "context" : "...eget pharetra posuere, nibh sem eleifend lectus, lobortis <mark>molestie<\/mark> ante libero non metus. Aenean et est...",
+            "weight" : 1,
+            "pos" : 183 },
+          
+          { "form" : "molestie",
+            "context" : "...magna non dignissim. Sed fringilla a ligula vitae <mark>molestie<\/mark>.",
+            "weight" : 1,
+            "pos" : 269 } ] } ] }

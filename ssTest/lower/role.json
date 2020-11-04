@@ -1,0 +1,13 @@
+
+  { "stem" : "role",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "role",
+            "context" : "...also phenomenal for professionals who play a facilitating <mark>role<\/mark>, such as Digital Scholarship Librarians or Coordinators....",
+            "weight" : 1,
+            "pos" : 286 } ] } ] }

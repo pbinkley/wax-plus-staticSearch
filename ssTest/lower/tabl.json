@@ -1,0 +1,13 @@
+
+  { "stem" : "tabl",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "table",
+            "context" : "...demo site comes with a specific _include called interactive_metadata_<mark>table<\/mark> to help you make pages like this...",
+            "weight" : 1,
+            "pos" : 37 } ] } ] }

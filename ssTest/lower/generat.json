@@ -1,0 +1,13 @@
+
+  { "stem" : "generat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "generate",
+            "context" : "Using Jekyll to <mark>generate<\/mark> static sites.",
+            "weight" : 1,
+            "pos" : 238 } ] } ] }

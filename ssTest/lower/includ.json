@@ -1,0 +1,23 @@
+
+  { "stem" : "includ",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "including",
+            "context" : "...Libraries. It uses open source libraries and frameworks <mark>including<\/mark> Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr. Wax...",
+            "weight" : 1,
+            "pos" : 39 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "include",
+            "context" : "...The demo site comes with a specific<mark>include<\/mark> called interactive_metadata_table to help you make pages...",
+            "weight" : 1,
+            "pos" : 33 } ] } ] }

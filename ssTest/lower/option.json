@@ -1,0 +1,18 @@
+
+  { "stem" : "option",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "options",
+            "context" : "...tests on load. Note that the Document type <mark>options<\/mark> should appear sorted in reverse alphabetical order,...",
+            "weight" : 1,
+            "pos" : 17 },
+          
+          { "form" : "options",
+            "context" : "...of the @data-ssFilterSortKey setting; the Random numeric value <mark>options<\/mark> should appear in ascending numeric order although...",
+            "weight" : 1,
+            "pos" : 32 } ] } ] }

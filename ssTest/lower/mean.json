@@ -1,0 +1,23 @@
+
+  { "stem" : "mean",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "means",
+            "context" : "...exhibition sites created by Wax are static. This <mark>means<\/mark> they consist of flat HTML, CSS, and...",
+            "weight" : 1,
+            "pos" : 90 },
+          
+          { "form" : "means",
+            "context" : "...needed to create Wax sites are agnostic. This <mark>means<\/mark> they are largely transferable for use in...",
+            "weight" : 1,
+            "pos" : 115 },
+          
+          { "form" : "mean",
+            "context" : "...in other digital projects. 'Learning Wax' does not <mark>mean<\/mark> learning how to use a platform. It...",
+            "weight" : 1,
+            "pos" : 123 } ] } ] }

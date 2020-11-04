@@ -1,0 +1,13 @@
+
+  { "stem" : "paint",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "paintings",
+            "context" : "...exhibit is a collection of curated cultural artifacts—manuscripts, <mark>paintings<\/mark>, photographs, sculptures, etc—often accompanied by an explicit...",
+            "weight" : 1,
+            "pos" : 28 } ] } ] }

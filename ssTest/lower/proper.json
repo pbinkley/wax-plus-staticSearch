@@ -1,0 +1,13 @@
+
+  { "stem" : "proper",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "properly",
+            "context" : "...collaborators just have to provide you with a <mark>properly<\/mark> formatted spreadsheet and the text for the...",
+            "weight" : 1,
+            "pos" : 310 } ] } ] }

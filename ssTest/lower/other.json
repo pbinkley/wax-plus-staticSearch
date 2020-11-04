@@ -1,0 +1,23 @@
+
+  { "stem" : "other",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "context" : "...upon work by Peter Binkley, David Newbury, and <mark>others<\/mark>.",
+            "weight" : 1,
+            "pos" : 53 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "context" : "...deliberately. This makes it easier for you or <mark>others<\/mark> to share, reuse and reimagine your collection...",
+            "weight" : 1,
+            "pos" : 174 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "style",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "styling",
+            "context" : "...them, handling canonical information, scholarly content, and site <mark>styling<\/mark> differently and deliberately. This makes it easier...",
+            "weight" : 1,
+            "pos" : 169 } ] } ] }

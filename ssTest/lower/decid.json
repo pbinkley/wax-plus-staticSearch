@@ -1,0 +1,13 @@
+
+  { "stem" : "decid",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "decide",
+            "context" : "...tests on your site to catch errors and <mark>decide<\/mark> where and how to put it online...",
+            "weight" : 1,
+            "pos" : 373 } ] } ] }

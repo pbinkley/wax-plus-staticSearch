@@ -1,0 +1,18 @@
+
+  { "stem" : "issu",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "issue",
+            "context" : "...the project on GitHub. If you encounter any <mark>issue<\/mark> with the software, please create an issue...",
+            "weight" : 1,
+            "pos" : 65 },
+          
+          { "form" : "issue",
+            "context" : "...any issue with the software, please create an <mark>issue<\/mark> on our repository or post a comment...",
+            "weight" : 1,
+            "pos" : 69 } ] } ] }

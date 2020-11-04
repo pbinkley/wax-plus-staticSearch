@@ -1,0 +1,23 @@
+
+  { "stem" : "configur",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "configuration",
+            "context" : "...in the Jekyll site folder. After updating your <mark>configuration<\/mark>, you run a few command line tasks...",
+            "weight" : 1,
+            "pos" : 344 } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "configured",
+            "context" : "...numeric order although they do not have a <mark>configured<\/mark> @data-ssFilterSortKey setting.",
+            "weight" : 1,
+            "pos" : 38 } ] } ] }

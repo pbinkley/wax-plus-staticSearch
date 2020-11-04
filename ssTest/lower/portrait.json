@@ -1,0 +1,73 @@
+
+  { "stem" : "portrait",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Portrait",
+            "context" : "<mark>Portrait<\/mark> of Hasan ʾAli Mirza Shuja al-Saltana",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Portrait",
+            "context" : "Label <mark>Portrait<\/mark> of Hasan ʾAli Mirza Shuja al-Saltana Artist...",
+            "weight" : 1,
+            "pos" : 23 },
+          
+          { "form" : "portrait",
+            "context" : "...Hasan ʾAli Mirza Shuja al-Saltana Artist Unknown Type <mark>portrait<\/mark> Location Iran Current Location The Museum of...",
+            "weight" : 1,
+            "pos" : 33 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Portrait",
+            "context" : "<mark>Portrait<\/mark> of Fath ʾAli Shah",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Portrait",
+            "context" : "Label <mark>Portrait<\/mark> of Fath ʾAli Shah Artist Mihr ʾAli...",
+            "weight" : 1,
+            "pos" : 20 },
+          
+          { "form" : "portrait",
+            "context" : "...of Fath ʾAli Shah Artist Mihr ʾAli Type <mark>portrait<\/mark> Location Iran Current Location The Museum of...",
+            "weight" : 1,
+            "pos" : 28 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Portrait",
+            "context" : "<mark>Portrait<\/mark> of Sheikh Ali Mirza",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Portrait",
+            "context" : "Label <mark>Portrait<\/mark> of Sheikh Ali Mirza Artist Unknown Type...",
+            "weight" : 1,
+            "pos" : 20 },
+          
+          { "form" : "portrait",
+            "context" : "...Portrait of Sheikh Ali Mirza Artist Unknown Type <mark>portrait<\/mark> Location Iran Current Location The Museum of...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Portrait",
+            "context" : "Above: <mark>Portrait<\/mark> of Hasan ʾAli Mirza Shuja al-Saltana",
+            "weight" : 1,
+            "pos" : 15 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "diagram",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diagram",
+            "context" : "Below is a <mark>diagram<\/mark> to give you a zoomed-out view. In...",
+            "weight" : 1,
+            "pos" : 320 } ] } ] }

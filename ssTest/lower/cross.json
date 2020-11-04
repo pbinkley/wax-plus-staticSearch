@@ -1,0 +1,18 @@
+
+  { "stem" : "cross",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "crosses",
+            "context" : "Faridun <mark>crosses<\/mark> the River Dijla, fol. 33v",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "crosses",
+            "context" : "Label Faridun <mark>crosses<\/mark> the River Dijla, fol. 33v Artist Unknown...",
+            "weight" : 1,
+            "pos" : 22 } ] } ] }

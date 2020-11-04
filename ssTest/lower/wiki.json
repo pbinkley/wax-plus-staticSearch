@@ -1,0 +1,13 @@
+
+  { "stem" : "wiki",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wiki",
+            "context" : "...more on working with Wax, visit our documentation <mark>wiki<\/mark>.",
+            "weight" : 1,
+            "pos" : 78 } ] } ] }

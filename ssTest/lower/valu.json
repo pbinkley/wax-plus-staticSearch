@@ -1,0 +1,13 @@
+
+  { "stem" : "valu",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "value",
+            "context" : "...functionality of the @data-ssFilterSortKey setting; the Random numeric <mark>value<\/mark> options should appear in ascending numeric order...",
+            "weight" : 1,
+            "pos" : 31 } ] } ] }

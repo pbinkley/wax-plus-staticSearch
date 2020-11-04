@@ -1,0 +1,13 @@
+
+  { "stem" : "though",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Though",
+            "context" : "...etc—often accompanied by an explicit narrative or argument. <mark>Though<\/mark> Wax focuses on images and text, it...",
+            "weight" : 1,
+            "pos" : 37 } ] } ] }

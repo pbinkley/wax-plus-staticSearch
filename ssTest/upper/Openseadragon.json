@@ -1,0 +1,13 @@
+
+  { "stem" : "Openseadragon",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "OpenSeaDragon",
+            "context" : "...open source libraries and frameworks including Jekyll, IIIF, <mark>OpenSeaDragon<\/mark>, Rake, and ElasticLunr. Wax builds upon work...",
+            "weight" : 1,
+            "pos" : 42 } ] } ] }

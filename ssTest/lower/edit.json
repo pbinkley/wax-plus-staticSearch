@@ -1,0 +1,18 @@
+
+  { "stem" : "edit",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "editing",
+            "context" : "...of web development, data management, and plain text <mark>editing<\/mark> while leveraging a few great open source...",
+            "weight" : 1,
+            "pos" : 136 },
+          
+          { "form" : "Editing",
+            "context" : "<mark>Editing<\/mark> HTML, CSS, and some JavaScript.",
+            "weight" : 1,
+            "pos" : 255 } ] } ] }

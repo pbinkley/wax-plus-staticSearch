@@ -1,0 +1,28 @@
+
+  { "stem" : "book",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Book",
+            "context" : "Excerpt from \"The <mark>Book<\/mark> of Horses\" (فَرَس نامه [رسالة في الخيول)...",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "Book",
+            "context" : "Label Excerpt from \"The <mark>Book<\/mark> of Horses\" (فَرَس نامه [رسالة في الخيول)...",
+            "weight" : 1,
+            "pos" : 23 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Book",
+            "context" : "Above: Excerpt from \"The <mark>Book<\/mark> of Horses\" (فَرَس نامه [رسالة في الخيول)...",
+            "weight" : 1,
+            "pos" : 125 } ] } ] }

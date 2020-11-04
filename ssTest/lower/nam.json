@@ -1,0 +1,33 @@
+
+  { "stem" : "nam",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nam",
+            "context" : "...risus, scelerisque nec dolor ut, pretium fringilla purus. <mark>Nam<\/mark> nisl erat, tristique ac libero vitae, bibendum...",
+            "weight" : 1,
+            "pos" : 45 },
+          
+          { "form" : "Nam",
+            "context" : "<mark>Nam<\/mark> velit leo, mattis ac dui non, vulputate...",
+            "weight" : 1,
+            "pos" : 73 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nam",
+            "context" : "...risus, scelerisque nec dolor ut, pretium fringilla purus. <mark>Nam<\/mark> nisl erat, tristique ac libero vitae, bibendum...",
+            "weight" : 1,
+            "pos" : 45 },
+          
+          { "form" : "Nam",
+            "context" : "<mark>Nam<\/mark> velit leo, mattis ac dui non, vulputate...",
+            "weight" : 1,
+            "pos" : 73 } ] } ] }

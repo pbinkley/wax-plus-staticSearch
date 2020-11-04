@@ -1,0 +1,28 @@
+
+  { "stem" : "hasan",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Hasan",
+            "context" : "Portrait of <mark>Hasan<\/mark> ʾAli Mirza Shuja al-Saltana",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "Hasan",
+            "context" : "Label Portrait of <mark>Hasan<\/mark> ʾAli Mirza Shuja al-Saltana Artist Unknown Type...",
+            "weight" : 1,
+            "pos" : 24 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hasan",
+            "context" : "Above: Portrait of <mark>Hasan<\/mark> ʾAli Mirza Shuja al-Saltana",
+            "weight" : 1,
+            "pos" : 16 } ] } ] }

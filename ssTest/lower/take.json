@@ -1,0 +1,13 @@
+
+  { "stem" : "take",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "take",
+            "context" : "...best suited for folks who are willing to <mark>take<\/mark> on some technical responsibility in exchange for...",
+            "weight" : 1,
+            "pos" : 199 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "program",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "programs",
+            "context" : "...shell (e.g., Bash\/Terminal) to install and interact with <mark>programs<\/mark>, files, and directories on your local computer....",
+            "weight" : 1,
+            "pos" : 224 } ] } ] }

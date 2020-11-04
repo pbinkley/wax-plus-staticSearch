@@ -1,0 +1,13 @@
+
+  { "stem" : "scenario",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scenario",
+            "context" : "...you and your team. In the most common <mark>scenario<\/mark>, students, faculty, colleagues or any other collaborators...",
+            "weight" : 1,
+            "pos" : 304 } ] } ] }

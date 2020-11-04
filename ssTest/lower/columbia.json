@@ -1,0 +1,13 @@
+
+  { "stem" : "columbia",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Columbia",
+            "context" : "...maintained by Marii Nyröp and Alex Gil at <mark>Columbia<\/mark> University Libraries. It uses open source libraries...",
+            "weight" : 1,
+            "pos" : 31 } ] } ] }

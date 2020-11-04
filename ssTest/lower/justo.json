@@ -1,0 +1,33 @@
+
+  { "stem" : "justo",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "justo",
+            "context" : "...Ut laoreet elit nec dolor molestie finibus. Vivamus <mark>justo<\/mark> risus, scelerisque nec dolor ut, pretium fringilla...",
+            "weight" : 1,
+            "pos" : 37 },
+          
+          { "form" : "justo",
+            "context" : "...accumsan ut mauris ut euismod. Etiam mattis a <mark>justo<\/mark> eget blandit. Aliquam vitae magna eget nisi...",
+            "weight" : 1,
+            "pos" : 60 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "justo",
+            "context" : "...Ut laoreet elit nec dolor molestie finibus. Vivamus <mark>justo<\/mark> risus, scelerisque nec dolor ut, pretium fringilla...",
+            "weight" : 1,
+            "pos" : 37 },
+          
+          { "form" : "justo",
+            "context" : "...accumsan ut mauris ut euismod. Etiam mattis a <mark>justo<\/mark> eget blandit. Aliquam vitae magna eget nisi...",
+            "weight" : 1,
+            "pos" : 60 } ] } ] }

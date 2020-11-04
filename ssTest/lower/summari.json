@@ -1,0 +1,13 @@
+
+  { "stem" : "summari",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "summary",
+            "context" : "...diagram to give you a zoomed-out view. In <mark>summary<\/mark>, you create a file of metadata records...",
+            "weight" : 1,
+            "pos" : 325 } ] } ] }

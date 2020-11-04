@@ -1,0 +1,13 @@
+
+  { "stem" : "spit",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spits",
+            "context" : "...and Wax components to build the exhibit and <mark>spits<\/mark> them out as static pages ready to...",
+            "weight" : 1,
+            "pos" : 363 } ] } ] }

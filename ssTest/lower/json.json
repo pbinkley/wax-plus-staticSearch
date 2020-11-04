@@ -1,0 +1,138 @@
+
+  { "stem" : "json",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "JSON",
+            "context" : "...Creating and normalizing data files (e.g., CSV, <mark>JSON<\/mark>, YAML)",
+            "weight" : 1,
+            "pos" : 246 },
+          
+          { "form" : "JSON",
+            "context" : "...records for your collection (in CSV, YAML, or <mark>JSON<\/mark> format), organize your collection image files, and...",
+            "weight" : 1,
+            "pos" : 333 } ] },
+      
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Qatar Date 16th century Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj6\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 51 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Date 1800 - 1850 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj10\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 60 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Date 1525 - 1535 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj7\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 50 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Qatar Date 14th century Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj2\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 51 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Art, Qatar Date 1801 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj1\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 59 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Art, Qatar Date 1816 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj9\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 54 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Date 1800 - 1850 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj11\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 54 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Date 1525 - 1535 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj4\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 56 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Date 1600 - 1625 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj5\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 50 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Around 1628 - 1658 Source www.wdl.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj12\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 65 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Qatar Date 15th century Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj3\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 49 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "json",
+            "context" : "...Date 1550 - 1650 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj8\/manifest.<mark>json<\/mark> ",
+            "weight" : 1,
+            "pos" : 58 } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "Csv",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "CSV",
+            "context" : "Creating and normalizing data files (e.g., <mark>CSV<\/mark>, JSON, YAML)",
+            "weight" : 1,
+            "pos" : 245 },
+          
+          { "form" : "CSV",
+            "context" : "...file of metadata records for your collection (in <mark>CSV<\/mark>, YAML, or JSON format), organize your collection...",
+            "weight" : 1,
+            "pos" : 331 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "sculptur",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sculptures",
+            "context" : "...a collection of curated cultural artifacts—manuscripts, paintings, photographs, <mark>sculptures<\/mark>, etc—often accompanied by an explicit narrative or...",
+            "weight" : 1,
+            "pos" : 30 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "creation",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "creation",
+            "context" : "...above! For examples of digital pedagogy via the <mark>creation<\/mark> of Wax exhibitions, check out this workshop,...",
+            "weight" : 1,
+            "pos" : 270 } ] } ] }

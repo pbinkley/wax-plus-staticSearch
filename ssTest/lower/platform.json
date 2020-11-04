@@ -1,0 +1,13 @@
+
+  { "stem" : "platform",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "platform",
+            "context" : "...does not mean learning how to use a <mark>platform<\/mark>. It involves learning the fundamentals of web...",
+            "weight" : 1,
+            "pos" : 126 } ] } ] }

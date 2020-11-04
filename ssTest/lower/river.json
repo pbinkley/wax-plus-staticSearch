@@ -1,0 +1,18 @@
+
+  { "stem" : "river",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "River",
+            "context" : "Faridun crosses the <mark>River<\/mark> Dijla, fol. 33v",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "River",
+            "context" : "Label Faridun crosses the <mark>River<\/mark> Dijla, fol. 33v Artist Unknown Type manuscript...",
+            "weight" : 1,
+            "pos" : 23 } ] } ] }

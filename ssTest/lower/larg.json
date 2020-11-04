@@ -1,0 +1,13 @@
+
+  { "stem" : "larg",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "largely",
+            "context" : "...Wax sites are agnostic. This means they are <mark>largely<\/mark> transferable for use in other digital projects....",
+            "weight" : 1,
+            "pos" : 116 } ] } ] }

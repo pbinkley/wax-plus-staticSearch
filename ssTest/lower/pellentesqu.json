@@ -1,0 +1,53 @@
+
+  { "stem" : "pellentesqu",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "pellentesque",
+            "context" : "...Nam nisl erat, tristique ac libero vitae, bibendum <mark>pellentesque<\/mark> nulla. Praesent accumsan ut mauris ut euismod....",
+            "weight" : 1,
+            "pos" : 52 },
+          
+          { "form" : "Pellentesque",
+            "context" : "...rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. <mark>Pellentesque<\/mark> vel velit sit amet mauris dignissim feugiat....",
+            "weight" : 1,
+            "pos" : 116 },
+          
+          { "form" : "Pellentesque",
+            "context" : "...ac, consequat quis lectus. Donec elementum dignissim vehicula. <mark>Pellentesque<\/mark> fringilla ex bibendum, ornare sapien a, mollis...",
+            "weight" : 1,
+            "pos" : 295 },
+          
+          { "form" : "Pellentesque",
+            "context" : "...lectus quis dolor cursus, ut convallis lacus venenatis. <mark>Pellentesque<\/mark> lorem mauris, malesuada a fringilla et, iaculis...",
+            "weight" : 1,
+            "pos" : 338 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "pellentesque",
+            "context" : "...Nam nisl erat, tristique ac libero vitae, bibendum <mark>pellentesque<\/mark> nulla. Praesent accumsan ut mauris ut euismod....",
+            "weight" : 1,
+            "pos" : 52 },
+          
+          { "form" : "Pellentesque",
+            "context" : "...rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. <mark>Pellentesque<\/mark> vel velit sit amet mauris dignissim feugiat....",
+            "weight" : 1,
+            "pos" : 116 },
+          
+          { "form" : "Pellentesque",
+            "context" : "...ac, consequat quis lectus. Donec elementum dignissim vehicula. <mark>Pellentesque<\/mark> fringilla ex bibendum, ornare sapien a, mollis...",
+            "weight" : 1,
+            "pos" : 291 },
+          
+          { "form" : "Pellentesque",
+            "context" : "...lectus quis dolor cursus, ut convallis lacus venenatis. <mark>Pellentesque<\/mark> lorem mauris, malesuada a fringilla et, iaculis...",
+            "weight" : 1,
+            "pos" : 334 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "principl",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "principles",
+            "context" : "Wax is inspired by FAIR data <mark>principles<\/mark>, and as such strives to make its...",
+            "weight" : 1,
+            "pos" : 21 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "principles",
+            "context" : "...is an extensible workflow based on minimal computing <mark>principles<\/mark>. Wax is hyper-aware of differences in resources,...",
+            "weight" : 1,
+            "pos" : 54 } ] } ] }

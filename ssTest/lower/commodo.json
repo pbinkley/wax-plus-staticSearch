@@ -1,0 +1,68 @@
+
+  { "stem" : "commodo",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "commodo",
+            "context" : "Duis <mark>commodo<\/mark> ligula libero, a pharetra ligula posuere sit...",
+            "weight" : 1,
+            "pos" : 127 },
+          
+          { "form" : "commodo",
+            "context" : "...est pulvinar convallis vel non tortor. Nunc semper <mark>commodo<\/mark> fringilla. Proin eget metus eget felis faucibus...",
+            "weight" : 1,
+            "pos" : 196 },
+          
+          { "form" : "commodo",
+            "context" : "...Quisque viverra sem a orci aliquet sodales. Aliquam <mark>commodo<\/mark> eros at sagittis vehicula. Quisque in massa...",
+            "weight" : 1,
+            "pos" : 248 },
+          
+          { "form" : "commodo",
+            "context" : "...iaculis sodales metus. Suspendisse finibus purus ut sem <mark>commodo<\/mark> feugiat.",
+            "weight" : 1,
+            "pos" : 346 },
+          
+          { "form" : "commodo",
+            "context" : "Duis <mark>commodo<\/mark> ligula libero, a pharetra ligula posuere sit...",
+            "weight" : 1,
+            "pos" : 352 },
+          
+          { "form" : "commodo",
+            "context" : "...est pulvinar convallis vel non tortor. Nunc semper <mark>commodo<\/mark> fringilla. Proin eget metus eget felis faucibus...",
+            "weight" : 1,
+            "pos" : 421 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "commodo",
+            "context" : "Duis <mark>commodo<\/mark> ligula libero, a pharetra ligula posuere sit...",
+            "weight" : 1,
+            "pos" : 131 },
+          
+          { "form" : "commodo",
+            "context" : "...est pulvinar convallis vel non tortor. Nunc semper <mark>commodo<\/mark> fringilla. Proin eget metus eget felis faucibus...",
+            "weight" : 1,
+            "pos" : 200 },
+          
+          { "form" : "commodo",
+            "context" : "...Quisque viverra sem a orci aliquet sodales. Aliquam <mark>commodo<\/mark> eros at sagittis vehicula. Quisque in massa...",
+            "weight" : 1,
+            "pos" : 252 },
+          
+          { "form" : "commodo",
+            "context" : "...iaculis sodales metus. Suspendisse finibus purus ut sem <mark>commodo<\/mark> feugiat.",
+            "weight" : 1,
+            "pos" : 350 },
+          
+          { "form" : "commodo",
+            "context" : "Nunc semper <mark>commodo<\/mark> fringilla. Proin eget metus eget felis faucibus...",
+            "weight" : 1,
+            "pos" : 373 } ] } ] }

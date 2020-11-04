@@ -1,0 +1,23 @@
+
+  { "stem" : "static",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "static",
+            "context" : "...The exhibition sites created by Wax are <mark>static<\/mark>. This means they consist of flat HTML,...",
+            "weight" : 1,
+            "pos" : 89 },
+          
+          { "form" : "static",
+            "context" : "Using Jekyll to generate <mark>static<\/mark> sites.",
+            "weight" : 1,
+            "pos" : 239 },
+          
+          { "form" : "static",
+            "context" : "...build the exhibit and spits them out as <mark>static<\/mark> pages ready to publish.",
+            "weight" : 1,
+            "pos" : 364 } ] } ] }

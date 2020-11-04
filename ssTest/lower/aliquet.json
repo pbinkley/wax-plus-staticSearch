@@ -1,0 +1,73 @@
+
+  { "stem" : "aliquet",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "aliquet",
+            "context" : "...ac dui non, vulputate porttitor sapien. Praesent in <mark>aliquet<\/mark> dui. Nulla facilisi. Maecenas nulla ex, facilisis...",
+            "weight" : 1,
+            "pos" : 83 },
+          
+          { "form" : "aliquet",
+            "context" : "...dui. Nulla facilisi. Maecenas nulla ex, facilisis non <mark>aliquet<\/mark> ac, ultrices eu sem. Sed vel aliquet...",
+            "weight" : 1,
+            "pos" : 91 },
+          
+          { "form" : "aliquet",
+            "context" : "...non aliquet ac, ultrices eu sem. Sed vel <mark>aliquet<\/mark> urna. Mauris quis ex at lectus iaculis...",
+            "weight" : 1,
+            "pos" : 96 },
+          
+          { "form" : "aliquet",
+            "context" : "...commodo fringilla. Proin eget metus eget felis faucibus <mark>aliquet<\/mark>. Cras ultrices turpis id nibh cursus fringilla....",
+            "weight" : 1,
+            "pos" : 208 },
+          
+          { "form" : "aliquet",
+            "context" : "...sed lorem tortor. Quisque viverra sem a orci <mark>aliquet<\/mark> sodales. Aliquam commodo eros at sagittis vehicula....",
+            "weight" : 1,
+            "pos" : 249 },
+          
+          { "form" : "aliquet",
+            "context" : "...commodo fringilla. Proin eget metus eget felis faucibus <mark>aliquet<\/mark>. Cras ultrices turpis id nibh cursus fringilla....",
+            "weight" : 1,
+            "pos" : 381 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "aliquet",
+            "context" : "...ac dui non, vulputate porttitor sapien. Praesent in <mark>aliquet<\/mark> dui. Nulla facilisi. Maecenas nulla ex, facilisis...",
+            "weight" : 1,
+            "pos" : 83 },
+          
+          { "form" : "aliquet",
+            "context" : "...dui. Nulla facilisi. Maecenas nulla ex, facilisis non <mark>aliquet<\/mark> ac, ultrices eu sem. Sed vel aliquet...",
+            "weight" : 1,
+            "pos" : 91 },
+          
+          { "form" : "aliquet",
+            "context" : "...non aliquet ac, ultrices eu sem. Sed vel <mark>aliquet<\/mark> urna. Mauris quis ex at lectus iaculis...",
+            "weight" : 1,
+            "pos" : 96 },
+          
+          { "form" : "aliquet",
+            "context" : "...commodo fringilla. Proin eget metus eget felis faucibus <mark>aliquet<\/mark>. Cras ultrices turpis id nibh cursus fringilla....",
+            "weight" : 1,
+            "pos" : 204 },
+          
+          { "form" : "aliquet",
+            "context" : "...sed lorem tortor. Quisque viverra sem a orci <mark>aliquet<\/mark> sodales. Aliquam commodo eros at sagittis vehicula....",
+            "weight" : 1,
+            "pos" : 245 },
+          
+          { "form" : "aliquet",
+            "context" : "...commodo fringilla. Proin eget metus eget felis faucibus <mark>aliquet<\/mark>. Cras ultrices turpis id nibh cursus fringilla....",
+            "weight" : 1,
+            "pos" : 429 } ] } ] }

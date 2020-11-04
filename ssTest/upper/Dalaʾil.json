@@ -1,0 +1,18 @@
+
+  { "stem" : "Dalaʾil",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Dalaʾil",
+            "context" : "The <mark>Dalaʾil<\/mark> al-Khayrat of al-Juzuli",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Dalaʾil",
+            "context" : "Label The <mark>Dalaʾil<\/mark> al-Khayrat of al-Juzuli Artist Al-Hajj Hafiz Muhammad...",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

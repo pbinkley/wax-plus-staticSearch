@@ -1,0 +1,18 @@
+
+  { "stem" : "skill",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "skills",
+            "context" : "The <mark>skills<\/mark> needed to create Wax sites are agnostic....",
+            "weight" : 1,
+            "pos" : 109 },
+          
+          { "form" : "skills",
+            "context" : "...is also great for teaching or learning the <mark>skills<\/mark> above! For examples of digital pedagogy via...",
+            "weight" : 1,
+            "pos" : 265 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "directori",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "directories",
+            "context" : "...to install and interact with programs, files, and <mark>directories<\/mark> on your local computer.",
+            "weight" : 1,
+            "pos" : 226 } ] } ] }

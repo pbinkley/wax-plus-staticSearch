@@ -1,0 +1,13 @@
+
+  { "stem" : "etc",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "etc",
+            "context" : "...collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, <mark>etc<\/mark>—often accompanied by an explicit narrative or argument....",
+            "weight" : 1,
+            "pos" : 31 } ] } ] }

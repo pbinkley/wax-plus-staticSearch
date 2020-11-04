@@ -1,0 +1,23 @@
+
+  { "stem" : "scelerisqu",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scelerisque",
+            "context" : "...elit nec dolor molestie finibus. Vivamus justo risus, <mark>scelerisque<\/mark> nec dolor ut, pretium fringilla purus. Nam...",
+            "weight" : 1,
+            "pos" : 39 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scelerisque",
+            "context" : "...elit nec dolor molestie finibus. Vivamus justo risus, <mark>scelerisque<\/mark> nec dolor ut, pretium fringilla purus. Nam...",
+            "weight" : 1,
+            "pos" : 39 } ] } ] }

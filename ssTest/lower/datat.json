@@ -1,0 +1,13 @@
+
+  { "stem" : "datat",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "DataTables",
+            "context" : "...make pages like this one complete with interactive <mark>DataTables<\/mark> and downloadable CSVs of collection metadata.",
+            "weight" : 1,
+            "pos" : 45 } ] } ] }

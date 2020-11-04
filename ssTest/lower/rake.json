@@ -1,0 +1,13 @@
+
+  { "stem" : "rake",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rake",
+            "context" : "...source libraries and frameworks including Jekyll, IIIF, OpenSeaDragon, <mark>Rake<\/mark>, and ElasticLunr. Wax builds upon work by...",
+            "weight" : 1,
+            "pos" : 43 } ] } ] }

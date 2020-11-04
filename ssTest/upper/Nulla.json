@@ -1,0 +1,53 @@
+
+  { "stem" : "Nulla",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Nulla",
+            "context" : "...non, vulputate porttitor sapien. Praesent in aliquet dui. <mark>Nulla<\/mark> facilisi. Maecenas nulla ex, facilisis non aliquet...",
+            "weight" : 1,
+            "pos" : 85 },
+          
+          { "form" : "Nulla",
+            "context" : "...mauris et nunc sagittis, nec consectetur lorem tristique. <mark>Nulla<\/mark> tincidunt magna ut ullamcorper consectetur. Nulla mi...",
+            "weight" : 1,
+            "pos" : 154 },
+          
+          { "form" : "Nulla",
+            "context" : "...lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. <mark>Nulla<\/mark> mi urna, feugiat sed massa non, ullamcorper...",
+            "weight" : 1,
+            "pos" : 159 },
+          
+          { "form" : "Nulla",
+            "context" : "...mauris et nunc sagittis, nec consectetur lorem tristique. <mark>Nulla<\/mark> tincidunt magna ut ullamcorper consectetur. Nulla mi...",
+            "weight" : 1,
+            "pos" : 379 },
+          
+          { "form" : "Nulla",
+            "context" : "...lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. <mark>Nulla<\/mark> mi urna, feugiat sed massa non, ullamcorper...",
+            "weight" : 1,
+            "pos" : 384 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Nulla",
+            "context" : "...non, vulputate porttitor sapien. Praesent in aliquet dui. <mark>Nulla<\/mark> facilisi. Maecenas nulla ex, facilisis non aliquet...",
+            "weight" : 1,
+            "pos" : 85 },
+          
+          { "form" : "Nulla",
+            "context" : "...mauris et nunc sagittis, nec consectetur lorem tristique. <mark>Nulla<\/mark> tincidunt magna ut ullamcorper consectetur. Nulla mi...",
+            "weight" : 1,
+            "pos" : 158 },
+          
+          { "form" : "Nulla",
+            "context" : "...lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. <mark>Nulla<\/mark> mi urna, feugiat sed massa non, ullamcorper...",
+            "weight" : 1,
+            "pos" : 163 } ] } ] }

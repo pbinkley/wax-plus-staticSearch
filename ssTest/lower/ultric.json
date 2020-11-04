@@ -1,0 +1,58 @@
+
+  { "stem" : "ultric",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "ultrices",
+            "context" : "...facilisi. Maecenas nulla ex, facilisis non aliquet ac, <mark>ultrices<\/mark> eu sem. Sed vel aliquet urna. Mauris...",
+            "weight" : 1,
+            "pos" : 92 },
+          
+          { "form" : "ultrices",
+            "context" : "...Proin eget metus eget felis faucibus aliquet. Cras <mark>ultrices<\/mark> turpis id nibh cursus fringilla. Aenean nec...",
+            "weight" : 1,
+            "pos" : 210 },
+          
+          { "form" : "ultrices",
+            "context" : "...Integer eu augue elementum, venenatis nisi vitae, <mark>ultrices<\/mark> magna. Nunc accumsan sem quis tristique iaculis....",
+            "weight" : 1,
+            "pos" : 233 },
+          
+          { "form" : "ultrices",
+            "context" : "...Integer eu augue elementum, venenatis nisi vitae, <mark>ultrices<\/mark> magna. Nunc accumsan sem quis tristique iaculis....",
+            "weight" : 1,
+            "pos" : 359 },
+          
+          { "form" : "ultrices",
+            "context" : "...Proin eget metus eget felis faucibus aliquet. Cras <mark>ultrices<\/mark> turpis id nibh cursus fringilla. Aenean nec...",
+            "weight" : 1,
+            "pos" : 383 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ultrices",
+            "context" : "...facilisi. Maecenas nulla ex, facilisis non aliquet ac, <mark>ultrices<\/mark> eu sem. Sed vel aliquet urna. Mauris...",
+            "weight" : 1,
+            "pos" : 92 },
+          
+          { "form" : "ultrices",
+            "context" : "...Proin eget metus eget felis faucibus aliquet. Cras <mark>ultrices<\/mark> turpis id nibh cursus fringilla. Aenean nec...",
+            "weight" : 1,
+            "pos" : 206 },
+          
+          { "form" : "ultrices",
+            "context" : "...Integer eu augue elementum, venenatis nisi vitae, <mark>ultrices<\/mark> magna. Nunc accumsan sem quis tristique iaculis....",
+            "weight" : 1,
+            "pos" : 229 },
+          
+          { "form" : "ultrices",
+            "context" : "...Proin eget metus eget felis faucibus aliquet. Cras <mark>ultrices<\/mark> turpis id nibh cursus fringilla. Aenean nec...",
+            "weight" : 1,
+            "pos" : 431 } ] } ] }

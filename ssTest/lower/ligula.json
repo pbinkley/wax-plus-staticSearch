@@ -1,0 +1,53 @@
+
+  { "stem" : "ligula",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "ligula",
+            "context" : "Duis commodo <mark>ligula<\/mark> libero, a pharetra ligula posuere sit amet....",
+            "weight" : 1,
+            "pos" : 128 },
+          
+          { "form" : "ligula",
+            "context" : "Duis commodo ligula libero, a pharetra <mark>ligula<\/mark> posuere sit amet. Sed ipsum dolor, elementum...",
+            "weight" : 1,
+            "pos" : 131 },
+          
+          { "form" : "ligula",
+            "context" : "...aliquam consectetur magna non dignissim. Sed fringilla a <mark>ligula<\/mark> vitae molestie.",
+            "weight" : 1,
+            "pos" : 263 },
+          
+          { "form" : "ligula",
+            "context" : "Duis commodo <mark>ligula<\/mark> libero, a pharetra ligula posuere sit amet....",
+            "weight" : 1,
+            "pos" : 353 },
+          
+          { "form" : "ligula",
+            "context" : "Duis commodo ligula libero, a pharetra <mark>ligula<\/mark> posuere sit amet. Sed ipsum dolor, elementum...",
+            "weight" : 1,
+            "pos" : 356 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ligula",
+            "context" : "Duis commodo <mark>ligula<\/mark> libero, a pharetra ligula posuere sit amet....",
+            "weight" : 1,
+            "pos" : 132 },
+          
+          { "form" : "ligula",
+            "context" : "Duis commodo ligula libero, a pharetra <mark>ligula<\/mark> posuere sit amet. Sed ipsum dolor, elementum...",
+            "weight" : 1,
+            "pos" : 135 },
+          
+          { "form" : "ligula",
+            "context" : "...aliquam consectetur magna non dignissim. Sed fringilla a <mark>ligula<\/mark> vitae molestie.",
+            "weight" : 1,
+            "pos" : 267 } ] } ] }

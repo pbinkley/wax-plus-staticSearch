@@ -1,0 +1,143 @@
+
+  { "stem" : "sourc",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...Museum of Islamic Art, Qatar Date 16th century <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj6\/manifest.json",
+            "weight" : 1,
+            "pos" : 36 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...of Islamic Art, Qatar Date 1800 - 1850 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj10\/manifest.json",
+            "weight" : 1,
+            "pos" : 45 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...of Islamic Art, Qatar Date 1525 - 1535 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj7\/manifest.json",
+            "weight" : 1,
+            "pos" : 35 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...Museum of Islamic Art, Qatar Date 14th century <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj2\/manifest.json",
+            "weight" : 1,
+            "pos" : 36 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "source",
+            "context" : "...Gil at Columbia University Libraries. It uses open <mark>source<\/mark> libraries and frameworks including Jekyll, IIIF, OpenSeaDragon,...",
+            "weight" : 1,
+            "pos" : 36 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...The Museum of Islamic Art, Qatar Date 1801 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj1\/manifest.json",
+            "weight" : 1,
+            "pos" : 44 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "source",
+            "context" : "...text editing while leveraging a few great open <mark>source<\/mark> libraries and frameworks along the way.",
+            "weight" : 1,
+            "pos" : 140 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...The Museum of Islamic Art, Qatar Date 1816 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj9\/manifest.json",
+            "weight" : 1,
+            "pos" : 39 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...of Islamic Art, Qatar Date 1800 - 1850 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj11\/manifest.json",
+            "weight" : 1,
+            "pos" : 39 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...of Islamic Art, Qatar Date 1525 - 1535 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj4\/manifest.json",
+            "weight" : 1,
+            "pos" : 41 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...of Islamic Art, Qatar Date 1600 - 1625 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj5\/manifest.json",
+            "weight" : 1,
+            "pos" : 35 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...Qatar National Library Date Around 1628 - 1658 <mark>Source<\/mark> www.wdl.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj12\/manifest.json",
+            "weight" : 1,
+            "pos" : 50 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...Museum of Islamic Art, Qatar Date 15th century <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj3\/manifest.json",
+            "weight" : 1,
+            "pos" : 34 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Source",
+            "context" : "...of Islamic Art, Qatar Date 1550 - 1650 <mark>Source<\/mark> commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj8\/manifest.json",
+            "weight" : 1,
+            "pos" : 43 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "flexibl",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flexibility",
+            "context" : "...technical responsibility in exchange for a lot of <mark>flexibility<\/mark>.",
+            "weight" : 1,
+            "pos" : 204 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flexibility",
+            "context" : "...digital exhibitions focused on longevity, low costs, and <mark>flexibility<\/mark>. Our underlying technology is made to learn...",
+            "weight" : 1,
+            "pos" : 33 } ] } ] }

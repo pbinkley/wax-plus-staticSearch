@@ -1,0 +1,408 @@
+
+  { "stem" : "exhibit",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "exhibits",
+            "context" : "Wax helps you create digital <mark>exhibits<\/mark>. A digital exhibit is a collection of...",
+            "weight" : 1,
+            "pos" : 20 },
+          
+          { "form" : "exhibit",
+            "context" : "...Wax helps you create digital exhibits. A digital <mark>exhibit<\/mark> is a collection of curated cultural artifacts—manuscripts,...",
+            "weight" : 1,
+            "pos" : 22 },
+          
+          { "form" : "exhibitions",
+            "context" : "...recipes for creating, deploying, and maintaining custom digital <mark>exhibitions<\/mark>.",
+            "weight" : 1,
+            "pos" : 84 },
+          
+          { "form" : "exhibition",
+            "context" : "The <mark>exhibition<\/mark> sites created by Wax are static. This...",
+            "weight" : 1,
+            "pos" : 85 },
+          
+          { "form" : "exhibits",
+            "context" : "...of resources to create their scholarly or cultural <mark>exhibits<\/mark>. It's best suited for folks who are...",
+            "weight" : 1,
+            "pos" : 194 },
+          
+          { "form" : "exhibitions",
+            "context" : "...of digital pedagogy via the creation of Wax <mark>exhibitions<\/mark>, check out this workshop, this GitHub repository,...",
+            "weight" : 1,
+            "pos" : 272 },
+          
+          { "form" : "exhibits",
+            "context" : "...properly formatted spreadsheet and the text for the <mark>exhibits<\/mark>. The extras are up to you.",
+            "weight" : 1,
+            "pos" : 314 },
+          
+          { "form" : "exhibit",
+            "context" : "...special layouts and Wax components to build the <mark>exhibit<\/mark> and spits them out as static pages...",
+            "weight" : 1,
+            "pos" : 362 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 380 } ] },
+      
+      { "docId" : "exhibits_index",
+        "docUri" : "exhibits\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "Featured <mark>Exhibits<\/mark>",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibit",
+            "context" : "<mark>Exhibit<\/mark> A: Inline Parallax Image",
+            "weight" : 1,
+            "pos" : 17 },
+          
+          { "form" : "Exhibit",
+            "context" : "<mark>Exhibit<\/mark> B: Inline Image References",
+            "weight" : 1,
+            "pos" : 21 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "exhibitions",
+            "context" : "...is a minimal computing project for producing digital <mark>exhibitions<\/mark> focused on longevity, low costs, and flexibility....",
+            "weight" : 1,
+            "pos" : 28 },
+          
+          { "form" : "exhibits",
+            "context" : "...produce beautifully rendered, high-quality image collections and scholarly <mark>exhibits<\/mark>. To start using Wax, please see our...",
+            "weight" : 1,
+            "pos" : 48 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 80 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibit",
+            "context" : "<mark>Exhibit<\/mark> A: Inline Parallax Image",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 402 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibit",
+            "context" : "<mark>Exhibit<\/mark> B: Inline Image References",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 450 } ] },
+      
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 54 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 63 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 53 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 54 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 81 } ] },
+      
+      { "docId" : "search_index",
+        "docUri" : "search\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 19 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 52 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 59 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 53 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 68 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 52 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 24 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 61 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Exhibits",
+            "context" : "<mark>Exhibits<\/mark> ",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Exhibitions",
+            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
+            "weight" : 1,
+            "pos" : 47 } ] } ] }

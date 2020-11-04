@@ -1,0 +1,48 @@
+
+  { "stem" : "Duis",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Duis",
+            "context" : "<mark>Duis<\/mark> commodo ligula libero, a pharetra ligula posuere...",
+            "weight" : 1,
+            "pos" : 126 },
+          
+          { "form" : "Duis",
+            "context" : "<mark>Duis<\/mark> finibus leo non velit viverra tincidunt. Fusce...",
+            "weight" : 1,
+            "pos" : 266 },
+          
+          { "form" : "Duis",
+            "context" : "...fringilla ex bibendum, ornare sapien a, mollis neque. <mark>Duis<\/mark> faucibus diam vitae faucibus feugiat. Lorem ipsum...",
+            "weight" : 1,
+            "pos" : 298 },
+          
+          { "form" : "Duis",
+            "context" : "<mark>Duis<\/mark> commodo ligula libero, a pharetra ligula posuere...",
+            "weight" : 1,
+            "pos" : 351 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Duis",
+            "context" : "<mark>Duis<\/mark> commodo ligula libero, a pharetra ligula posuere...",
+            "weight" : 1,
+            "pos" : 130 },
+          
+          { "form" : "Duis",
+            "context" : "<mark>Duis<\/mark> finibus leo non velit viverra tincidunt. Fusce...",
+            "weight" : 1,
+            "pos" : 270 },
+          
+          { "form" : "Duis",
+            "context" : "...fringilla ex bibendum, ornare sapien a, mollis neque. <mark>Duis<\/mark> faucibus diam vitae faucibus feugiat. Lorem ipsum...",
+            "weight" : 1,
+            "pos" : 302 } ] } ] }

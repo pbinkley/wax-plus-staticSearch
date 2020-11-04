@@ -1,0 +1,48 @@
+
+  { "stem" : "world",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "World",
+            "context" : "Map of the <mark>World<\/mark>",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "World",
+            "context" : "Label Map of the <mark>World<\/mark> Artist Unknown Type map Location Egypt Current...",
+            "weight" : 1,
+            "pos" : 19 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "context" : "...differences in resources, control and access around the <mark>world<\/mark> and close to home. As a result,...",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "World",
+            "context" : "...Art Project) and The Qatar National Library (via <mark>World<\/mark> Digital Library).",
+            "weight" : 1,
+            "pos" : 73 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "World",
+            "context" : "...Art Project) and The Qatar National Library (via <mark>World<\/mark> Digital Library).",
+            "weight" : 1,
+            "pos" : 42 } ] } ] }

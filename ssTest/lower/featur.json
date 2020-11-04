@@ -1,0 +1,13 @@
+
+  { "stem" : "featur",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_index",
+        "docUri" : "exhibits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Featured",
+            "context" : "<mark>Featured<\/mark> Exhibits",
+            "weight" : 2,
+            "pos" : 15 } ] } ] }

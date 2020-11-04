@@ -1,0 +1,18 @@
+
+  { "stem" : "also",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "also",
+            "context" : "However, Wax is <mark>also<\/mark> great for teaching or learning the skills...",
+            "weight" : 1,
+            "pos" : 261 },
+          
+          { "form" : "also",
+            "context" : "Wax is <mark>also<\/mark> phenomenal for professionals who play a facilitating...",
+            "weight" : 1,
+            "pos" : 281 } ] } ] }

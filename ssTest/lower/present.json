@@ -1,0 +1,13 @@
+
+  { "stem" : "present",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presentation",
+            "context" : "Wax keeps the collection <mark>presentation<\/mark> separate from the collection data. The Wax...",
+            "weight" : 1,
+            "pos" : 148 } ] } ] }

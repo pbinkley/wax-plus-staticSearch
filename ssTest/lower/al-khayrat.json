@@ -1,0 +1,18 @@
+
+  { "stem" : "al-khayrat",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "al-Khayrat",
+            "context" : "The Dalaʾil <mark>al-Khayrat<\/mark> of al-Juzuli",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "al-Khayrat",
+            "context" : "Label The Dalaʾil <mark>al-Khayrat<\/mark> of al-Juzuli Artist Al-Hajj Hafiz Muhammad Nuri...",
+            "weight" : 1,
+            "pos" : 22 } ] } ] }

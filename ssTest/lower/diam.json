@@ -1,0 +1,23 @@
+
+  { "stem" : "diam",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diam",
+            "context" : "...bibendum, ornare sapien a, mollis neque. Duis faucibus <mark>diam<\/mark> vitae faucibus feugiat. Lorem ipsum dolor sit...",
+            "weight" : 1,
+            "pos" : 304 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diam",
+            "context" : "...bibendum, ornare sapien a, mollis neque. Duis faucibus <mark>diam<\/mark> vitae faucibus feugiat. Lorem ipsum dolor sit...",
+            "weight" : 1,
+            "pos" : 300 } ] } ] }

@@ -1,0 +1,378 @@
+
+  { "stem" : "imag",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 },
+          
+          { "form" : "images",
+            "context" : "...explicit narrative or argument. Though Wax focuses on <mark>images<\/mark> and text, it could be used for...",
+            "weight" : 1,
+            "pos" : 40 },
+          
+          { "form" : "image",
+            "context" : "...data. The Wax workflow starts with making standardized <mark>image<\/mark> files and metadata records and builds around...",
+            "weight" : 1,
+            "pos" : 157 },
+          
+          { "form" : "image",
+            "context" : "...CSV, YAML, or JSON format), organize your collection <mark>image<\/mark> files, and put both in the Jekyll...",
+            "weight" : 1,
+            "pos" : 337 } ] },
+      
+      { "docId" : "exhibits_index",
+        "docUri" : "exhibits\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 },
+          
+          { "form" : "Image",
+            "context" : "Exhibit A: Inline Parallax <mark>Image<\/mark>",
+            "weight" : 1,
+            "pos" : 20 },
+          
+          { "form" : "Image",
+            "context" : "Exhibit B: Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 23 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Exhibit A: Inline Parallax <mark>Image<\/mark>",
+            "weight" : 2,
+            "pos" : 20 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 },
+          
+          { "form" : "image",
+            "context" : "...to teach, and can produce beautifully rendered, high-quality <mark>image<\/mark> collections and scholarly exhibits. To start using...",
+            "weight" : 1,
+            "pos" : 45 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Exhibit B: Inline <mark>Image<\/mark> References",
+            "weight" : 2,
+            "pos" : 19 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 },
+          
+          { "form" : "images",
+            "context" : "...of which is represented by one or more <mark>images<\/mark>. The collection items in this demo are...",
+            "weight" : 1,
+            "pos" : 25 } ] },
+      
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "search_index",
+        "docUri" : "search\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Image",
+            "context" : "Inline Parallax <mark>Image<\/mark> Inline Image References",
+            "weight" : 1,
+            "pos" : 8 },
+          
+          { "form" : "Image",
+            "context" : "Inline Parallax Image Inline <mark>Image<\/mark> References",
+            "weight" : 1,
+            "pos" : 10 } ] } ] }

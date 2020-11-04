@@ -1,0 +1,23 @@
+
+  { "stem" : "get",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "get",
+            "context" : "...We welcome and encourage contributors and maintainers. Please <mark>get<\/mark> in touch, or fork the project on...",
+            "weight" : 1,
+            "pos" : 59 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "get",
+            "context" : "...a relatively high, but general-purpose learning curve. To <mark>get<\/mark> the most out of Wax, you should...",
+            "weight" : 1,
+            "pos" : 214 } ] } ] }

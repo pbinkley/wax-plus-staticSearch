@@ -1,0 +1,38 @@
+
+  { "stem" : "donec",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Donec",
+            "context" : "...dolor, elementum eget nisl eget, sagittis vestibulum augue. <mark>Donec<\/mark> tincidunt mauris et nunc sagittis, nec consectetur...",
+            "weight" : 1,
+            "pos" : 145 },
+          
+          { "form" : "Donec",
+            "context" : "...porttitor sit amet volutpat ac, consequat quis lectus. <mark>Donec<\/mark> elementum dignissim vehicula. Pellentesque fringilla ex bibendum,...",
+            "weight" : 1,
+            "pos" : 287 },
+          
+          { "form" : "Donec",
+            "context" : "...dolor, elementum eget nisl eget, sagittis vestibulum augue. <mark>Donec<\/mark> tincidunt mauris et nunc sagittis, nec consectetur...",
+            "weight" : 1,
+            "pos" : 370 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Donec",
+            "context" : "...dolor, elementum eget nisl eget, sagittis vestibulum augue. <mark>Donec<\/mark> tincidunt mauris et nunc sagittis, nec consectetur...",
+            "weight" : 1,
+            "pos" : 149 },
+          
+          { "form" : "Donec",
+            "context" : "...porttitor sit amet volutpat ac, consequat quis lectus. <mark>Donec<\/mark> elementum dignissim vehicula. Pellentesque fringilla ex bibendum,...",
+            "weight" : 1,
+            "pos" : 291 } ] } ] }

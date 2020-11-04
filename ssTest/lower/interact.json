@@ -1,0 +1,33 @@
+
+  { "stem" : "interact",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "interactive",
+            "context" : "...demo site comes with a specific _include called <mark>interactive<\/mark>_metadata_table to help you make pages like this...",
+            "weight" : 1,
+            "pos" : 35 },
+          
+          { "form" : "interactive",
+            "context" : "...you make pages like this one complete with <mark>interactive<\/mark> DataTables and downloadable CSVs of collection metadata....",
+            "weight" : 1,
+            "pos" : 44 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "interactive",
+            "context" : "Using an <mark>interactive<\/mark> shell (e.g., Bash\/Terminal) to install and interact...",
+            "weight" : 1,
+            "pos" : 218 },
+          
+          { "form" : "interact",
+            "context" : "...an interactive shell (e.g., Bash\/Terminal) to install and <mark>interact<\/mark> with programs, files, and directories on your...",
+            "weight" : 1,
+            "pos" : 223 } ] } ] }

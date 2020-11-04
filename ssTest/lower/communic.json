@@ -1,0 +1,13 @@
+
+  { "stem" : "communic",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "communicate",
+            "context" : "...CSS, and JavaScript files that don't need to <mark>communicate<\/mark> in a complex way back to a...",
+            "weight" : 1,
+            "pos" : 98 } ] } ] }

@@ -1,0 +1,58 @@
+
+  { "stem" : "qui",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "quis",
+            "context" : "...ultrices eu sem. Sed vel aliquet urna. Mauris <mark>quis<\/mark> ex at lectus iaculis elementum id id...",
+            "weight" : 1,
+            "pos" : 99 },
+          
+          { "form" : "quis",
+            "context" : "...venenatis nisi vitae, ultrices magna. Nunc accumsan sem <mark>quis<\/mark> tristique iaculis. Quisque sed lorem tortor. Quisque...",
+            "weight" : 1,
+            "pos" : 238 },
+          
+          { "form" : "quis",
+            "context" : "...sem felis, porttitor sit amet volutpat ac, consequat <mark>quis<\/mark> lectus. Donec elementum dignissim vehicula. Pellentesque fringilla...",
+            "weight" : 1,
+            "pos" : 289 },
+          
+          { "form" : "quis",
+            "context" : "...ipsum in nulla sollicitudin viverra. Morbi semper lectus <mark>quis<\/mark> dolor cursus, ut convallis lacus venenatis. Pellentesque...",
+            "weight" : 1,
+            "pos" : 332 },
+          
+          { "form" : "quis",
+            "context" : "...venenatis nisi vitae, ultrices magna. Nunc accumsan sem <mark>quis<\/mark> tristique iaculis. Quisque sed lorem tortor. ↩︎",
+            "weight" : 1,
+            "pos" : 364 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "quis",
+            "context" : "...ultrices eu sem. Sed vel aliquet urna. Mauris <mark>quis<\/mark> ex at lectus iaculis elementum id id...",
+            "weight" : 1,
+            "pos" : 99 },
+          
+          { "form" : "quis",
+            "context" : "...venenatis nisi vitae, ultrices magna. Nunc accumsan sem <mark>quis<\/mark> tristique iaculis. Quisque sed lorem tortor. Quisque...",
+            "weight" : 1,
+            "pos" : 234 },
+          
+          { "form" : "quis",
+            "context" : "...sem felis, porttitor sit amet volutpat ac, consequat <mark>quis<\/mark> lectus. Donec elementum dignissim vehicula. Pellentesque fringilla...",
+            "weight" : 1,
+            "pos" : 285 },
+          
+          { "form" : "quis",
+            "context" : "...ipsum in nulla sollicitudin viverra. Morbi semper lectus <mark>quis<\/mark> dolor cursus, ut convallis lacus venenatis. Pellentesque...",
+            "weight" : 1,
+            "pos" : 328 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "high",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "context" : "For beginners, Wax has a relatively <mark>high<\/mark>, but general-purpose learning curve. To get the...",
+            "weight" : 1,
+            "pos" : 208 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "context" : "...and to teach, and can produce beautifully rendered, <mark>high<\/mark>-quality image collections and scholarly exhibits. To start...",
+            "weight" : 1,
+            "pos" : 43 } ] } ] }

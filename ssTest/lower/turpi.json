@@ -1,0 +1,63 @@
+
+  { "stem" : "turpi",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "turpis",
+            "context" : "...eget metus eget felis faucibus aliquet. Cras ultrices <mark>turpis<\/mark> id nibh cursus fringilla. Aenean nec magna...",
+            "weight" : 1,
+            "pos" : 211 },
+          
+          { "form" : "turpis",
+            "context" : "...turpis id nibh cursus fringilla. Aenean nec magna <mark>turpis<\/mark>. Suspendisse egestas tellus iaculis ante pharetra imperdiet...",
+            "weight" : 1,
+            "pos" : 218 },
+          
+          { "form" : "turpis",
+            "context" : "...commodo eros at sagittis vehicula. Quisque in massa <mark>turpis<\/mark>. Aliquam aliquam consectetur magna non dignissim. Sed...",
+            "weight" : 1,
+            "pos" : 258 },
+          
+          { "form" : "turpis",
+            "context" : "...eget metus eget felis faucibus aliquet. Cras ultrices <mark>turpis<\/mark> id nibh cursus fringilla. Aenean nec magna...",
+            "weight" : 1,
+            "pos" : 384 },
+          
+          { "form" : "turpis",
+            "context" : "...turpis id nibh cursus fringilla. Aenean nec magna <mark>turpis<\/mark>. Suspendisse egestas tellus iaculis ante pharetra imperdiet...",
+            "weight" : 1,
+            "pos" : 391 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "turpis",
+            "context" : "...eget metus eget felis faucibus aliquet. Cras ultrices <mark>turpis<\/mark> id nibh cursus fringilla. Aenean nec magna...",
+            "weight" : 1,
+            "pos" : 207 },
+          
+          { "form" : "turpis",
+            "context" : "...turpis id nibh cursus fringilla. Aenean nec magna <mark>turpis<\/mark>. Suspendisse egestas tellus iaculis ante pharetra imperdiet...",
+            "weight" : 1,
+            "pos" : 214 },
+          
+          { "form" : "turpis",
+            "context" : "...commodo eros at sagittis vehicula. Quisque in massa <mark>turpis<\/mark>. Aliquam aliquam consectetur magna non dignissim. Sed...",
+            "weight" : 1,
+            "pos" : 254 },
+          
+          { "form" : "turpis",
+            "context" : "...eget metus eget felis faucibus aliquet. Cras ultrices <mark>turpis<\/mark> id nibh cursus fringilla. Aenean nec magna...",
+            "weight" : 1,
+            "pos" : 432 },
+          
+          { "form" : "turpis",
+            "context" : "...turpis id nibh cursus fringilla. Aenean nec magna <mark>turpis<\/mark>. Suspendisse egestas tellus iaculis ante pharetra imperdiet...",
+            "weight" : 1,
+            "pos" : 439 } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "Marii",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Marii",
+            "context" : "...is a minimal computing (minicomp) project led by <mark>Marii<\/mark> Nyröp. The project is currently maintained by...",
+            "weight" : 1,
+            "pos" : 22 },
+          
+          { "form" : "Marii",
+            "context" : "...Marii Nyröp. The project is currently maintained by <mark>Marii<\/mark> Nyröp and Alex Gil at Columbia University...",
+            "weight" : 1,
+            "pos" : 27 } ] } ] }

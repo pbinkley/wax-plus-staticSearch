@@ -1,0 +1,13 @@
+
+  { "stem" : "hyper-awar",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hyper-aware",
+            "context" : "...workflow based on minimal computing principles. Wax is <mark>hyper-aware<\/mark> of differences in resources, control and access...",
+            "weight" : 1,
+            "pos" : 56 } ] } ] }

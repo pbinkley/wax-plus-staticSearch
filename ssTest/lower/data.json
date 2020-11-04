@@ -1,0 +1,58 @@
+
+  { "stem" : "data",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "data",
+            "context" : "...It involves learning the fundamentals of web development, <mark>data<\/mark> management, and plain text editing while leveraging...",
+            "weight" : 1,
+            "pos" : 132 },
+          
+          { "form" : "data",
+            "context" : "...keeps the collection presentation separate from the collection <mark>data<\/mark>. The Wax workflow starts with making standardized...",
+            "weight" : 1,
+            "pos" : 151 },
+          
+          { "form" : "data",
+            "context" : "...others to share, reuse and reimagine your collection <mark>data<\/mark> in other contexts.",
+            "weight" : 1,
+            "pos" : 179 },
+          
+          { "form" : "data",
+            "context" : "Creating and normalizing <mark>data<\/mark> files (e.g., CSV, JSON, YAML)",
+            "weight" : 1,
+            "pos" : 243 },
+          
+          { "form" : "data",
+            "context" : "...a few command line tasks to prepare the <mark>data<\/mark> and metadata for use by the Jekyll...",
+            "weight" : 1,
+            "pos" : 350 } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "data",
+            "context" : "...as a test of the functionality of the @<mark>data<\/mark>-ssFilterSortKey setting; the Random numeric value options should...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "data",
+            "context" : "...order although they do not have a configured @<mark>data<\/mark>-ssFilterSortKey setting.",
+            "weight" : 1,
+            "pos" : 40 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "data",
+            "context" : "Wax is inspired by FAIR <mark>data<\/mark> principles, and as such strives to make...",
+            "weight" : 1,
+            "pos" : 20 } ] } ] }

@@ -1,0 +1,68 @@
+
+  { "stem" : "site",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "sites",
+            "context" : "The exhibition <mark>sites<\/mark> created by Wax are static. This means...",
+            "weight" : 1,
+            "pos" : 86 },
+          
+          { "form" : "sites",
+            "context" : "The skills needed to create Wax <mark>sites<\/mark> are agnostic. This means they are largely...",
+            "weight" : 1,
+            "pos" : 113 },
+          
+          { "form" : "site",
+            "context" : "...around them, handling canonical information, scholarly content, and <mark>site<\/mark> styling differently and deliberately. This makes it...",
+            "weight" : 1,
+            "pos" : 168 },
+          
+          { "form" : "sites",
+            "context" : "Using Jekyll to generate static <mark>sites<\/mark>.",
+            "weight" : 1,
+            "pos" : 240 },
+          
+          { "form" : "site",
+            "context" : "...workshop, this GitHub repository, and this custom Wax <mark>site<\/mark>.",
+            "weight" : 1,
+            "pos" : 279 },
+          
+          { "form" : "site",
+            "context" : "...image files, and put both in the Jekyll <mark>site<\/mark> folder. After updating your configuration, you run...",
+            "weight" : 1,
+            "pos" : 341 },
+          
+          { "form" : "site",
+            "context" : "...data and metadata for use by the Jekyll <mark>site<\/mark>. Jekyll then uses special layouts and Wax...",
+            "weight" : 1,
+            "pos" : 354 },
+          
+          { "form" : "site",
+            "context" : "...From there, you can run tests on your <mark>site<\/mark> to catch errors and decide where and...",
+            "weight" : 1,
+            "pos" : 370 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "context" : "The demo <mark>site<\/mark> comes with a specific _include called interactive_metadata_table...",
+            "weight" : 1,
+            "pos" : 30 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "context" : "This <mark>site<\/mark>'s sample collection comprises a set of objects,...",
+            "weight" : 1,
+            "pos" : 17 } ] } ] }

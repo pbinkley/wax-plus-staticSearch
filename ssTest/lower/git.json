@@ -1,0 +1,13 @@
+
+  { "stem" : "git",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Git",
+            "context" : "Using <mark>Git<\/mark> and GitHub to version control and collaborate...",
+            "weight" : 1,
+            "pos" : 230 } ] } ] }

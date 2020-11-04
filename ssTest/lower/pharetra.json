@@ -1,0 +1,73 @@
+
+  { "stem" : "pharetra",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "pharetra",
+            "context" : "Duis commodo ligula libero, a <mark>pharetra<\/mark> ligula posuere sit amet. Sed ipsum dolor,...",
+            "weight" : 1,
+            "pos" : 130 },
+          
+          { "form" : "pharetra",
+            "context" : "...non, ullamcorper efficitur dolor. Sed luctus, massa eget <mark>pharetra<\/mark> posuere, nibh sem eleifend lectus, lobortis molestie...",
+            "weight" : 1,
+            "pos" : 172 },
+          
+          { "form" : "pharetra",
+            "context" : "...nec magna turpis. Suspendisse egestas tellus iaculis ante <mark>pharetra<\/mark> imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 220 },
+          
+          { "form" : "pharetra",
+            "context" : "...ipsum dolor sit amet, consectetur adipiscing elit. Mauris <mark>pharetra<\/mark> elit sem, et euismod massa mattis ut....",
+            "weight" : 1,
+            "pos" : 313 },
+          
+          { "form" : "pharetra",
+            "context" : "Duis commodo ligula libero, a <mark>pharetra<\/mark> ligula posuere sit amet. Sed ipsum dolor,...",
+            "weight" : 1,
+            "pos" : 355 },
+          
+          { "form" : "pharetra",
+            "context" : "...non, ullamcorper efficitur dolor. Sed luctus, massa eget <mark>pharetra<\/mark> posuere, nibh sem eleifend lectus, lobortis molestie...",
+            "weight" : 1,
+            "pos" : 397 },
+          
+          { "form" : "pharetra",
+            "context" : "...nec magna turpis. Suspendisse egestas tellus iaculis ante <mark>pharetra<\/mark> imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 445 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "pharetra",
+            "context" : "Duis commodo ligula libero, a <mark>pharetra<\/mark> ligula posuere sit amet. Sed ipsum dolor,...",
+            "weight" : 1,
+            "pos" : 134 },
+          
+          { "form" : "pharetra",
+            "context" : "...non, ullamcorper efficitur dolor.2 Sed luctus, massa eget <mark>pharetra<\/mark> posuere, nibh sem eleifend lectus, lobortis molestie...",
+            "weight" : 1,
+            "pos" : 176 },
+          
+          { "form" : "pharetra",
+            "context" : "...nec magna turpis. Suspendisse egestas tellus iaculis ante <mark>pharetra<\/mark> imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 224 },
+          
+          { "form" : "pharetra",
+            "context" : "...ipsum dolor sit amet, consectetur adipiscing elit. Mauris <mark>pharetra<\/mark> elit sem, et euismod massa mattis ut....",
+            "weight" : 1,
+            "pos" : 317 },
+          
+          { "form" : "pharetra",
+            "context" : "...nec magna turpis. Suspendisse egestas tellus iaculis ante <mark>pharetra<\/mark> imperdiet ac at odio. ↩︎",
+            "weight" : 1,
+            "pos" : 397 } ] } ] }

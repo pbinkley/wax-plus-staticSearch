@@ -1,0 +1,28 @@
+
+  { "stem" : "build",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "builds",
+            "context" : "...making standardized image files and metadata records and <mark>builds<\/mark> around them, handling canonical information, scholarly content,...",
+            "weight" : 1,
+            "pos" : 161 },
+          
+          { "form" : "build",
+            "context" : "...then uses special layouts and Wax components to <mark>build<\/mark> the exhibit and spits them out as...",
+            "weight" : 1,
+            "pos" : 361 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "builds",
+            "context" : "...including Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr. Wax <mark>builds<\/mark> upon work by Peter Binkley, David Newbury,...",
+            "weight" : 1,
+            "pos" : 46 } ] } ] }

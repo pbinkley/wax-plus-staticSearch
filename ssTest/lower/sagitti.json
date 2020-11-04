@@ -1,0 +1,53 @@
+
+  { "stem" : "sagitti",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "sagittis",
+            "context" : "...amet. Sed ipsum dolor, elementum eget nisl eget, <mark>sagittis<\/mark> vestibulum augue. Donec tincidunt mauris et nunc...",
+            "weight" : 1,
+            "pos" : 142 },
+          
+          { "form" : "sagittis",
+            "context" : "...sagittis vestibulum augue. Donec tincidunt mauris et nunc <mark>sagittis<\/mark>, nec consectetur lorem tristique. Nulla tincidunt magna...",
+            "weight" : 1,
+            "pos" : 149 },
+          
+          { "form" : "sagittis",
+            "context" : "...a orci aliquet sodales. Aliquam commodo eros at <mark>sagittis<\/mark> vehicula. Quisque in massa turpis. Aliquam aliquam...",
+            "weight" : 1,
+            "pos" : 250 },
+          
+          { "form" : "sagittis",
+            "context" : "...amet. Sed ipsum dolor, elementum eget nisl eget, <mark>sagittis<\/mark> vestibulum augue. Donec tincidunt mauris et nunc...",
+            "weight" : 1,
+            "pos" : 367 },
+          
+          { "form" : "sagittis",
+            "context" : "...sagittis vestibulum augue. Donec tincidunt mauris et nunc <mark>sagittis<\/mark>, nec consectetur lorem tristique. Nulla tincidunt magna...",
+            "weight" : 1,
+            "pos" : 374 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sagittis",
+            "context" : "...amet. Sed ipsum dolor, elementum eget nisl eget, <mark>sagittis<\/mark> vestibulum augue. Donec tincidunt mauris et nunc...",
+            "weight" : 1,
+            "pos" : 146 },
+          
+          { "form" : "sagittis",
+            "context" : "...sagittis vestibulum augue. Donec tincidunt mauris et nunc <mark>sagittis<\/mark>, nec consectetur lorem tristique. Nulla tincidunt magna...",
+            "weight" : 1,
+            "pos" : 153 },
+          
+          { "form" : "sagittis",
+            "context" : "...a orci aliquet sodales. Aliquam commodo eros at <mark>sagittis<\/mark> vehicula. Quisque in massa turpis. Aliquam aliquam...",
+            "weight" : 1,
+            "pos" : 254 } ] } ] }

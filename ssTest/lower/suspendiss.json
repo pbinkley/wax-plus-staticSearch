@@ -1,0 +1,43 @@
+
+  { "stem" : "suspendiss",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Suspendisse",
+            "context" : "...id nibh cursus fringilla. Aenean nec magna turpis. <mark>Suspendisse<\/mark> egestas tellus iaculis ante pharetra imperdiet ac...",
+            "weight" : 1,
+            "pos" : 219 },
+          
+          { "form" : "Suspendisse",
+            "context" : "...mauris, malesuada a fringilla et, iaculis sodales metus. <mark>Suspendisse<\/mark> finibus purus ut sem commodo feugiat.",
+            "weight" : 1,
+            "pos" : 346 },
+          
+          { "form" : "Suspendisse",
+            "context" : "...id nibh cursus fringilla. Aenean nec magna turpis. <mark>Suspendisse<\/mark> egestas tellus iaculis ante pharetra imperdiet ac...",
+            "weight" : 1,
+            "pos" : 392 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Suspendisse",
+            "context" : "...id nibh cursus fringilla. Aenean nec magna turpis. <mark>Suspendisse<\/mark> egestas tellus iaculis ante pharetra imperdiet ac...",
+            "weight" : 1,
+            "pos" : 215 },
+          
+          { "form" : "Suspendisse",
+            "context" : "...mauris, malesuada a fringilla et, iaculis sodales metus. <mark>Suspendisse<\/mark> finibus purus ut sem commodo feugiat.",
+            "weight" : 1,
+            "pos" : 342 },
+          
+          { "form" : "Suspendisse",
+            "context" : "...id nibh cursus fringilla. Aenean nec magna turpis. <mark>Suspendisse<\/mark> egestas tellus iaculis ante pharetra imperdiet ac...",
+            "weight" : 1,
+            "pos" : 440 } ] } ] }

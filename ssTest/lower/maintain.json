@@ -1,0 +1,33 @@
+
+  { "stem" : "maintain",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "maintained",
+            "context" : "...led by Marii Nyröp. The project is currently <mark>maintained<\/mark> by Marii Nyröp and Alex Gil at...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "maintainers",
+            "context" : "We welcome and encourage contributors and <mark>maintainers<\/mark>. Please get in touch, or fork the...",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "maintaining",
+            "context" : "...and (hopefully soon!) recipes for creating, deploying, and <mark>maintaining<\/mark> custom digital exhibitions.",
+            "weight" : 1,
+            "pos" : 81 },
+          
+          { "form" : "maintain",
+            "context" : "...makes them cheaper, safer, and generally easier to <mark>maintain<\/mark>.",
+            "weight" : 1,
+            "pos" : 108 } ] } ] }

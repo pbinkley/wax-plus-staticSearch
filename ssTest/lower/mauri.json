@@ -1,0 +1,78 @@
+
+  { "stem" : "mauri",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "mauris",
+            "context" : "...libero vitae, bibendum pellentesque nulla. Praesent accumsan ut <mark>mauris<\/mark> ut euismod. Etiam mattis a justo eget...",
+            "weight" : 1,
+            "pos" : 56 },
+          
+          { "form" : "Mauris",
+            "context" : "...ac, ultrices eu sem. Sed vel aliquet urna. <mark>Mauris<\/mark> quis ex at lectus iaculis elementum id...",
+            "weight" : 1,
+            "pos" : 98 },
+          
+          { "form" : "mauris",
+            "context" : "...Aliquam erat volutpat. Pellentesque vel velit sit amet <mark>mauris<\/mark> dignissim feugiat.",
+            "weight" : 1,
+            "pos" : 121 },
+          
+          { "form" : "mauris",
+            "context" : "...eget nisl eget, sagittis vestibulum augue. Donec tincidunt <mark>mauris<\/mark> et nunc sagittis, nec consectetur lorem tristique....",
+            "weight" : 1,
+            "pos" : 147 },
+          
+          { "form" : "Mauris",
+            "context" : "...Lorem ipsum dolor sit amet, consectetur adipiscing elit. <mark>Mauris<\/mark> pharetra elit sem, et euismod massa mattis...",
+            "weight" : 1,
+            "pos" : 312 },
+          
+          { "form" : "mauris",
+            "context" : "...dolor cursus, ut convallis lacus venenatis. Pellentesque lorem <mark>mauris<\/mark>, malesuada a fringilla et, iaculis sodales metus....",
+            "weight" : 1,
+            "pos" : 336 },
+          
+          { "form" : "mauris",
+            "context" : "...eget nisl eget, sagittis vestibulum augue. Donec tincidunt <mark>mauris<\/mark> et nunc sagittis, nec consectetur lorem tristique....",
+            "weight" : 1,
+            "pos" : 372 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "mauris",
+            "context" : "...libero vitae, bibendum pellentesque nulla. Praesent accumsan ut <mark>mauris<\/mark> ut euismod. Etiam mattis a justo eget...",
+            "weight" : 1,
+            "pos" : 56 },
+          
+          { "form" : "Mauris",
+            "context" : "...ac, ultrices eu sem. Sed vel aliquet urna. <mark>Mauris<\/mark> quis ex at lectus iaculis elementum id...",
+            "weight" : 1,
+            "pos" : 98 },
+          
+          { "form" : "mauris",
+            "context" : "...Aliquam erat volutpat. Pellentesque vel velit sit amet <mark>mauris<\/mark> dignissim feugiat.",
+            "weight" : 1,
+            "pos" : 121 },
+          
+          { "form" : "mauris",
+            "context" : "...eget nisl eget, sagittis vestibulum augue. Donec tincidunt <mark>mauris<\/mark> et nunc sagittis, nec consectetur lorem tristique....",
+            "weight" : 1,
+            "pos" : 151 },
+          
+          { "form" : "Mauris",
+            "context" : "...Lorem ipsum dolor sit amet, consectetur adipiscing elit. <mark>Mauris<\/mark> pharetra elit sem, et euismod massa mattis...",
+            "weight" : 1,
+            "pos" : 316 },
+          
+          { "form" : "mauris",
+            "context" : "...dolor cursus, ut convallis lacus venenatis. Pellentesque lorem <mark>mauris<\/mark>, malesuada a fringilla et, iaculis sodales metus....",
+            "weight" : 1,
+            "pos" : 340 } ] } ] }

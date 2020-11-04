@@ -1,0 +1,123 @@
+
+  { "stem" : "collect",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "collection",
+            "context" : "...create digital exhibits. A digital exhibit is a <mark>collection<\/mark> of curated cultural artifacts—manuscripts, paintings, photographs, sculptures,...",
+            "weight" : 1,
+            "pos" : 23 },
+          
+          { "form" : "collections",
+            "context" : "...it could be used for sound or video <mark>collections<\/mark> with some customization.",
+            "weight" : 1,
+            "pos" : 46 },
+          
+          { "form" : "collection",
+            "context" : "Wax keeps the <mark>collection<\/mark> presentation separate from the collection data. The...",
+            "weight" : 1,
+            "pos" : 147 },
+          
+          { "form" : "collection",
+            "context" : "...Wax keeps the collection presentation separate from the <mark>collection<\/mark> data. The Wax workflow starts with making...",
+            "weight" : 1,
+            "pos" : 150 },
+          
+          { "form" : "collection",
+            "context" : "...or others to share, reuse and reimagine your <mark>collection<\/mark> data in other contexts.",
+            "weight" : 1,
+            "pos" : 178 },
+          
+          { "form" : "collection",
+            "context" : "...create a file of metadata records for your <mark>collection<\/mark> (in CSV, YAML, or JSON format), organize...",
+            "weight" : 1,
+            "pos" : 330 },
+          
+          { "form" : "collection",
+            "context" : "...(in CSV, YAML, or JSON format), organize your <mark>collection<\/mark> image files, and put both in the...",
+            "weight" : 1,
+            "pos" : 336 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Collection",
+            "context" : "Reuse the <mark>Collection<\/mark>",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "collections",
+            "context" : "...principles, and as such strives to make its <mark>collections<\/mark> findable, accessible, interoperable and reusable.",
+            "weight" : 1,
+            "pos" : 24 },
+          
+          { "form" : "collection",
+            "context" : "...complete with interactive DataTables and downloadable CSVs of <mark>collection<\/mark> metadata.",
+            "weight" : 1,
+            "pos" : 48 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Collection",
+            "context" : "Browse the <mark>Collection<\/mark>",
+            "weight" : 2,
+            "pos" : 77 },
+          
+          { "form" : "collections",
+            "context" : "...teach, and can produce beautifully rendered, high-quality image <mark>collections<\/mark> and scholarly exhibits. To start using Wax,...",
+            "weight" : 1,
+            "pos" : 46 },
+          
+          { "form" : "collection",
+            "context" : "The <mark>collection<\/mark> items in this demo are from The...",
+            "weight" : 1,
+            "pos" : 57 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Collection",
+            "context" : "Browse the <mark>Collection<\/mark>",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "collection",
+            "context" : "This site's sample <mark>collection<\/mark> comprises a set of objects, each of...",
+            "weight" : 1,
+            "pos" : 19 },
+          
+          { "form" : "collection",
+            "context" : "...is represented by one or more images. The <mark>collection<\/mark> items in this demo are from The...",
+            "weight" : 1,
+            "pos" : 26 } ] },
+      
+      { "docId" : "search_index",
+        "docUri" : "search\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Collection",
+            "context" : "Search the <mark>Collection<\/mark>",
+            "weight" : 2,
+            "pos" : 16 } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collection",
+            "context" : "...is a simple search page for the test <mark>collection<\/mark>. It runs a number of automated tests...",
+            "weight" : 1,
+            "pos" : 8 } ] } ] }

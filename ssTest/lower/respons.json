@@ -1,0 +1,13 @@
+
+  { "stem" : "respons",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "responsibility",
+            "context" : "...who are willing to take on some technical <mark>responsibility<\/mark> in exchange for a lot of flexibility....",
+            "weight" : 1,
+            "pos" : 201 } ] } ] }

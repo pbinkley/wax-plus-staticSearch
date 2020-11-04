@@ -1,0 +1,18 @@
+
+  { "stem" : "format",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "formatted",
+            "context" : "...just have to provide you with a properly <mark>formatted<\/mark> spreadsheet and the text for the exhibits....",
+            "weight" : 1,
+            "pos" : 311 },
+          
+          { "form" : "format",
+            "context" : "...for your collection (in CSV, YAML, or JSON <mark>format<\/mark>), organize your collection image files, and put...",
+            "weight" : 1,
+            "pos" : 334 } ] } ] }

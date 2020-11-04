@@ -1,0 +1,78 @@
+
+  { "stem" : "use",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "used",
+            "context" : "...focuses on images and text, it could be <mark>used<\/mark> for sound or video collections with some...",
+            "weight" : 1,
+            "pos" : 43 },
+          
+          { "form" : "use",
+            "context" : "...agnostic. This means they are largely transferable for <mark>use<\/mark> in other digital projects. 'Learning Wax' does...",
+            "weight" : 1,
+            "pos" : 118 },
+          
+          { "form" : "use",
+            "context" : "...'Learning Wax' does not mean learning how to <mark>use<\/mark> a platform. It involves learning the fundamentals...",
+            "weight" : 1,
+            "pos" : 125 },
+          
+          { "form" : "use",
+            "context" : "...who either don't have or don't want to <mark>use<\/mark> a lot of resources to create their...",
+            "weight" : 1,
+            "pos" : 188 },
+          
+          { "form" : "Using",
+            "context" : "<mark>Using<\/mark> an interactive shell (e.g., Bash\/Terminal) to install...",
+            "weight" : 1,
+            "pos" : 217 },
+          
+          { "form" : "Using",
+            "context" : "<mark>Using<\/mark> Git and GitHub to version control and...",
+            "weight" : 1,
+            "pos" : 229 },
+          
+          { "form" : "Using",
+            "context" : "<mark>Using<\/mark> Jekyll to generate static sites.",
+            "weight" : 1,
+            "pos" : 236 },
+          
+          { "form" : "Using",
+            "context" : "<mark>Using<\/mark> file-naming conventions and best practices.",
+            "weight" : 1,
+            "pos" : 248 },
+          
+          { "form" : "use",
+            "context" : "...tasks to prepare the data and metadata for <mark>use<\/mark> by the Jekyll site. Jekyll then uses...",
+            "weight" : 1,
+            "pos" : 352 },
+          
+          { "form" : "uses",
+            "context" : "...for use by the Jekyll site. Jekyll then <mark>uses<\/mark> special layouts and Wax components to build...",
+            "weight" : 1,
+            "pos" : 356 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "uses",
+            "context" : "...and Alex Gil at Columbia University Libraries. It <mark>uses<\/mark> open source libraries and frameworks including Jekyll,...",
+            "weight" : 1,
+            "pos" : 34 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "using",
+            "context" : "...high-quality image collections and scholarly exhibits. To start <mark>using<\/mark> Wax, please see our documentation for installation...",
+            "weight" : 1,
+            "pos" : 50 } ] } ] }

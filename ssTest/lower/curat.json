@@ -1,0 +1,13 @@
+
+  { "stem" : "curat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "curated",
+            "context" : "...exhibits. A digital exhibit is a collection of <mark>curated<\/mark> cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied...",
+            "weight" : 1,
+            "pos" : 24 } ] } ] }

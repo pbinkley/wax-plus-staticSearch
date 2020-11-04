@@ -1,0 +1,33 @@
+
+  { "stem" : "leo",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "leo",
+            "context" : "Nam velit <mark>leo<\/mark>, mattis ac dui non, vulputate porttitor sapien....",
+            "weight" : 1,
+            "pos" : 75 },
+          
+          { "form" : "leo",
+            "context" : "Duis finibus <mark>leo<\/mark> non velit viverra tincidunt. Fusce efficitur laoreet...",
+            "weight" : 1,
+            "pos" : 272 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "leo",
+            "context" : "Nam velit <mark>leo<\/mark>, mattis ac dui non, vulputate porttitor sapien....",
+            "weight" : 1,
+            "pos" : 75 },
+          
+          { "form" : "leo",
+            "context" : "Duis finibus <mark>leo<\/mark> non velit viverra tincidunt. Fusce efficitur laoreet...",
+            "weight" : 1,
+            "pos" : 268 } ] } ] }

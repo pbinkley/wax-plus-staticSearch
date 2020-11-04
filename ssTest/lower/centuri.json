@@ -1,0 +1,33 @@
+
+  { "stem" : "centuri",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "century",
+            "context" : "...The Museum of Islamic Art, Qatar Date 16th <mark>century<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj6\/manifest.json",
+            "weight" : 1,
+            "pos" : 35 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "century",
+            "context" : "...The Museum of Islamic Art, Qatar Date 14th <mark>century<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj2\/manifest.json",
+            "weight" : 1,
+            "pos" : 35 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "century",
+            "context" : "...The Museum of Islamic Art, Qatar Date 15th <mark>century<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj3\/manifest.json",
+            "weight" : 1,
+            "pos" : 33 } ] } ] }

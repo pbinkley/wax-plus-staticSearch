@@ -1,0 +1,13 @@
+
+  { "stem" : "beauti",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beautifully",
+            "context" : "...to learn and to teach, and can produce <mark>beautifully<\/mark> rendered, high-quality image collections and scholarly exhibits....",
+            "weight" : 1,
+            "pos" : 40 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "special",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "special",
+            "context" : "...use by the Jekyll site. Jekyll then uses <mark>special<\/mark> layouts and Wax components to build the...",
+            "weight" : 1,
+            "pos" : 357 } ] } ] }

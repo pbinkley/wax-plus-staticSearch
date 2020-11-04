@@ -1,0 +1,13 @@
+
+  { "stem" : "accompani",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accompanied",
+            "context" : "...of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often <mark>accompanied<\/mark> by an explicit narrative or argument. Though...",
+            "weight" : 1,
+            "pos" : 33 } ] } ] }

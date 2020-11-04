@@ -1,0 +1,13 @@
+
+  { "stem" : "argument",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "argument",
+            "context" : "...sculptures, etc—often accompanied by an explicit narrative or <mark>argument<\/mark>. Though Wax focuses on images and text,...",
+            "weight" : 1,
+            "pos" : 36 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "1850",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "1850",
+            "context" : "...Museum of Islamic Art, Qatar Date 1800 - <mark>1850<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj10\/manifest.json",
+            "weight" : 1,
+            "pos" : 44 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "1850",
+            "context" : "...Museum of Islamic Art, Qatar Date 1800 - <mark>1850<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj11\/manifest.json",
+            "weight" : 1,
+            "pos" : 38 } ] } ] }

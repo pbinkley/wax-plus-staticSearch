@@ -1,0 +1,33 @@
+
+  { "stem" : "demo",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "demo",
+            "context" : "The <mark>demo<\/mark> site comes with a specific _include called...",
+            "weight" : 1,
+            "pos" : 29 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "demo",
+            "context" : "The collection items in this <mark>demo<\/mark> are from The Museum of Islamic Art,...",
+            "weight" : 1,
+            "pos" : 59 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "demo",
+            "context" : "...or more images. The collection items in this <mark>demo<\/mark> are from The Museum of Islamic Art,...",
+            "weight" : 1,
+            "pos" : 28 } ] } ] }

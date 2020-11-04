@@ -1,0 +1,13 @@
+
+  { "stem" : "specif",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "specific",
+            "context" : "The demo site comes with a <mark>specific<\/mark> _include called interactive_metadata_table to help you make...",
+            "weight" : 1,
+            "pos" : 32 } ] } ] }

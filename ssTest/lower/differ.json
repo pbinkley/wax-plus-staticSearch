@@ -1,0 +1,18 @@
+
+  { "stem" : "differ",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "differences",
+            "context" : "...on minimal computing principles. Wax is hyper-aware of <mark>differences<\/mark> in resources, control and access around the...",
+            "weight" : 1,
+            "pos" : 59 },
+          
+          { "form" : "differently",
+            "context" : "...handling canonical information, scholarly content, and site styling <mark>differently<\/mark> and deliberately. This makes it easier for...",
+            "weight" : 1,
+            "pos" : 170 } ] } ] }

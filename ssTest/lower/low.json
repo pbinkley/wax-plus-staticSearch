@@ -1,0 +1,13 @@
+
+  { "stem" : "low",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "low",
+            "context" : "...project for producing digital exhibitions focused on longevity, <mark>low<\/mark> costs, and flexibility. Our underlying technology is...",
+            "weight" : 1,
+            "pos" : 31 } ] } ] }

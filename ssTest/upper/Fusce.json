@@ -1,0 +1,23 @@
+
+  { "stem" : "Fusce",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fusce",
+            "context" : "...Duis finibus leo non velit viverra tincidunt. <mark>Fusce<\/mark> efficitur laoreet convallis. Sed sem felis, porttitor...",
+            "weight" : 1,
+            "pos" : 277 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fusce",
+            "context" : "...Duis finibus leo non velit viverra tincidunt. <mark>Fusce<\/mark> efficitur laoreet convallis. Sed sem felis, porttitor...",
+            "weight" : 1,
+            "pos" : 273 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "safer",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safer",
+            "context" : "...back to a server. This makes them cheaper, <mark>safer<\/mark>, and generally easier to maintain.",
+            "weight" : 1,
+            "pos" : 105 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "often",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "context" : "...collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—<mark>often<\/mark> accompanied by an explicit narrative or argument....",
+            "weight" : 1,
+            "pos" : 32 } ] } ] }

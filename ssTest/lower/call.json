@@ -1,0 +1,13 @@
+
+  { "stem" : "call",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "called",
+            "context" : "...The demo site comes with a specific _include <mark>called<\/mark> interactive_metadata_table to help you make pages like...",
+            "weight" : 1,
+            "pos" : 34 } ] } ] }

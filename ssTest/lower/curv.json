@@ -1,0 +1,13 @@
+
+  { "stem" : "curv",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "curve",
+            "context" : "...Wax has a relatively high, but general-purpose learning <mark>curve<\/mark>. To get the most out of Wax,...",
+            "weight" : 1,
+            "pos" : 213 } ] } ] }

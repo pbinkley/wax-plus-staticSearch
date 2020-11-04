@@ -1,0 +1,53 @@
+
+  { "stem" : "faucibus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "faucibus",
+            "context" : "...semper commodo fringilla. Proin eget metus eget felis <mark>faucibus<\/mark> aliquet. Cras ultrices turpis id nibh cursus...",
+            "weight" : 1,
+            "pos" : 207 },
+          
+          { "form" : "faucibus",
+            "context" : "...ex bibendum, ornare sapien a, mollis neque. Duis <mark>faucibus<\/mark> diam vitae faucibus feugiat. Lorem ipsum dolor...",
+            "weight" : 1,
+            "pos" : 303 },
+          
+          { "form" : "faucibus",
+            "context" : "...sapien a, mollis neque. Duis faucibus diam vitae <mark>faucibus<\/mark> feugiat. Lorem ipsum dolor sit amet, consectetur...",
+            "weight" : 1,
+            "pos" : 306 },
+          
+          { "form" : "faucibus",
+            "context" : "...semper commodo fringilla. Proin eget metus eget felis <mark>faucibus<\/mark> aliquet. Cras ultrices turpis id nibh cursus...",
+            "weight" : 1,
+            "pos" : 380 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "faucibus",
+            "context" : "...semper commodo fringilla. Proin eget metus eget felis <mark>faucibus<\/mark> aliquet. Cras ultrices turpis id nibh cursus...",
+            "weight" : 1,
+            "pos" : 203 },
+          
+          { "form" : "faucibus",
+            "context" : "...ex bibendum, ornare sapien a, mollis neque. Duis <mark>faucibus<\/mark> diam vitae faucibus feugiat. Lorem ipsum dolor...",
+            "weight" : 1,
+            "pos" : 299 },
+          
+          { "form" : "faucibus",
+            "context" : "...sapien a, mollis neque. Duis faucibus diam vitae <mark>faucibus<\/mark> feugiat. Lorem ipsum dolor sit amet, consectetur...",
+            "weight" : 1,
+            "pos" : 302 },
+          
+          { "form" : "faucibus",
+            "context" : "...semper commodo fringilla. Proin eget metus eget felis <mark>faucibus<\/mark> aliquet. Cras ultrices turpis id nibh cursus...",
+            "weight" : 1,
+            "pos" : 428 } ] } ] }

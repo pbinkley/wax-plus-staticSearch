@@ -1,0 +1,18 @@
+
+  { "stem" : "product",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "production",
+            "context" : "...some practice, Wax substantially reduces the time to <mark>production<\/mark> and post-production maintenance costs for you and...",
+            "weight" : 1,
+            "pos" : 296 },
+          
+          { "form" : "production",
+            "context" : "...Wax substantially reduces the time to production and post-<mark>production<\/mark> maintenance costs for you and your team....",
+            "weight" : 1,
+            "pos" : 299 } ] } ] }

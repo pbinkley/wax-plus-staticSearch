@@ -1,0 +1,13 @@
+
+  { "stem" : "spreadsheet",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spreadsheet",
+            "context" : "...have to provide you with a properly formatted <mark>spreadsheet<\/mark> and the text for the exhibits. The...",
+            "weight" : 1,
+            "pos" : 312 } ] } ] }

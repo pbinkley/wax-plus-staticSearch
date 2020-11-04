@@ -1,0 +1,13 @@
+
+  { "stem" : "instruct",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "instructions",
+            "context" : "...using Wax, please see our documentation for installation <mark>instructions<\/mark> and more.",
+            "weight" : 1,
+            "pos" : 56 } ] } ] }

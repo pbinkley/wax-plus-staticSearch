@@ -1,0 +1,13 @@
+
+  { "stem" : "Binkley",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Binkley",
+            "context" : "...and ElasticLunr. Wax builds upon work by Peter <mark>Binkley<\/mark>, David Newbury, and others.",
+            "weight" : 1,
+            "pos" : 50 } ] } ] }

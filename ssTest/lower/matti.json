@@ -1,0 +1,43 @@
+
+  { "stem" : "matti",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "mattis",
+            "context" : "...nulla. Praesent accumsan ut mauris ut euismod. Etiam <mark>mattis<\/mark> a justo eget blandit. Aliquam vitae magna...",
+            "weight" : 1,
+            "pos" : 59 },
+          
+          { "form" : "mattis",
+            "context" : "Nam velit leo, <mark>mattis<\/mark> ac dui non, vulputate porttitor sapien. Praesent...",
+            "weight" : 1,
+            "pos" : 76 },
+          
+          { "form" : "mattis",
+            "context" : "...elit. Mauris pharetra elit sem, et euismod massa <mark>mattis<\/mark> ut. Phasellus maximus ipsum in nulla sollicitudin...",
+            "weight" : 1,
+            "pos" : 322 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "mattis",
+            "context" : "...nulla. Praesent accumsan ut mauris ut euismod. Etiam <mark>mattis<\/mark> a justo eget blandit. Aliquam vitae magna...",
+            "weight" : 1,
+            "pos" : 59 },
+          
+          { "form" : "mattis",
+            "context" : "Nam velit leo, <mark>mattis<\/mark> ac dui non, vulputate porttitor sapien. Praesent...",
+            "weight" : 1,
+            "pos" : 76 },
+          
+          { "form" : "mattis",
+            "context" : "...elit. Mauris pharetra elit sem, et euismod massa <mark>mattis<\/mark> ut. Phasellus maximus ipsum in nulla sollicitudin...",
+            "weight" : 1,
+            "pos" : 318 } ] } ] }

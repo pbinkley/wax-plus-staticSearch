@@ -1,0 +1,13 @@
+
+  { "stem" : "compris",
+    "instances" : 
+    [ 
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "comprises",
+            "context" : "This site's sample collection <mark>comprises<\/mark> a set of objects, each of which...",
+            "weight" : 1,
+            "pos" : 20 } ] } ] }

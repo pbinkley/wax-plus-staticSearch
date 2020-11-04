@@ -1,0 +1,38 @@
+
+  { "stem" : "eleifend",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "eleifend",
+            "context" : "Ut <mark>eleifend<\/mark> lacus at erat efficitur bibendum. Ut laoreet...",
+            "weight" : 1,
+            "pos" : 25 },
+          
+          { "form" : "eleifend",
+            "context" : "...Sed luctus, massa eget pharetra posuere, nibh sem <mark>eleifend<\/mark> lectus, lobortis molestie ante libero non metus....",
+            "weight" : 1,
+            "pos" : 176 },
+          
+          { "form" : "eleifend",
+            "context" : "...Sed luctus, massa eget pharetra posuere, nibh sem <mark>eleifend<\/mark> lectus, lobortis molestie ante libero non metus....",
+            "weight" : 1,
+            "pos" : 401 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "eleifend",
+            "context" : "Ut <mark>eleifend<\/mark> lacus at erat efficitur bibendum. Ut laoreet...",
+            "weight" : 1,
+            "pos" : 25 },
+          
+          { "form" : "eleifend",
+            "context" : "...Sed luctus, massa eget pharetra posuere, nibh sem <mark>eleifend<\/mark> lectus, lobortis molestie ante libero non metus....",
+            "weight" : 1,
+            "pos" : 180 } ] } ] }

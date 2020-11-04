@@ -1,0 +1,13 @@
+
+  { "stem" : "leverag",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "leveraging",
+            "context" : "...development, data management, and plain text editing while <mark>leveraging<\/mark> a few great open source libraries and...",
+            "weight" : 1,
+            "pos" : 137 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "encount",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "encounter",
+            "context" : "...or fork the project on GitHub. If you <mark>encounter<\/mark> any issue with the software, please create...",
+            "weight" : 1,
+            "pos" : 64 } ] } ] }

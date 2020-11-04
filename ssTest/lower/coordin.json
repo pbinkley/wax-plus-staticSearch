@@ -1,0 +1,13 @@
+
+  { "stem" : "coordin",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Coordinators",
+            "context" : "...facilitating role, such as Digital Scholarship Librarians or <mark>Coordinators<\/mark>. With some practice, Wax substantially reduces the...",
+            "weight" : 1,
+            "pos" : 290 } ] } ] }

@@ -1,0 +1,53 @@
+
+  { "stem" : "tincidunt",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "tincidunt",
+            "context" : "...elementum eget nisl eget, sagittis vestibulum augue. Donec <mark>tincidunt<\/mark> mauris et nunc sagittis, nec consectetur lorem...",
+            "weight" : 1,
+            "pos" : 146 },
+          
+          { "form" : "tincidunt",
+            "context" : "...et nunc sagittis, nec consectetur lorem tristique. Nulla <mark>tincidunt<\/mark> magna ut ullamcorper consectetur. Nulla mi urna,...",
+            "weight" : 1,
+            "pos" : 155 },
+          
+          { "form" : "tincidunt",
+            "context" : "Duis finibus leo non velit viverra <mark>tincidunt<\/mark>. Fusce efficitur laoreet convallis. Sed sem felis,...",
+            "weight" : 1,
+            "pos" : 272 },
+          
+          { "form" : "tincidunt",
+            "context" : "...elementum eget nisl eget, sagittis vestibulum augue. Donec <mark>tincidunt<\/mark> mauris et nunc sagittis, nec consectetur lorem...",
+            "weight" : 1,
+            "pos" : 371 },
+          
+          { "form" : "tincidunt",
+            "context" : "...et nunc sagittis, nec consectetur lorem tristique. Nulla <mark>tincidunt<\/mark> magna ut ullamcorper consectetur. Nulla mi urna,...",
+            "weight" : 1,
+            "pos" : 380 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tincidunt",
+            "context" : "...elementum eget nisl eget, sagittis vestibulum augue. Donec <mark>tincidunt<\/mark> mauris et nunc sagittis, nec consectetur lorem...",
+            "weight" : 1,
+            "pos" : 150 },
+          
+          { "form" : "tincidunt",
+            "context" : "...et nunc sagittis, nec consectetur lorem tristique. Nulla <mark>tincidunt<\/mark> magna ut ullamcorper consectetur. Nulla mi urna,...",
+            "weight" : 1,
+            "pos" : 159 },
+          
+          { "form" : "tincidunt",
+            "context" : "Duis finibus leo non velit viverra <mark>tincidunt<\/mark>. Fusce efficitur laoreet convallis. Sed sem felis,...",
+            "weight" : 1,
+            "pos" : 276 } ] } ] }

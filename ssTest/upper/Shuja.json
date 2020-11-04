@@ -1,0 +1,28 @@
+
+  { "stem" : "Shuja",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Shuja",
+            "context" : "Portrait of Hasan ʾAli Mirza <mark>Shuja<\/mark> al-Saltana",
+            "weight" : 2,
+            "pos" : 19 },
+          
+          { "form" : "Shuja",
+            "context" : "...Label Portrait of Hasan ʾAli Mirza <mark>Shuja<\/mark> al-Saltana Artist Unknown Type portrait Location Iran...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shuja",
+            "context" : "Above: Portrait of Hasan ʾAli Mirza <mark>Shuja<\/mark> al-Saltana",
+            "weight" : 1,
+            "pos" : 19 } ] } ] }

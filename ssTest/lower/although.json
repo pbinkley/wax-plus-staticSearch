@@ -1,0 +1,13 @@
+
+  { "stem" : "although",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "although",
+            "context" : "...value options should appear in ascending numeric order <mark>although<\/mark> they do not have a configured @data-ssFilterSortKey...",
+            "weight" : 1,
+            "pos" : 37 } ] } ] }

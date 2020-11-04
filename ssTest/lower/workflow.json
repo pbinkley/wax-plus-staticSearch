@@ -1,0 +1,23 @@
+
+  { "stem" : "workflow",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "workflow",
+            "context" : "So what does the Wax <mark>workflow<\/mark> look like?",
+            "weight" : 2,
+            "pos" : 317 },
+          
+          { "form" : "workflow",
+            "context" : "Wax is an extensible <mark>workflow<\/mark> based on minimal computing principles. Wax is...",
+            "weight" : 1,
+            "pos" : 50 },
+          
+          { "form" : "workflow",
+            "context" : "...presentation separate from the collection data. The Wax <mark>workflow<\/mark> starts with making standardized image files and...",
+            "weight" : 1,
+            "pos" : 153 } ] } ] }

@@ -1,0 +1,38 @@
+
+  { "stem" : "metadata",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "metadata",
+            "context" : "...workflow starts with making standardized image files and <mark>metadata<\/mark> records and builds around them, handling canonical...",
+            "weight" : 1,
+            "pos" : 159 },
+          
+          { "form" : "metadata",
+            "context" : "...view. In summary, you create a file of <mark>metadata<\/mark> records for your collection (in CSV, YAML,...",
+            "weight" : 1,
+            "pos" : 328 },
+          
+          { "form" : "metadata",
+            "context" : "...command line tasks to prepare the data and <mark>metadata<\/mark> for use by the Jekyll site. Jekyll...",
+            "weight" : 1,
+            "pos" : 351 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "metadata",
+            "context" : "...demo site comes with a specific _include called interactive_<mark>metadata<\/mark>_table to help you make pages like this...",
+            "weight" : 1,
+            "pos" : 36 },
+          
+          { "form" : "metadata",
+            "context" : "...with interactive DataTables and downloadable CSVs of collection <mark>metadata<\/mark>.",
+            "weight" : 1,
+            "pos" : 49 } ] } ] }

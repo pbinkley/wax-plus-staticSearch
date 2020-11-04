@@ -1,0 +1,13 @@
+
+  { "stem" : "folk",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "folks",
+            "context" : "...scholarly or cultural exhibits. It's best suited for <mark>folks<\/mark> who are willing to take on some...",
+            "weight" : 1,
+            "pos" : 197 } ] } ] }

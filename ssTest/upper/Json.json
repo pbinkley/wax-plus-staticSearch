@@ -1,0 +1,18 @@
+
+  { "stem" : "Json",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "JSON",
+            "context" : "...Creating and normalizing data files (e.g., CSV, <mark>JSON<\/mark>, YAML)",
+            "weight" : 1,
+            "pos" : 246 },
+          
+          { "form" : "JSON",
+            "context" : "...records for your collection (in CSV, YAML, or <mark>JSON<\/mark> format), organize your collection image files, and...",
+            "weight" : 1,
+            "pos" : 333 } ] } ] }

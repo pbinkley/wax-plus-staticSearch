@@ -1,0 +1,43 @@
+
+  { "stem" : "posuer",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "posuere",
+            "context" : "...Duis commodo ligula libero, a pharetra ligula <mark>posuere<\/mark> sit amet. Sed ipsum dolor, elementum eget...",
+            "weight" : 1,
+            "pos" : 132 },
+          
+          { "form" : "posuere",
+            "context" : "...ullamcorper efficitur dolor. Sed luctus, massa eget pharetra <mark>posuere<\/mark>, nibh sem eleifend lectus, lobortis molestie ante...",
+            "weight" : 1,
+            "pos" : 173 },
+          
+          { "form" : "posuere",
+            "context" : "...Duis commodo ligula libero, a pharetra ligula <mark>posuere<\/mark> sit amet. Sed ipsum dolor, elementum eget...",
+            "weight" : 1,
+            "pos" : 357 },
+          
+          { "form" : "posuere",
+            "context" : "...ullamcorper efficitur dolor. Sed luctus, massa eget pharetra <mark>posuere<\/mark>, nibh sem eleifend lectus, lobortis molestie ante...",
+            "weight" : 1,
+            "pos" : 398 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "posuere",
+            "context" : "...Duis commodo ligula libero, a pharetra ligula <mark>posuere<\/mark> sit amet. Sed ipsum dolor, elementum eget...",
+            "weight" : 1,
+            "pos" : 136 },
+          
+          { "form" : "posuere",
+            "context" : "...ullamcorper efficitur dolor.2 Sed luctus, massa eget pharetra <mark>posuere<\/mark>, nibh sem eleifend lectus, lobortis molestie ante...",
+            "weight" : 1,
+            "pos" : 177 } ] } ] }

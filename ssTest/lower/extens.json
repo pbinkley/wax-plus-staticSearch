@@ -1,0 +1,13 @@
+
+  { "stem" : "extens",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "extensible",
+            "context" : "Wax is an <mark>extensible<\/mark> workflow based on minimal computing principles. Wax...",
+            "weight" : 1,
+            "pos" : 49 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "Google",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Google",
+            "context" : "...of Islamic Art, Qatar, (courtesy of WikiMedia and <mark>Google<\/mark> Art Project) and The Qatar National Library...",
+            "weight" : 1,
+            "pos" : 66 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Google",
+            "context" : "...of Islamic Art, Qatar, (courtesy of WikiMedia and <mark>Google<\/mark> Art Project) and The Qatar National Library...",
+            "weight" : 1,
+            "pos" : 35 } ] } ] }

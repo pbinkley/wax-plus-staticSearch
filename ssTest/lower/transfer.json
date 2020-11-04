@@ -1,0 +1,13 @@
+
+  { "stem" : "transfer",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "transferable",
+            "context" : "...sites are agnostic. This means they are largely <mark>transferable<\/mark> for use in other digital projects. 'Learning...",
+            "weight" : 1,
+            "pos" : 117 } ] } ] }

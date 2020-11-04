@@ -1,0 +1,13 @@
+
+  { "stem" : "longev",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longevity",
+            "context" : "...computing project for producing digital exhibitions focused on <mark>longevity<\/mark>, low costs, and flexibility. Our underlying technology...",
+            "weight" : 1,
+            "pos" : 30 } ] } ] }

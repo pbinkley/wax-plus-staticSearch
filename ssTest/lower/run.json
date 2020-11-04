@@ -1,0 +1,28 @@
+
+  { "stem" : "run",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "run",
+            "context" : "...Jekyll site folder. After updating your configuration, you <mark>run<\/mark> a few command line tasks to prepare...",
+            "weight" : 1,
+            "pos" : 345 },
+          
+          { "form" : "run",
+            "context" : "From there, you can <mark>run<\/mark> tests on your site to catch errors...",
+            "weight" : 1,
+            "pos" : 368 } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "runs",
+            "context" : "...simple search page for the test collection. It <mark>runs<\/mark> a number of automated tests on load....",
+            "weight" : 1,
+            "pos" : 9 } ] } ] }

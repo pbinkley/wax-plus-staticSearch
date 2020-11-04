@@ -1,0 +1,13 @@
+
+  { "stem" : "bash",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bash",
+            "context" : "Using an interactive shell (e.g., <mark>Bash<\/mark>\/Terminal) to install and interact with programs, files,...",
+            "weight" : 1,
+            "pos" : 220 } ] } ] }

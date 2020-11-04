@@ -1,0 +1,13 @@
+
+  { "stem" : "phenomen",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "phenomenal",
+            "context" : "Wax is also <mark>phenomenal<\/mark> for professionals who play a facilitating role,...",
+            "weight" : 1,
+            "pos" : 282 } ] } ] }

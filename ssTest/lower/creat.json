@@ -1,0 +1,58 @@
+
+  { "stem" : "creat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "create",
+            "context" : "Wax helps you <mark>create<\/mark> digital exhibits. A digital exhibit is a...",
+            "weight" : 1,
+            "pos" : 18 },
+          
+          { "form" : "creating",
+            "context" : "...components, good documentation and (hopefully soon!) recipes for <mark>creating<\/mark>, deploying, and maintaining custom digital exhibitions.",
+            "weight" : 1,
+            "pos" : 79 },
+          
+          { "form" : "created",
+            "context" : "The exhibition sites <mark>created<\/mark> by Wax are static. This means they...",
+            "weight" : 1,
+            "pos" : 87 },
+          
+          { "form" : "create",
+            "context" : "The skills needed to <mark>create<\/mark> Wax sites are agnostic. This means they...",
+            "weight" : 1,
+            "pos" : 111 },
+          
+          { "form" : "created",
+            "context" : "Wax was <mark>created<\/mark> for individuals and groups who either don't...",
+            "weight" : 1,
+            "pos" : 183 },
+          
+          { "form" : "create",
+            "context" : "...want to use a lot of resources to <mark>create<\/mark> their scholarly or cultural exhibits. It's best...",
+            "weight" : 1,
+            "pos" : 191 },
+          
+          { "form" : "Creating",
+            "context" : "<mark>Creating<\/mark> and normalizing data files (e.g., CSV, JSON,...",
+            "weight" : 1,
+            "pos" : 241 },
+          
+          { "form" : "create",
+            "context" : "...give you a zoomed-out view. In summary, you <mark>create<\/mark> a file of metadata records for your...",
+            "weight" : 1,
+            "pos" : 326 } ] },
+      
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "create",
+            "context" : "...you encounter any issue with the software, please <mark>create<\/mark> an issue on our repository or post...",
+            "weight" : 1,
+            "pos" : 68 } ] } ] }

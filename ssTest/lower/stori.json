@@ -1,0 +1,18 @@
+
+  { "stem" : "stori",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "story",
+            "context" : "Silk Tapestry Depicting the <mark>story<\/mark> of Leila and Majnun",
+            "weight" : 2,
+            "pos" : 18 },
+          
+          { "form" : "story",
+            "context" : "Label Silk Tapestry Depicting the <mark>story<\/mark> of Leila and Majnun Artist Unknown Type...",
+            "weight" : 1,
+            "pos" : 25 } ] } ] }

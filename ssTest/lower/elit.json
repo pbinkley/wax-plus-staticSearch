@@ -1,0 +1,43 @@
+
+  { "stem" : "elit",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "elit",
+            "context" : "...eleifend lacus at erat efficitur bibendum. Ut laoreet <mark>elit<\/mark> nec dolor molestie finibus. Vivamus justo risus,...",
+            "weight" : 1,
+            "pos" : 31 },
+          
+          { "form" : "elit",
+            "context" : "...feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing <mark>elit<\/mark>. Mauris pharetra elit sem, et euismod massa...",
+            "weight" : 1,
+            "pos" : 315 },
+          
+          { "form" : "elit",
+            "context" : "...dolor sit amet, consectetur adipiscing elit. Mauris pharetra <mark>elit<\/mark> sem, et euismod massa mattis ut. Phasellus...",
+            "weight" : 1,
+            "pos" : 318 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "elit",
+            "context" : "...eleifend lacus at erat efficitur bibendum. Ut laoreet <mark>elit<\/mark> nec dolor molestie finibus. Vivamus justo risus,...",
+            "weight" : 1,
+            "pos" : 31 },
+          
+          { "form" : "elit",
+            "context" : "...feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing <mark>elit<\/mark>. Mauris pharetra elit sem, et euismod massa...",
+            "weight" : 1,
+            "pos" : 311 },
+          
+          { "form" : "elit",
+            "context" : "...dolor sit amet, consectetur adipiscing elit. Mauris pharetra <mark>elit<\/mark> sem, et euismod massa mattis ut. Phasellus...",
+            "weight" : 1,
+            "pos" : 314 } ] } ] }

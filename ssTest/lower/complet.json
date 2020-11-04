@@ -1,0 +1,13 @@
+
+  { "stem" : "complet",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "complete",
+            "context" : "...to help you make pages like this one <mark>complete<\/mark> with interactive DataTables and downloadable CSVs of...",
+            "weight" : 1,
+            "pos" : 43 } ] } ] }

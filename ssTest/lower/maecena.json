@@ -1,0 +1,23 @@
+
+  { "stem" : "maecena",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maecenas",
+            "context" : "...porttitor sapien. Praesent in aliquet dui. Nulla facilisi. <mark>Maecenas<\/mark> nulla ex, facilisis non aliquet ac, ultrices...",
+            "weight" : 1,
+            "pos" : 87 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maecenas",
+            "context" : "...porttitor sapien. Praesent in aliquet dui. Nulla facilisi. <mark>Maecenas<\/mark> nulla ex, facilisis non aliquet ac, ultrices...",
+            "weight" : 1,
+            "pos" : 87 } ] } ] }

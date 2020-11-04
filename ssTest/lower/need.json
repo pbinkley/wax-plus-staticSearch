@@ -1,0 +1,18 @@
+
+  { "stem" : "need",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "need",
+            "context" : "...flat HTML, CSS, and JavaScript files that don't <mark>need<\/mark> to communicate in a complex way back...",
+            "weight" : 1,
+            "pos" : 97 },
+          
+          { "form" : "needed",
+            "context" : "The skills <mark>needed<\/mark> to create Wax sites are agnostic. This...",
+            "weight" : 1,
+            "pos" : 110 } ] } ] }

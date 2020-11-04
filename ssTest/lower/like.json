@@ -1,0 +1,23 @@
+
+  { "stem" : "like",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "like",
+            "context" : "..._include called interactive_metadata_table to help you make pages <mark>like<\/mark> this one complete with interactive DataTables and...",
+            "weight" : 1,
+            "pos" : 41 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "like",
+            "context" : "...So what does the Wax workflow look <mark>like<\/mark>?",
+            "weight" : 2,
+            "pos" : 319 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "line",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "line",
+            "context" : "...updating your configuration, you run a few command <mark>line<\/mark> tasks to prepare the data and metadata...",
+            "weight" : 1,
+            "pos" : 347 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "high-qual",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high-quality",
+            "context" : "...and to teach, and can produce beautifully rendered, <mark>high-quality<\/mark> image collections and scholarly exhibits. To start...",
+            "weight" : 1,
+            "pos" : 42 } ] } ] }

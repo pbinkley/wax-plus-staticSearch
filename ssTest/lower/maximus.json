@@ -1,0 +1,23 @@
+
+  { "stem" : "maximus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maximus",
+            "context" : "...elit sem, et euismod massa mattis ut. Phasellus <mark>maximus<\/mark> ipsum in nulla sollicitudin viverra. Morbi semper...",
+            "weight" : 1,
+            "pos" : 324 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maximus",
+            "context" : "...elit sem, et euismod massa mattis ut. Phasellus <mark>maximus<\/mark> ipsum in nulla sollicitudin viverra. Morbi semper...",
+            "weight" : 1,
+            "pos" : 320 } ] } ] }

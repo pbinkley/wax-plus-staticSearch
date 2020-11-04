@@ -1,0 +1,23 @@
+
+  { "stem" : "ero",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eros",
+            "context" : "...viverra sem a orci aliquet sodales. Aliquam commodo <mark>eros<\/mark> at sagittis vehicula. Quisque in massa turpis....",
+            "weight" : 1,
+            "pos" : 253 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eros",
+            "context" : "...viverra sem a orci aliquet sodales. Aliquam commodo <mark>eros<\/mark> at sagittis vehicula. Quisque in massa turpis....",
+            "weight" : 1,
+            "pos" : 249 } ] } ] }

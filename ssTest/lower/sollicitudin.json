@@ -1,0 +1,23 @@
+
+  { "stem" : "sollicitudin",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sollicitudin",
+            "context" : "...massa mattis ut. Phasellus maximus ipsum in nulla <mark>sollicitudin<\/mark> viverra. Morbi semper lectus quis dolor cursus,...",
+            "weight" : 1,
+            "pos" : 327 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sollicitudin",
+            "context" : "...massa mattis ut. Phasellus maximus ipsum in nulla <mark>sollicitudin<\/mark> viverra. Morbi semper lectus quis dolor cursus,...",
+            "weight" : 1,
+            "pos" : 323 } ] } ] }

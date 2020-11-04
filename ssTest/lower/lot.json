@@ -1,0 +1,18 @@
+
+  { "stem" : "lot",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lot",
+            "context" : "...don't have or don't want to use a <mark>lot<\/mark> of resources to create their scholarly or...",
+            "weight" : 1,
+            "pos" : 189 },
+          
+          { "form" : "lot",
+            "context" : "...on some technical responsibility in exchange for a <mark>lot<\/mark> of flexibility.",
+            "weight" : 1,
+            "pos" : 203 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "nequ",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "neque",
+            "context" : "...Pellentesque fringilla ex bibendum, ornare sapien a, mollis <mark>neque<\/mark>. Duis faucibus diam vitae faucibus feugiat. Lorem...",
+            "weight" : 1,
+            "pos" : 301 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "neque",
+            "context" : "...Pellentesque fringilla ex bibendum, ornare sapien a, mollis <mark>neque<\/mark>. Duis faucibus diam vitae faucibus feugiat. Lorem...",
+            "weight" : 1,
+            "pos" : 297 } ] } ] }

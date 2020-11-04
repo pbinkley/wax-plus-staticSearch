@@ -1,0 +1,13 @@
+
+  { "stem" : "folder",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "folder",
+            "context" : "...files, and put both in the Jekyll site <mark>folder<\/mark>. After updating your configuration, you run a...",
+            "weight" : 1,
+            "pos" : 342 } ] } ] }

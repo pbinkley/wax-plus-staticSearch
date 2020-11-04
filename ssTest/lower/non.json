@@ -1,0 +1,98 @@
+
+  { "stem" : "non",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "non",
+            "context" : "Nam velit leo, mattis ac dui <mark>non<\/mark>, vulputate porttitor sapien. Praesent in aliquet dui....",
+            "weight" : 1,
+            "pos" : 78 },
+          
+          { "form" : "non",
+            "context" : "...aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis <mark>non<\/mark> aliquet ac, ultrices eu sem. Sed vel...",
+            "weight" : 1,
+            "pos" : 90 },
+          
+          { "form" : "non",
+            "context" : "...ullamcorper consectetur. Nulla mi urna, feugiat sed massa <mark>non<\/mark>, ullamcorper efficitur dolor. Sed luctus, massa eget...",
+            "weight" : 1,
+            "pos" : 164 },
+          
+          { "form" : "non",
+            "context" : "...nibh sem eleifend lectus, lobortis molestie ante libero <mark>non<\/mark> metus. Aenean et est sit amet est...",
+            "weight" : 1,
+            "pos" : 182 },
+          
+          { "form" : "non",
+            "context" : "...et est sit amet est pulvinar convallis vel <mark>non<\/mark> tortor. Nunc semper commodo fringilla. Proin eget...",
+            "weight" : 1,
+            "pos" : 192 },
+          
+          { "form" : "non",
+            "context" : "...Quisque in massa turpis. Aliquam aliquam consectetur magna <mark>non<\/mark> dignissim. Sed fringilla a ligula vitae molestie....",
+            "weight" : 1,
+            "pos" : 259 },
+          
+          { "form" : "non",
+            "context" : "Duis finibus leo <mark>non<\/mark> velit viverra tincidunt. Fusce efficitur laoreet convallis....",
+            "weight" : 1,
+            "pos" : 269 },
+          
+          { "form" : "non",
+            "context" : "...ullamcorper consectetur. Nulla mi urna, feugiat sed massa <mark>non<\/mark>, ullamcorper efficitur dolor. Sed luctus, massa eget...",
+            "weight" : 1,
+            "pos" : 389 },
+          
+          { "form" : "non",
+            "context" : "...nibh sem eleifend lectus, lobortis molestie ante libero <mark>non<\/mark> metus. Aenean et est sit amet est...",
+            "weight" : 1,
+            "pos" : 407 },
+          
+          { "form" : "non",
+            "context" : "...et est sit amet est pulvinar convallis vel <mark>non<\/mark> tortor. Nunc semper commodo fringilla. Proin eget...",
+            "weight" : 1,
+            "pos" : 417 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "non",
+            "context" : "Nam velit leo, mattis ac dui <mark>non<\/mark>, vulputate porttitor sapien. Praesent in aliquet dui....",
+            "weight" : 1,
+            "pos" : 78 },
+          
+          { "form" : "non",
+            "context" : "...aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis <mark>non<\/mark> aliquet ac, ultrices eu sem. Sed vel...",
+            "weight" : 1,
+            "pos" : 90 },
+          
+          { "form" : "non",
+            "context" : "...ullamcorper consectetur. Nulla mi urna, feugiat sed massa <mark>non<\/mark>, ullamcorper efficitur dolor.2 Sed luctus, massa eget...",
+            "weight" : 1,
+            "pos" : 168 },
+          
+          { "form" : "non",
+            "context" : "...nibh sem eleifend lectus, lobortis molestie ante libero <mark>non<\/mark> metus. Aenean et est sit amet est...",
+            "weight" : 1,
+            "pos" : 186 },
+          
+          { "form" : "non",
+            "context" : "...et est sit amet est pulvinar convallis vel <mark>non<\/mark> tortor. Nunc semper commodo fringilla. Proin eget...",
+            "weight" : 1,
+            "pos" : 196 },
+          
+          { "form" : "non",
+            "context" : "...Quisque in massa turpis. Aliquam aliquam consectetur magna <mark>non<\/mark> dignissim. Sed fringilla a ligula vitae molestie....",
+            "weight" : 1,
+            "pos" : 263 },
+          
+          { "form" : "non",
+            "context" : "Duis finibus leo <mark>non<\/mark> velit viverra tincidunt. Fusce efficitur laoreet convallis....",
+            "weight" : 1,
+            "pos" : 273 } ] } ] }

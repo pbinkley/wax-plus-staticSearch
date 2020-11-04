@@ -1,0 +1,48 @@
+
+  { "stem" : "conval",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "convallis",
+            "context" : "...metus. Aenean et est sit amet est pulvinar <mark>convallis<\/mark> vel non tortor. Nunc semper commodo fringilla....",
+            "weight" : 1,
+            "pos" : 190 },
+          
+          { "form" : "convallis",
+            "context" : "...leo non velit viverra tincidunt. Fusce efficitur laoreet <mark>convallis<\/mark>. Sed sem felis, porttitor sit amet volutpat...",
+            "weight" : 1,
+            "pos" : 276 },
+          
+          { "form" : "convallis",
+            "context" : "...viverra. Morbi semper lectus quis dolor cursus, ut <mark>convallis<\/mark> lacus venenatis. Pellentesque lorem mauris, malesuada a...",
+            "weight" : 1,
+            "pos" : 331 },
+          
+          { "form" : "convallis",
+            "context" : "...metus. Aenean et est sit amet est pulvinar <mark>convallis<\/mark> vel non tortor. Nunc semper commodo fringilla....",
+            "weight" : 1,
+            "pos" : 415 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "convallis",
+            "context" : "...metus. Aenean et est sit amet est pulvinar <mark>convallis<\/mark> vel non tortor. Nunc semper commodo fringilla....",
+            "weight" : 1,
+            "pos" : 194 },
+          
+          { "form" : "convallis",
+            "context" : "...leo non velit viverra tincidunt. Fusce efficitur laoreet <mark>convallis<\/mark>. Sed sem felis, porttitor sit amet volutpat...",
+            "weight" : 1,
+            "pos" : 280 },
+          
+          { "form" : "convallis",
+            "context" : "...viverra. Morbi semper lectus quis dolor cursus, ut <mark>convallis<\/mark> lacus venenatis. Pellentesque lorem mauris, malesuada a...",
+            "weight" : 1,
+            "pos" : 335 } ] } ] }

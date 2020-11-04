@@ -1,0 +1,58 @@
+
+  { "stem" : "lectus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "lectus",
+            "context" : "...Sed vel aliquet urna. Mauris quis ex at <mark>lectus<\/mark> iaculis elementum id id massa. Integer luctus...",
+            "weight" : 1,
+            "pos" : 100 },
+          
+          { "form" : "lectus",
+            "context" : "...luctus, massa eget pharetra posuere, nibh sem eleifend <mark>lectus<\/mark>, lobortis molestie ante libero non metus. Aenean...",
+            "weight" : 1,
+            "pos" : 177 },
+          
+          { "form" : "lectus",
+            "context" : "...felis, porttitor sit amet volutpat ac, consequat quis <mark>lectus<\/mark>. Donec elementum dignissim vehicula. Pellentesque fringilla ex...",
+            "weight" : 1,
+            "pos" : 286 },
+          
+          { "form" : "lectus",
+            "context" : "...maximus ipsum in nulla sollicitudin viverra. Morbi semper <mark>lectus<\/mark> quis dolor cursus, ut convallis lacus venenatis....",
+            "weight" : 1,
+            "pos" : 327 },
+          
+          { "form" : "lectus",
+            "context" : "...luctus, massa eget pharetra posuere, nibh sem eleifend <mark>lectus<\/mark>, lobortis molestie ante libero non metus. Aenean...",
+            "weight" : 1,
+            "pos" : 402 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "lectus",
+            "context" : "...Sed vel aliquet urna. Mauris quis ex at <mark>lectus<\/mark> iaculis elementum id id massa. Integer luctus...",
+            "weight" : 1,
+            "pos" : 100 },
+          
+          { "form" : "lectus",
+            "context" : "...luctus, massa eget pharetra posuere, nibh sem eleifend <mark>lectus<\/mark>, lobortis molestie ante libero non metus. Aenean...",
+            "weight" : 1,
+            "pos" : 181 },
+          
+          { "form" : "lectus",
+            "context" : "...felis, porttitor sit amet volutpat ac, consequat quis <mark>lectus<\/mark>. Donec elementum dignissim vehicula. Pellentesque fringilla ex...",
+            "weight" : 1,
+            "pos" : 290 },
+          
+          { "form" : "lectus",
+            "context" : "...maximus ipsum in nulla sollicitudin viverra. Morbi semper <mark>lectus<\/mark> quis dolor cursus, ut convallis lacus venenatis....",
+            "weight" : 1,
+            "pos" : 331 } ] } ] }

@@ -1,0 +1,38 @@
+
+  { "stem" : "accumsan",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "accumsan",
+            "context" : "...tristique ac libero vitae, bibendum pellentesque nulla. Praesent <mark>accumsan<\/mark> ut mauris ut euismod. Etiam mattis a...",
+            "weight" : 1,
+            "pos" : 55 },
+          
+          { "form" : "accumsan",
+            "context" : "...augue elementum, venenatis nisi vitae, ultrices magna. Nunc <mark>accumsan<\/mark> sem quis tristique iaculis. Quisque sed lorem...",
+            "weight" : 1,
+            "pos" : 236 },
+          
+          { "form" : "accumsan",
+            "context" : "...augue elementum, venenatis nisi vitae, ultrices magna. Nunc <mark>accumsan<\/mark> sem quis tristique iaculis. Quisque sed lorem...",
+            "weight" : 1,
+            "pos" : 362 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "accumsan",
+            "context" : "...tristique ac libero vitae, bibendum pellentesque nulla. Praesent <mark>accumsan<\/mark> ut mauris ut euismod. Etiam mattis a...",
+            "weight" : 1,
+            "pos" : 55 },
+          
+          { "form" : "accumsan",
+            "context" : "...augue elementum, venenatis nisi vitae, ultrices magna. Nunc <mark>accumsan<\/mark> sem quis tristique iaculis. Quisque sed lorem...",
+            "weight" : 1,
+            "pos" : 232 } ] } ] }

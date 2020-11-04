@@ -1,0 +1,43 @@
+
+  { "stem" : "tortor",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tortor",
+            "context" : "...est sit amet est pulvinar convallis vel non <mark>tortor<\/mark>. Nunc semper commodo fringilla. Proin eget metus...",
+            "weight" : 1,
+            "pos" : 197 },
+          
+          { "form" : "tortor",
+            "context" : "...accumsan sem quis tristique iaculis. Quisque sed lorem <mark>tortor<\/mark>. Quisque viverra sem a orci aliquet sodales....",
+            "weight" : 1,
+            "pos" : 244 },
+          
+          { "form" : "tortor",
+            "context" : "...accumsan sem quis tristique iaculis. Quisque sed lorem <mark>tortor<\/mark>. ↩︎",
+            "weight" : 1,
+            "pos" : 370 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tortor",
+            "context" : "...est sit amet est pulvinar convallis vel non <mark>tortor<\/mark>. Nunc semper commodo fringilla. Proin eget metus...",
+            "weight" : 1,
+            "pos" : 193 },
+          
+          { "form" : "tortor",
+            "context" : "...accumsan sem quis tristique iaculis. Quisque sed lorem <mark>tortor<\/mark>. Quisque viverra sem a orci aliquet sodales....",
+            "weight" : 1,
+            "pos" : 240 },
+          
+          { "form" : "tortor",
+            "context" : "...est sit amet est pulvinar convallis vel non <mark>tortor<\/mark>. Nunc semper commodo fringilla. Proin eget metus...",
+            "weight" : 1,
+            "pos" : 418 } ] } ] }

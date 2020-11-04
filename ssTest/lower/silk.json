@@ -1,0 +1,18 @@
+
+  { "stem" : "silk",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Silk",
+            "context" : "<mark>Silk<\/mark> Tapestry Depicting the story of Leila and...",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Silk",
+            "context" : "Label <mark>Silk<\/mark> Tapestry Depicting the story of Leila and...",
+            "weight" : 1,
+            "pos" : 22 } ] } ] }

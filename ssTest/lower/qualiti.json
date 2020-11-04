@@ -1,0 +1,13 @@
+
+  { "stem" : "qualiti",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quality",
+            "context" : "...and to teach, and can produce beautifully rendered, high-<mark>quality<\/mark> image collections and scholarly exhibits. To start...",
+            "weight" : 1,
+            "pos" : 44 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "inspir",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inspired",
+            "context" : "Wax is <mark>inspired<\/mark> by FAIR data principles, and as such...",
+            "weight" : 1,
+            "pos" : 18 } ] } ] }

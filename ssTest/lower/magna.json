@@ -1,0 +1,83 @@
+
+  { "stem" : "magna",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "magna",
+            "context" : "...Etiam mattis a justo eget blandit. Aliquam vitae <mark>magna<\/mark> eget nisi suscipit finibus id sit amet...",
+            "weight" : 1,
+            "pos" : 65 },
+          
+          { "form" : "magna",
+            "context" : "...nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt <mark>magna<\/mark> ut ullamcorper consectetur. Nulla mi urna, feugiat...",
+            "weight" : 1,
+            "pos" : 160 },
+          
+          { "form" : "magna",
+            "context" : "...ultrices turpis id nibh cursus fringilla. Aenean nec <mark>magna<\/mark> turpis. Suspendisse egestas tellus iaculis ante pharetra...",
+            "weight" : 1,
+            "pos" : 217 },
+          
+          { "form" : "magna",
+            "context" : "...Integer eu augue elementum, venenatis nisi vitae, ultrices <mark>magna<\/mark>. Nunc accumsan sem quis tristique iaculis. Quisque...",
+            "weight" : 1,
+            "pos" : 234 },
+          
+          { "form" : "magna",
+            "context" : "...vehicula. Quisque in massa turpis. Aliquam aliquam consectetur <mark>magna<\/mark> non dignissim. Sed fringilla a ligula vitae...",
+            "weight" : 1,
+            "pos" : 262 },
+          
+          { "form" : "magna",
+            "context" : "...Integer eu augue elementum, venenatis nisi vitae, ultrices <mark>magna<\/mark>. Nunc accumsan sem quis tristique iaculis. Quisque...",
+            "weight" : 1,
+            "pos" : 360 },
+          
+          { "form" : "magna",
+            "context" : "...ultrices turpis id nibh cursus fringilla. Aenean nec <mark>magna<\/mark> turpis. Suspendisse egestas tellus iaculis ante pharetra...",
+            "weight" : 1,
+            "pos" : 390 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "magna",
+            "context" : "...Etiam mattis a justo eget blandit. Aliquam vitae <mark>magna<\/mark> eget nisi suscipit finibus id sit amet...",
+            "weight" : 1,
+            "pos" : 65 },
+          
+          { "form" : "magna",
+            "context" : "...nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt <mark>magna<\/mark> ut ullamcorper consectetur. Nulla mi urna, feugiat...",
+            "weight" : 1,
+            "pos" : 156 },
+          
+          { "form" : "magna",
+            "context" : "...ultrices turpis id nibh cursus fringilla. Aenean nec <mark>magna<\/mark> turpis. Suspendisse egestas tellus iaculis ante pharetra...",
+            "weight" : 1,
+            "pos" : 213 },
+          
+          { "form" : "magna",
+            "context" : "...Integer eu augue elementum, venenatis nisi vitae, ultrices <mark>magna<\/mark>. Nunc accumsan sem quis tristique iaculis. Quisque...",
+            "weight" : 1,
+            "pos" : 230 },
+          
+          { "form" : "magna",
+            "context" : "...vehicula. Quisque in massa turpis. Aliquam aliquam consectetur <mark>magna<\/mark> non dignissim. Sed fringilla a ligula vitae...",
+            "weight" : 1,
+            "pos" : 258 },
+          
+          { "form" : "magna",
+            "context" : "...nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt <mark>magna<\/mark> ut ullamcorper consectetur. Nulla mi urna, feugiat...",
+            "weight" : 1,
+            "pos" : 381 },
+          
+          { "form" : "magna",
+            "context" : "...ultrices turpis id nibh cursus fringilla. Aenean nec <mark>magna<\/mark> turpis. Suspendisse egestas tellus iaculis ante pharetra...",
+            "weight" : 1,
+            "pos" : 438 } ] } ] }

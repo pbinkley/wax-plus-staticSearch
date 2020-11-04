@@ -1,0 +1,13 @@
+
+  { "stem" : "softwar",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "software",
+            "context" : "...GitHub. If you encounter any issue with the <mark>software<\/mark>, please create an issue on our repository...",
+            "weight" : 1,
+            "pos" : 66 } ] } ] }

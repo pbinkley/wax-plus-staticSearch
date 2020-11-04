@@ -1,0 +1,13 @@
+
+  { "stem" : "profession",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "professionals",
+            "context" : "Wax is also phenomenal for <mark>professionals<\/mark> who play a facilitating role, such as...",
+            "weight" : 1,
+            "pos" : 283 } ] } ] }

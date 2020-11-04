@@ -1,0 +1,43 @@
+
+  { "stem" : "feli",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "felis",
+            "context" : "...Nunc semper commodo fringilla. Proin eget metus eget <mark>felis<\/mark> faucibus aliquet. Cras ultrices turpis id nibh...",
+            "weight" : 1,
+            "pos" : 206 },
+          
+          { "form" : "felis",
+            "context" : "...viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem <mark>felis<\/mark>, porttitor sit amet volutpat ac, consequat quis...",
+            "weight" : 1,
+            "pos" : 283 },
+          
+          { "form" : "felis",
+            "context" : "...Nunc semper commodo fringilla. Proin eget metus eget <mark>felis<\/mark> faucibus aliquet. Cras ultrices turpis id nibh...",
+            "weight" : 1,
+            "pos" : 379 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "felis",
+            "context" : "...Nunc semper commodo fringilla. Proin eget metus eget <mark>felis<\/mark> faucibus aliquet. Cras ultrices turpis id nibh...",
+            "weight" : 1,
+            "pos" : 202 },
+          
+          { "form" : "felis",
+            "context" : "...viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem <mark>felis<\/mark>, porttitor sit amet volutpat ac, consequat quis...",
+            "weight" : 1,
+            "pos" : 279 },
+          
+          { "form" : "felis",
+            "context" : "...Nunc semper commodo fringilla. Proin eget metus eget <mark>felis<\/mark> faucibus aliquet. Cras ultrices turpis id nibh...",
+            "weight" : 1,
+            "pos" : 427 } ] } ] }

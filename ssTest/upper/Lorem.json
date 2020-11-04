@@ -1,0 +1,23 @@
+
+  { "stem" : "Lorem",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lorem",
+            "context" : "...mollis neque. Duis faucibus diam vitae faucibus feugiat. <mark>Lorem<\/mark> ipsum dolor sit amet, consectetur adipiscing elit....",
+            "weight" : 1,
+            "pos" : 308 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lorem",
+            "context" : "...mollis neque. Duis faucibus diam vitae faucibus feugiat. <mark>Lorem<\/mark> ipsum dolor sit amet, consectetur adipiscing elit....",
+            "weight" : 1,
+            "pos" : 304 } ] } ] }

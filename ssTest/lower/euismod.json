@@ -1,0 +1,33 @@
+
+  { "stem" : "euismod",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "euismod",
+            "context" : "...bibendum pellentesque nulla. Praesent accumsan ut mauris ut <mark>euismod<\/mark>. Etiam mattis a justo eget blandit. Aliquam...",
+            "weight" : 1,
+            "pos" : 57 },
+          
+          { "form" : "euismod",
+            "context" : "...consectetur adipiscing elit. Mauris pharetra elit sem, et <mark>euismod<\/mark> massa mattis ut. Phasellus maximus ipsum in...",
+            "weight" : 1,
+            "pos" : 320 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "euismod",
+            "context" : "...bibendum pellentesque nulla. Praesent accumsan ut mauris ut <mark>euismod<\/mark>. Etiam mattis a justo eget blandit. Aliquam...",
+            "weight" : 1,
+            "pos" : 57 },
+          
+          { "form" : "euismod",
+            "context" : "...consectetur adipiscing elit. Mauris pharetra elit sem, et <mark>euismod<\/mark> massa mattis ut. Phasellus maximus ipsum in...",
+            "weight" : 1,
+            "pos" : 316 } ] } ] }

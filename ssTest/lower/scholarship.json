@@ -1,0 +1,13 @@
+
+  { "stem" : "scholarship",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Scholarship",
+            "context" : "...who play a facilitating role, such as Digital <mark>Scholarship<\/mark> Librarians or Coordinators. With some practice, Wax...",
+            "weight" : 1,
+            "pos" : 288 } ] } ] }

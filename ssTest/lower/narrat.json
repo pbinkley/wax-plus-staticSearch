@@ -1,0 +1,13 @@
+
+  { "stem" : "narrat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "narrative",
+            "context" : "...paintings, photographs, sculptures, etc—often accompanied by an explicit <mark>narrative<\/mark> or argument. Though Wax focuses on images...",
+            "weight" : 1,
+            "pos" : 35 } ] } ] }

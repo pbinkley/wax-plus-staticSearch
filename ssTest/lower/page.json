@@ -1,0 +1,78 @@
+
+  { "stem" : "page",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Page",
+            "context" : "<mark>Page<\/mark> from the Shahnama",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Page",
+            "context" : "Label <mark>Page<\/mark> from the Shahnama Artist Unknown Type manuscript...",
+            "weight" : 1,
+            "pos" : 18 } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "page",
+            "context" : "Test search <mark>page<\/mark>",
+            "weight" : 2,
+            "pos" : 3 },
+          
+          { "form" : "page",
+            "context" : "This is a simple search <mark>page<\/mark> for the test collection. It runs a...",
+            "weight" : 1,
+            "pos" : 6 } ] },
+      
+      { "docId" : "404",
+        "docUri" : "404.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Page",
+            "context" : "<mark>Page<\/mark> not found :( The requested page could...",
+            "weight" : 1,
+            "pos" : 16 },
+          
+          { "form" : "page",
+            "context" : "Page not found :( The requested <mark>page<\/mark> could not be found.",
+            "weight" : 1,
+            "pos" : 19 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pages",
+            "context" : "...specific _include called interactive_metadata_table to help you make <mark>pages<\/mark> like this one complete with interactive DataTables...",
+            "weight" : 1,
+            "pos" : 40 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pages",
+            "context" : "...the exhibit and spits them out as static <mark>pages<\/mark> ready to publish.",
+            "weight" : 1,
+            "pos" : 365 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Page",
+            "context" : "Above: <mark>Page<\/mark> from the Shahnama",
+            "weight" : 1,
+            "pos" : 124 } ] } ] }

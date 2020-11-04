@@ -1,0 +1,53 @@
+
+  { "stem" : "libero",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "libero",
+            "context" : "...pretium fringilla purus. Nam nisl erat, tristique ac <mark>libero<\/mark> vitae, bibendum pellentesque nulla. Praesent accumsan ut...",
+            "weight" : 1,
+            "pos" : 49 },
+          
+          { "form" : "libero",
+            "context" : "Duis commodo ligula <mark>libero<\/mark>, a pharetra ligula posuere sit amet. Sed...",
+            "weight" : 1,
+            "pos" : 129 },
+          
+          { "form" : "libero",
+            "context" : "...posuere, nibh sem eleifend lectus, lobortis molestie ante <mark>libero<\/mark> non metus. Aenean et est sit amet...",
+            "weight" : 1,
+            "pos" : 181 },
+          
+          { "form" : "libero",
+            "context" : "Duis commodo ligula <mark>libero<\/mark>, a pharetra ligula posuere sit amet. Sed...",
+            "weight" : 1,
+            "pos" : 354 },
+          
+          { "form" : "libero",
+            "context" : "...posuere, nibh sem eleifend lectus, lobortis molestie ante <mark>libero<\/mark> non metus. Aenean et est sit amet...",
+            "weight" : 1,
+            "pos" : 406 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "libero",
+            "context" : "...pretium fringilla purus. Nam nisl erat, tristique ac <mark>libero<\/mark> vitae, bibendum pellentesque nulla. Praesent accumsan ut...",
+            "weight" : 1,
+            "pos" : 49 },
+          
+          { "form" : "libero",
+            "context" : "Duis commodo ligula <mark>libero<\/mark>, a pharetra ligula posuere sit amet. Sed...",
+            "weight" : 1,
+            "pos" : 133 },
+          
+          { "form" : "libero",
+            "context" : "...posuere, nibh sem eleifend lectus, lobortis molestie ante <mark>libero<\/mark> non metus. Aenean et est sit amet...",
+            "weight" : 1,
+            "pos" : 185 } ] } ] }

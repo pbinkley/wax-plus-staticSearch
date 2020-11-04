@@ -1,0 +1,18 @@
+
+  { "stem" : "sheikh",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Sheikh",
+            "context" : "Portrait of <mark>Sheikh<\/mark> Ali Mirza",
+            "weight" : 2,
+            "pos" : 16 },
+          
+          { "form" : "Sheikh",
+            "context" : "Label Portrait of <mark>Sheikh<\/mark> Ali Mirza Artist Unknown Type portrait Location...",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

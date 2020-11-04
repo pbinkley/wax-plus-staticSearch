@@ -1,0 +1,13 @@
+
+  { "stem" : "sound",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sound",
+            "context" : "...images and text, it could be used for <mark>sound<\/mark> or video collections with some customization.",
+            "weight" : 1,
+            "pos" : 44 } ] } ] }

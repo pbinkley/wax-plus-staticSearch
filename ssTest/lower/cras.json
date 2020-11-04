@@ -1,0 +1,33 @@
+
+  { "stem" : "cras",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Cras",
+            "context" : "...fringilla. Proin eget metus eget felis faucibus aliquet. <mark>Cras<\/mark> ultrices turpis id nibh cursus fringilla. Aenean...",
+            "weight" : 1,
+            "pos" : 209 },
+          
+          { "form" : "Cras",
+            "context" : "...fringilla. Proin eget metus eget felis faucibus aliquet. <mark>Cras<\/mark> ultrices turpis id nibh cursus fringilla. Aenean...",
+            "weight" : 1,
+            "pos" : 382 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Cras",
+            "context" : "...fringilla. Proin eget metus eget felis faucibus aliquet. <mark>Cras<\/mark> ultrices turpis id nibh cursus fringilla. Aenean...",
+            "weight" : 1,
+            "pos" : 205 },
+          
+          { "form" : "Cras",
+            "context" : "...fringilla. Proin eget metus eget felis faucibus aliquet. <mark>Cras<\/mark> ultrices turpis id nibh cursus fringilla. Aenean...",
+            "weight" : 1,
+            "pos" : 430 } ] } ] }

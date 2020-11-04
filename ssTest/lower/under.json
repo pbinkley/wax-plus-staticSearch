@@ -1,0 +1,13 @@
+
+  { "stem" : "under",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "underlying",
+            "context" : "...focused on longevity, low costs, and flexibility. Our <mark>underlying<\/mark> technology is made to learn and to...",
+            "weight" : 1,
+            "pos" : 34 } ] } ] }

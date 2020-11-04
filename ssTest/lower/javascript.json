@@ -1,0 +1,18 @@
+
+  { "stem" : "javascript",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "JavaScript",
+            "context" : "...means they consist of flat HTML, CSS, and <mark>JavaScript<\/mark> files that don't need to communicate in...",
+            "weight" : 1,
+            "pos" : 95 },
+          
+          { "form" : "JavaScript",
+            "context" : "Editing HTML, CSS, and some <mark>JavaScript<\/mark>.",
+            "weight" : 1,
+            "pos" : 258 } ] } ] }

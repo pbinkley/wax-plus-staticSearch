@@ -1,0 +1,13 @@
+
+  { "stem" : "give",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "context" : "Below is a diagram to <mark>give<\/mark> you a zoomed-out view. In summary, you...",
+            "weight" : 1,
+            "pos" : 321 } ] } ] }

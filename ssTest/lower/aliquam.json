@@ -1,0 +1,63 @@
+
+  { "stem" : "aliquam",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Aliquam",
+            "context" : "...ut euismod. Etiam mattis a justo eget blandit. <mark>Aliquam<\/mark> vitae magna eget nisi suscipit finibus id...",
+            "weight" : 1,
+            "pos" : 63 },
+          
+          { "form" : "Aliquam",
+            "context" : "...nulla vel tellus rutrum, ac pulvinar erat finibus. <mark>Aliquam<\/mark> erat volutpat. Pellentesque vel velit sit amet...",
+            "weight" : 1,
+            "pos" : 113 },
+          
+          { "form" : "Aliquam",
+            "context" : "...tortor. Quisque viverra sem a orci aliquet sodales. <mark>Aliquam<\/mark> commodo eros at sagittis vehicula. Quisque in...",
+            "weight" : 1,
+            "pos" : 251 },
+          
+          { "form" : "Aliquam",
+            "context" : "...eros at sagittis vehicula. Quisque in massa turpis. <mark>Aliquam<\/mark> aliquam consectetur magna non dignissim. Sed fringilla...",
+            "weight" : 1,
+            "pos" : 259 },
+          
+          { "form" : "aliquam",
+            "context" : "...at sagittis vehicula. Quisque in massa turpis. Aliquam <mark>aliquam<\/mark> consectetur magna non dignissim. Sed fringilla a...",
+            "weight" : 1,
+            "pos" : 260 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Aliquam",
+            "context" : "...ut euismod. Etiam mattis a justo eget blandit. <mark>Aliquam<\/mark> vitae magna eget nisi suscipit finibus id...",
+            "weight" : 1,
+            "pos" : 63 },
+          
+          { "form" : "Aliquam",
+            "context" : "...nulla vel tellus rutrum, ac pulvinar erat finibus. <mark>Aliquam<\/mark> erat volutpat. Pellentesque vel velit sit amet...",
+            "weight" : 1,
+            "pos" : 113 },
+          
+          { "form" : "Aliquam",
+            "context" : "...tortor. Quisque viverra sem a orci aliquet sodales. <mark>Aliquam<\/mark> commodo eros at sagittis vehicula. Quisque in...",
+            "weight" : 1,
+            "pos" : 247 },
+          
+          { "form" : "Aliquam",
+            "context" : "...eros at sagittis vehicula. Quisque in massa turpis. <mark>Aliquam<\/mark> aliquam consectetur magna non dignissim. Sed fringilla...",
+            "weight" : 1,
+            "pos" : 255 },
+          
+          { "form" : "aliquam",
+            "context" : "...at sagittis vehicula. Quisque in massa turpis. Aliquam <mark>aliquam<\/mark> consectetur magna non dignissim. Sed fringilla a...",
+            "weight" : 1,
+            "pos" : 256 } ] } ] }

@@ -1,0 +1,73 @@
+
+  { "stem" : "massa",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "massa",
+            "context" : "...quis ex at lectus iaculis elementum id id <mark>massa<\/mark>. Integer luctus nulla vel tellus rutrum, ac...",
+            "weight" : 1,
+            "pos" : 103 },
+          
+          { "form" : "massa",
+            "context" : "...ut ullamcorper consectetur. Nulla mi urna, feugiat sed <mark>massa<\/mark> non, ullamcorper efficitur dolor. Sed luctus, massa...",
+            "weight" : 1,
+            "pos" : 163 },
+          
+          { "form" : "massa",
+            "context" : "...sed massa non, ullamcorper efficitur dolor. Sed luctus, <mark>massa<\/mark> eget pharetra posuere, nibh sem eleifend lectus,...",
+            "weight" : 1,
+            "pos" : 170 },
+          
+          { "form" : "massa",
+            "context" : "...Aliquam commodo eros at sagittis vehicula. Quisque in <mark>massa<\/mark> turpis. Aliquam aliquam consectetur magna non dignissim....",
+            "weight" : 1,
+            "pos" : 253 },
+          
+          { "form" : "massa",
+            "context" : "...adipiscing elit. Mauris pharetra elit sem, et euismod <mark>massa<\/mark> mattis ut. Phasellus maximus ipsum in nulla...",
+            "weight" : 1,
+            "pos" : 317 },
+          
+          { "form" : "massa",
+            "context" : "...ut ullamcorper consectetur. Nulla mi urna, feugiat sed <mark>massa<\/mark> non, ullamcorper efficitur dolor. Sed luctus, massa...",
+            "weight" : 1,
+            "pos" : 388 },
+          
+          { "form" : "massa",
+            "context" : "...sed massa non, ullamcorper efficitur dolor. Sed luctus, <mark>massa<\/mark> eget pharetra posuere, nibh sem eleifend lectus,...",
+            "weight" : 1,
+            "pos" : 395 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "massa",
+            "context" : "...quis ex at lectus iaculis elementum id id <mark>massa<\/mark>. Integer luctus nulla vel tellus rutrum, ac...",
+            "weight" : 1,
+            "pos" : 103 },
+          
+          { "form" : "massa",
+            "context" : "...ut ullamcorper consectetur. Nulla mi urna, feugiat sed <mark>massa<\/mark> non, ullamcorper efficitur dolor.2 Sed luctus, massa...",
+            "weight" : 1,
+            "pos" : 167 },
+          
+          { "form" : "massa",
+            "context" : "...sed massa non, ullamcorper efficitur dolor.2 Sed luctus, <mark>massa<\/mark> eget pharetra posuere, nibh sem eleifend lectus,...",
+            "weight" : 1,
+            "pos" : 174 },
+          
+          { "form" : "massa",
+            "context" : "...Aliquam commodo eros at sagittis vehicula. Quisque in <mark>massa<\/mark> turpis. Aliquam aliquam consectetur magna non dignissim....",
+            "weight" : 1,
+            "pos" : 257 },
+          
+          { "form" : "massa",
+            "context" : "...adipiscing elit. Mauris pharetra elit sem, et euismod <mark>massa<\/mark> mattis ut. Phasellus maximus ipsum in nulla...",
+            "weight" : 1,
+            "pos" : 321 } ] } ] }

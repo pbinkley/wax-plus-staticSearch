@@ -1,0 +1,23 @@
+
+  { "stem" : "vulput",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vulputate",
+            "context" : "...Nam velit leo, mattis ac dui non, <mark>vulputate<\/mark> porttitor sapien. Praesent in aliquet dui. Nulla...",
+            "weight" : 1,
+            "pos" : 79 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vulputate",
+            "context" : "...Nam velit leo, mattis ac dui non, <mark>vulputate<\/mark> porttitor sapien. Praesent in aliquet dui. Nulla...",
+            "weight" : 1,
+            "pos" : 79 } ] } ] }

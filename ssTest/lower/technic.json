@@ -1,0 +1,13 @@
+
+  { "stem" : "technic",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "technical",
+            "context" : "...folks who are willing to take on some <mark>technical<\/mark> responsibility in exchange for a lot of...",
+            "weight" : 1,
+            "pos" : 200 } ] } ] }

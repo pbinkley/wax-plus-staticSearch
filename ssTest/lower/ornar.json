@@ -1,0 +1,23 @@
+
+  { "stem" : "ornar",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ornare",
+            "context" : "...Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, <mark>ornare<\/mark> sapien a, mollis neque. Duis faucibus diam...",
+            "weight" : 1,
+            "pos" : 298 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ornare",
+            "context" : "...Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, <mark>ornare<\/mark> sapien a, mollis neque. Duis faucibus diam...",
+            "weight" : 1,
+            "pos" : 294 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "readi",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ready",
+            "context" : "...exhibit and spits them out as static pages <mark>ready<\/mark> to publish.",
+            "weight" : 1,
+            "pos" : 366 } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "great",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "great",
+            "context" : "...and plain text editing while leveraging a few <mark>great<\/mark> open source libraries and frameworks along the...",
+            "weight" : 1,
+            "pos" : 138 },
+          
+          { "form" : "great",
+            "context" : "However, Wax is also <mark>great<\/mark> for teaching or learning the skills above!...",
+            "weight" : 1,
+            "pos" : 262 } ] } ] }

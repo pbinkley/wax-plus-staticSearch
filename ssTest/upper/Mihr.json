@@ -1,0 +1,33 @@
+
+  { "stem" : "Mihr",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mihr",
+            "context" : "<mark>Mihr<\/mark> 'Ali",
+            "weight" : 2,
+            "pos" : 15 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mihr",
+            "context" : "...Label Portrait of Fath ʾAli Shah Artist <mark>Mihr<\/mark> ʾAli Type portrait Location Iran Current Location...",
+            "weight" : 1,
+            "pos" : 25 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mihr",
+            "context" : "<mark>Mihr<\/mark> 'Ali",
+            "weight" : 2,
+            "pos" : 15 } ] } ] }

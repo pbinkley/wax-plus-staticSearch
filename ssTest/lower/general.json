@@ -1,0 +1,18 @@
+
+  { "stem" : "general",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "generally",
+            "context" : "...a server. This makes them cheaper, safer, and <mark>generally<\/mark> easier to maintain.",
+            "weight" : 1,
+            "pos" : 106 },
+          
+          { "form" : "general",
+            "context" : "...For beginners, Wax has a relatively high, but <mark>general<\/mark>-purpose learning curve. To get the most out...",
+            "weight" : 1,
+            "pos" : 210 } ] } ] }

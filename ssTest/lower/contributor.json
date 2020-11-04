@@ -1,0 +1,13 @@
+
+  { "stem" : "contributor",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "contributors",
+            "context" : "We welcome and encourage <mark>contributors<\/mark> and maintainers. Please get in touch, or...",
+            "weight" : 1,
+            "pos" : 56 } ] } ] }

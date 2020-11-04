@@ -1,0 +1,13 @@
+
+  { "stem" : "beginn",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beginners",
+            "context" : "For <mark>beginners<\/mark>, Wax has a relatively high, but general-purpose...",
+            "weight" : 1,
+            "pos" : 205 } ] } ] }

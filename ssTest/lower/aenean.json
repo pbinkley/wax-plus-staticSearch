@@ -1,0 +1,48 @@
+
+  { "stem" : "aenean",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Aenean",
+            "context" : "...eleifend lectus, lobortis molestie ante libero non metus. <mark>Aenean<\/mark> et est sit amet est pulvinar convallis...",
+            "weight" : 1,
+            "pos" : 184 },
+          
+          { "form" : "Aenean",
+            "context" : "...aliquet. Cras ultrices turpis id nibh cursus fringilla. <mark>Aenean<\/mark> nec magna turpis. Suspendisse egestas tellus iaculis...",
+            "weight" : 1,
+            "pos" : 211 },
+          
+          { "form" : "Aenean",
+            "context" : "...eleifend lectus, lobortis molestie ante libero non metus. <mark>Aenean<\/mark> et est sit amet est pulvinar convallis...",
+            "weight" : 1,
+            "pos" : 409 },
+          
+          { "form" : "Aenean",
+            "context" : "...aliquet. Cras ultrices turpis id nibh cursus fringilla. <mark>Aenean<\/mark> nec magna turpis. Suspendisse egestas tellus iaculis...",
+            "weight" : 1,
+            "pos" : 436 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Aenean",
+            "context" : "...eleifend lectus, lobortis molestie ante libero non metus. <mark>Aenean<\/mark> et est sit amet est pulvinar convallis...",
+            "weight" : 1,
+            "pos" : 188 },
+          
+          { "form" : "Aenean",
+            "context" : "...aliquet. Cras ultrices turpis id nibh cursus fringilla. <mark>Aenean<\/mark> nec magna turpis. Suspendisse egestas tellus iaculis...",
+            "weight" : 1,
+            "pos" : 215 },
+          
+          { "form" : "Aenean",
+            "context" : "...aliquet. Cras ultrices turpis id nibh cursus fringilla. <mark>Aenean<\/mark> nec magna turpis. Suspendisse egestas tellus iaculis...",
+            "weight" : 1,
+            "pos" : 388 } ] } ] }

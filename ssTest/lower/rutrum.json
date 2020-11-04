@@ -1,0 +1,23 @@
+
+  { "stem" : "rutrum",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rutrum",
+            "context" : "...id id massa. Integer luctus nulla vel tellus <mark>rutrum<\/mark>, ac pulvinar erat finibus. Aliquam erat volutpat....",
+            "weight" : 1,
+            "pos" : 109 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rutrum",
+            "context" : "...id id massa. Integer luctus nulla vel tellus <mark>rutrum<\/mark>, ac pulvinar erat finibus. Aliquam erat volutpat....",
+            "weight" : 1,
+            "pos" : 109 } ] } ] }

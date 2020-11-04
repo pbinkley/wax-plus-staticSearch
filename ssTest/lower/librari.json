@@ -1,0 +1,68 @@
+
+  { "stem" : "librari",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Libraries",
+            "context" : "...Marii Nyröp and Alex Gil at Columbia University <mark>Libraries<\/mark>. It uses open source libraries and frameworks...",
+            "weight" : 1,
+            "pos" : 33 },
+          
+          { "form" : "libraries",
+            "context" : "...at Columbia University Libraries. It uses open source <mark>libraries<\/mark> and frameworks including Jekyll, IIIF, OpenSeaDragon, Rake,...",
+            "weight" : 1,
+            "pos" : 37 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "context" : "...and Google Art Project) and The Qatar National <mark>Library<\/mark> (via World Digital Library).",
+            "weight" : 1,
+            "pos" : 71 },
+          
+          { "form" : "Library",
+            "context" : "...and The Qatar National Library (via World Digital <mark>Library<\/mark>).",
+            "weight" : 1,
+            "pos" : 75 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "context" : "...and Google Art Project) and The Qatar National <mark>Library<\/mark> (via World Digital Library).",
+            "weight" : 1,
+            "pos" : 40 },
+          
+          { "form" : "Library",
+            "context" : "...and The Qatar National Library (via World Digital <mark>Library<\/mark>).",
+            "weight" : 1,
+            "pos" : 44 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "libraries",
+            "context" : "...editing while leveraging a few great open source <mark>libraries<\/mark> and frameworks along the way.",
+            "weight" : 1,
+            "pos" : 141 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "context" : "...East and North Africa Current Location Qatar National <mark>Library<\/mark> Date Around 1628 - 1658 Source www.wdl.org...",
+            "weight" : 1,
+            "pos" : 45 } ] } ] }

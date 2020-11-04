@@ -1,0 +1,13 @@
+
+  { "stem" : "sampl",
+    "instances" : 
+    [ 
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sample",
+            "context" : "This site's <mark>sample<\/mark> collection comprises a set of objects, each...",
+            "weight" : 1,
+            "pos" : 18 } ] } ] }

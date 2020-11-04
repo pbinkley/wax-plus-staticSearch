@@ -1,0 +1,23 @@
+
+  { "stem" : "blandit",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blandit",
+            "context" : "...mauris ut euismod. Etiam mattis a justo eget <mark>blandit<\/mark>. Aliquam vitae magna eget nisi suscipit finibus...",
+            "weight" : 1,
+            "pos" : 62 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blandit",
+            "context" : "...mauris ut euismod. Etiam mattis a justo eget <mark>blandit<\/mark>. Aliquam vitae magna eget nisi suscipit finibus...",
+            "weight" : 1,
+            "pos" : 62 } ] } ] }

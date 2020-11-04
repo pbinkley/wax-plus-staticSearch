@@ -1,0 +1,13 @@
+
+  { "stem" : "check",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "check",
+            "context" : "...digital pedagogy via the creation of Wax exhibitions, <mark>check<\/mark> out this workshop, this GitHub repository, and...",
+            "weight" : 1,
+            "pos" : 273 } ] } ] }

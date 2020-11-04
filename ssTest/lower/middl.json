@@ -1,0 +1,13 @@
+
+  { "stem" : "middl",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Middle",
+            "context" : "...Bahādur Fīrūz, ʻAbd Allāh Khān Type manuscript Location <mark>Middle<\/mark> East and North Africa Current Location Qatar...",
+            "weight" : 1,
+            "pos" : 37 } ] } ] }

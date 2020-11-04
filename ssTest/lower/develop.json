@@ -1,0 +1,13 @@
+
+  { "stem" : "develop",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "development",
+            "context" : "...platform. It involves learning the fundamentals of web <mark>development<\/mark>, data management, and plain text editing while...",
+            "weight" : 1,
+            "pos" : 131 } ] } ] }

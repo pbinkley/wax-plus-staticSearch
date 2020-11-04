@@ -1,0 +1,13 @@
+
+  { "stem" : "share",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "share",
+            "context" : "...makes it easier for you or others to <mark>share<\/mark>, reuse and reimagine your collection data in...",
+            "weight" : 1,
+            "pos" : 175 } ] } ] }

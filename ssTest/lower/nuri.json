@@ -1,0 +1,13 @@
+
+  { "stem" : "nuri",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nuri",
+            "context" : "...Dalaʾil al-Khayrat of al-Juzuli Artist Al-Hajj Hafiz Muhammad <mark>Nuri<\/mark> Type manuscript Location Turkey Current Location The...",
+            "weight" : 1,
+            "pos" : 31 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "exchang",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exchange",
+            "context" : "...willing to take on some technical responsibility in <mark>exchange<\/mark> for a lot of flexibility.",
+            "weight" : 1,
+            "pos" : 202 } ] } ] }

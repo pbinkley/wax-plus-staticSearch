@@ -1,0 +1,23 @@
+
+  { "stem" : "risus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "risus",
+            "context" : "...laoreet elit nec dolor molestie finibus. Vivamus justo <mark>risus<\/mark>, scelerisque nec dolor ut, pretium fringilla purus....",
+            "weight" : 1,
+            "pos" : 38 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "risus",
+            "context" : "...laoreet elit nec dolor molestie finibus. Vivamus justo <mark>risus<\/mark>, scelerisque nec dolor ut, pretium fringilla purus....",
+            "weight" : 1,
+            "pos" : 38 } ] } ] }

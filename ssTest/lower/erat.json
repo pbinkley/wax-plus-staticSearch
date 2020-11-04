@@ -1,0 +1,53 @@
+
+  { "stem" : "erat",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "erat",
+            "context" : "Ut eleifend lacus at <mark>erat<\/mark> efficitur bibendum. Ut laoreet elit nec dolor...",
+            "weight" : 1,
+            "pos" : 27 },
+          
+          { "form" : "erat",
+            "context" : "...nec dolor ut, pretium fringilla purus. Nam nisl <mark>erat<\/mark>, tristique ac libero vitae, bibendum pellentesque nulla....",
+            "weight" : 1,
+            "pos" : 47 },
+          
+          { "form" : "erat",
+            "context" : "...Integer luctus nulla vel tellus rutrum, ac pulvinar <mark>erat<\/mark> finibus. Aliquam erat volutpat. Pellentesque vel velit...",
+            "weight" : 1,
+            "pos" : 111 },
+          
+          { "form" : "erat",
+            "context" : "...vel tellus rutrum, ac pulvinar erat finibus. Aliquam <mark>erat<\/mark> volutpat. Pellentesque vel velit sit amet mauris...",
+            "weight" : 1,
+            "pos" : 114 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "erat",
+            "context" : "Ut eleifend lacus at <mark>erat<\/mark> efficitur bibendum. Ut laoreet elit nec dolor...",
+            "weight" : 1,
+            "pos" : 27 },
+          
+          { "form" : "erat",
+            "context" : "...nec dolor ut, pretium fringilla purus. Nam nisl <mark>erat<\/mark>, tristique ac libero vitae, bibendum pellentesque nulla....",
+            "weight" : 1,
+            "pos" : 47 },
+          
+          { "form" : "erat",
+            "context" : "...Integer luctus nulla vel tellus rutrum, ac pulvinar <mark>erat<\/mark> finibus. Aliquam erat volutpat. Pellentesque vel velit...",
+            "weight" : 1,
+            "pos" : 111 },
+          
+          { "form" : "erat",
+            "context" : "...vel tellus rutrum, ac pulvinar erat finibus. Aliquam <mark>erat<\/mark> volutpat. Pellentesque vel velit sit amet mauris...",
+            "weight" : 1,
+            "pos" : 114 } ] } ] }

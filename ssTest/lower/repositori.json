@@ -1,0 +1,23 @@
+
+  { "stem" : "repositori",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "repository",
+            "context" : "...the software, please create an issue on our <mark>repository<\/mark> or post a comment on Gitter.",
+            "weight" : 1,
+            "pos" : 70 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "repository",
+            "context" : "...Wax exhibitions, check out this workshop, this GitHub <mark>repository<\/mark>, and this custom Wax site.",
+            "weight" : 1,
+            "pos" : 276 } ] } ] }

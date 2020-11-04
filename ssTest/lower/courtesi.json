@@ -1,0 +1,23 @@
+
+  { "stem" : "courtesi",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "courtesy",
+            "context" : "...are from The Museum of Islamic Art, Qatar, (<mark>courtesy<\/mark> of WikiMedia and Google Art Project) and...",
+            "weight" : 1,
+            "pos" : 64 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "courtesy",
+            "context" : "...are from The Museum of Islamic Art, Qatar, (<mark>courtesy<\/mark> of WikiMedia and Google Art Project) and...",
+            "weight" : 1,
+            "pos" : 33 } ] } ] }

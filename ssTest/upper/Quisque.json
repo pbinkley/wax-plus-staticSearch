@@ -1,0 +1,48 @@
+
+  { "stem" : "Quisque",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Quisque",
+            "context" : "...ultrices magna. Nunc accumsan sem quis tristique iaculis. <mark>Quisque<\/mark> sed lorem tortor. Quisque viverra sem a...",
+            "weight" : 1,
+            "pos" : 241 },
+          
+          { "form" : "Quisque",
+            "context" : "...sem quis tristique iaculis. Quisque sed lorem tortor. <mark>Quisque<\/mark> viverra sem a orci aliquet sodales. Aliquam...",
+            "weight" : 1,
+            "pos" : 245 },
+          
+          { "form" : "Quisque",
+            "context" : "...aliquet sodales. Aliquam commodo eros at sagittis vehicula. <mark>Quisque<\/mark> in massa turpis. Aliquam aliquam consectetur magna...",
+            "weight" : 1,
+            "pos" : 256 },
+          
+          { "form" : "Quisque",
+            "context" : "...ultrices magna. Nunc accumsan sem quis tristique iaculis. <mark>Quisque<\/mark> sed lorem tortor. ↩︎",
+            "weight" : 1,
+            "pos" : 367 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Quisque",
+            "context" : "...ultrices magna. Nunc accumsan sem quis tristique iaculis. <mark>Quisque<\/mark> sed lorem tortor. Quisque viverra sem a...",
+            "weight" : 1,
+            "pos" : 237 },
+          
+          { "form" : "Quisque",
+            "context" : "...sem quis tristique iaculis. Quisque sed lorem tortor. <mark>Quisque<\/mark> viverra sem a orci aliquet sodales. Aliquam...",
+            "weight" : 1,
+            "pos" : 241 },
+          
+          { "form" : "Quisque",
+            "context" : "...aliquet sodales. Aliquam commodo eros at sagittis vehicula. <mark>Quisque<\/mark> in massa turpis. Aliquam aliquam consectetur magna...",
+            "weight" : 1,
+            "pos" : 252 } ] } ] }

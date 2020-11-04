@@ -1,0 +1,63 @@
+
+  { "stem" : "elementum",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "elementum",
+            "context" : "...aliquet urna. Mauris quis ex at lectus iaculis <mark>elementum<\/mark> id id massa. Integer luctus nulla vel...",
+            "weight" : 1,
+            "pos" : 102 },
+          
+          { "form" : "elementum",
+            "context" : "...pharetra ligula posuere sit amet. Sed ipsum dolor, <mark>elementum<\/mark> eget nisl eget, sagittis vestibulum augue. Donec...",
+            "weight" : 1,
+            "pos" : 142 },
+          
+          { "form" : "elementum",
+            "context" : "Integer eu augue <mark>elementum<\/mark>, venenatis nisi vitae, ultrices magna. Nunc accumsan...",
+            "weight" : 1,
+            "pos" : 229 },
+          
+          { "form" : "elementum",
+            "context" : "...sit amet volutpat ac, consequat quis lectus. Donec <mark>elementum<\/mark> dignissim vehicula. Pellentesque fringilla ex bibendum, ornare...",
+            "weight" : 1,
+            "pos" : 292 },
+          
+          { "form" : "elementum",
+            "context" : "Integer eu augue <mark>elementum<\/mark>, venenatis nisi vitae, ultrices magna. Nunc accumsan...",
+            "weight" : 1,
+            "pos" : 355 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "elementum",
+            "context" : "...aliquet urna. Mauris quis ex at lectus iaculis <mark>elementum<\/mark> id id massa. Integer luctus nulla vel...",
+            "weight" : 1,
+            "pos" : 102 },
+          
+          { "form" : "elementum",
+            "context" : "...pharetra ligula posuere sit amet. Sed ipsum dolor, <mark>elementum<\/mark> eget nisl eget, sagittis vestibulum augue. Donec...",
+            "weight" : 1,
+            "pos" : 138 },
+          
+          { "form" : "elementum",
+            "context" : "Integer eu augue <mark>elementum<\/mark>, venenatis nisi vitae, ultrices magna. Nunc accumsan...",
+            "weight" : 1,
+            "pos" : 225 },
+          
+          { "form" : "elementum",
+            "context" : "...sit amet volutpat ac, consequat quis lectus. Donec <mark>elementum<\/mark> dignissim vehicula. Pellentesque fringilla ex bibendum, ornare...",
+            "weight" : 1,
+            "pos" : 288 },
+          
+          { "form" : "elementum",
+            "context" : "...pharetra ligula posuere sit amet. Sed ipsum dolor, <mark>elementum<\/mark> eget nisl eget, sagittis vestibulum augue. Donec...",
+            "weight" : 1,
+            "pos" : 363 } ] } ] }

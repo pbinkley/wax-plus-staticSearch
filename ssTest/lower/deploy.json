@@ -1,0 +1,13 @@
+
+  { "stem" : "deploy",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deploying",
+            "context" : "...good documentation and (hopefully soon!) recipes for creating, <mark>deploying<\/mark>, and maintaining custom digital exhibitions.",
+            "weight" : 1,
+            "pos" : 80 } ] } ] }

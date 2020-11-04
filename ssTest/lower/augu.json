@@ -1,0 +1,43 @@
+
+  { "stem" : "augu",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "augue",
+            "context" : "...ipsum dolor, elementum eget nisl eget, sagittis vestibulum <mark>augue<\/mark>. Donec tincidunt mauris et nunc sagittis, nec...",
+            "weight" : 1,
+            "pos" : 148 },
+          
+          { "form" : "augue",
+            "context" : "Integer eu <mark>augue<\/mark> elementum, venenatis nisi vitae, ultrices magna. Nunc...",
+            "weight" : 1,
+            "pos" : 228 },
+          
+          { "form" : "augue",
+            "context" : "Integer eu <mark>augue<\/mark> elementum, venenatis nisi vitae, ultrices magna. Nunc...",
+            "weight" : 1,
+            "pos" : 354 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "augue",
+            "context" : "...ipsum dolor, elementum eget nisl eget, sagittis vestibulum <mark>augue<\/mark>. Donec tincidunt mauris et nunc sagittis, nec...",
+            "weight" : 1,
+            "pos" : 144 },
+          
+          { "form" : "augue",
+            "context" : "Integer eu <mark>augue<\/mark> elementum, venenatis nisi vitae, ultrices magna. Nunc...",
+            "weight" : 1,
+            "pos" : 224 },
+          
+          { "form" : "augue",
+            "context" : "...ipsum dolor, elementum eget nisl eget, sagittis vestibulum <mark>augue<\/mark>. Donec tincidunt mauris et nunc sagittis, nec...",
+            "weight" : 1,
+            "pos" : 369 } ] } ] }

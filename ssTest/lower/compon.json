@@ -1,0 +1,18 @@
+
+  { "stem" : "compon",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "components",
+            "context" : "...lightweight: a few Ruby gems, some customizable UI <mark>components<\/mark>, good documentation and (hopefully soon!) recipes for...",
+            "weight" : 1,
+            "pos" : 73 },
+          
+          { "form" : "components",
+            "context" : "...site. Jekyll then uses special layouts and Wax <mark>components<\/mark> to build the exhibit and spits them...",
+            "weight" : 1,
+            "pos" : 360 } ] } ] }

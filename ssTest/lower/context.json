@@ -1,0 +1,13 @@
+
+  { "stem" : "context",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "contexts",
+            "context" : "...reuse and reimagine your collection data in other <mark>contexts<\/mark>.",
+            "weight" : 1,
+            "pos" : 180 } ] } ] }

@@ -1,0 +1,53 @@
+
+  { "stem" : "tristiqu",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "tristique",
+            "context" : "...dolor ut, pretium fringilla purus. Nam nisl erat, <mark>tristique<\/mark> ac libero vitae, bibendum pellentesque nulla. Praesent...",
+            "weight" : 1,
+            "pos" : 48 },
+          
+          { "form" : "tristique",
+            "context" : "...tincidunt mauris et nunc sagittis, nec consectetur lorem <mark>tristique<\/mark>. Nulla tincidunt magna ut ullamcorper consectetur. Nulla...",
+            "weight" : 1,
+            "pos" : 157 },
+          
+          { "form" : "tristique",
+            "context" : "...nisi vitae, ultrices magna. Nunc accumsan sem quis <mark>tristique<\/mark> iaculis. Quisque sed lorem tortor. Quisque viverra...",
+            "weight" : 1,
+            "pos" : 239 },
+          
+          { "form" : "tristique",
+            "context" : "...nisi vitae, ultrices magna. Nunc accumsan sem quis <mark>tristique<\/mark> iaculis. Quisque sed lorem tortor. ↩︎",
+            "weight" : 1,
+            "pos" : 365 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "tristique",
+            "context" : "...dolor ut, pretium fringilla purus. Nam nisl erat, <mark>tristique<\/mark> ac libero vitae, bibendum pellentesque nulla. Praesent...",
+            "weight" : 1,
+            "pos" : 48 },
+          
+          { "form" : "tristique",
+            "context" : "...tincidunt mauris et nunc sagittis, nec consectetur lorem <mark>tristique<\/mark>. Nulla tincidunt magna ut ullamcorper consectetur. Nulla...",
+            "weight" : 1,
+            "pos" : 153 },
+          
+          { "form" : "tristique",
+            "context" : "...nisi vitae, ultrices magna. Nunc accumsan sem quis <mark>tristique<\/mark> iaculis. Quisque sed lorem tortor. Quisque viverra...",
+            "weight" : 1,
+            "pos" : 235 },
+          
+          { "form" : "tristique",
+            "context" : "...tincidunt mauris et nunc sagittis, nec consectetur lorem <mark>tristique<\/mark>. Nulla tincidunt magna ut ullamcorper consectetur. Nulla...",
+            "weight" : 1,
+            "pos" : 378 } ] } ] }

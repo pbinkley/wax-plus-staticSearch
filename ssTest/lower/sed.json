@@ -1,0 +1,103 @@
+
+  { "stem" : "sed",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Sed",
+            "context" : "...ex, facilisis non aliquet ac, ultrices eu sem. <mark>Sed<\/mark> vel aliquet urna. Mauris quis ex at...",
+            "weight" : 1,
+            "pos" : 94 },
+          
+          { "form" : "Sed",
+            "context" : "...ligula libero, a pharetra ligula posuere sit amet. <mark>Sed<\/mark> ipsum dolor, elementum eget nisl eget, sagittis...",
+            "weight" : 1,
+            "pos" : 135 },
+          
+          { "form" : "sed",
+            "context" : "...magna ut ullamcorper consectetur. Nulla mi urna, feugiat <mark>sed<\/mark> massa non, ullamcorper efficitur dolor. Sed luctus,...",
+            "weight" : 1,
+            "pos" : 162 },
+          
+          { "form" : "Sed",
+            "context" : "...urna, feugiat sed massa non, ullamcorper efficitur dolor. <mark>Sed<\/mark> luctus, massa eget pharetra posuere, nibh sem...",
+            "weight" : 1,
+            "pos" : 168 },
+          
+          { "form" : "sed",
+            "context" : "...magna. Nunc accumsan sem quis tristique iaculis. Quisque <mark>sed<\/mark> lorem tortor. Quisque viverra sem a orci...",
+            "weight" : 1,
+            "pos" : 238 },
+          
+          { "form" : "Sed",
+            "context" : "...massa turpis. Aliquam aliquam consectetur magna non dignissim. <mark>Sed<\/mark> fringilla a ligula vitae molestie.",
+            "weight" : 1,
+            "pos" : 261 },
+          
+          { "form" : "Sed",
+            "context" : "...non velit viverra tincidunt. Fusce efficitur laoreet convallis. <mark>Sed<\/mark> sem felis, porttitor sit amet volutpat ac,...",
+            "weight" : 1,
+            "pos" : 277 },
+          
+          { "form" : "Sed",
+            "context" : "...ligula libero, a pharetra ligula posuere sit amet. <mark>Sed<\/mark> ipsum dolor, elementum eget nisl eget, sagittis...",
+            "weight" : 1,
+            "pos" : 360 },
+          
+          { "form" : "sed",
+            "context" : "...magna ut ullamcorper consectetur. Nulla mi urna, feugiat <mark>sed<\/mark> massa non, ullamcorper efficitur dolor. Sed luctus,...",
+            "weight" : 1,
+            "pos" : 387 },
+          
+          { "form" : "Sed",
+            "context" : "...urna, feugiat sed massa non, ullamcorper efficitur dolor. <mark>Sed<\/mark> luctus, massa eget pharetra posuere, nibh sem...",
+            "weight" : 1,
+            "pos" : 393 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Sed",
+            "context" : "...ex, facilisis non aliquet ac, ultrices eu sem. <mark>Sed<\/mark> vel aliquet urna. Mauris quis ex at...",
+            "weight" : 1,
+            "pos" : 94 },
+          
+          { "form" : "Sed",
+            "context" : "...ligula libero, a pharetra ligula posuere sit amet. <mark>Sed<\/mark> ipsum dolor, elementum eget nisl eget, sagittis...",
+            "weight" : 1,
+            "pos" : 139 },
+          
+          { "form" : "sed",
+            "context" : "...magna ut ullamcorper consectetur. Nulla mi urna, feugiat <mark>sed<\/mark> massa non, ullamcorper efficitur dolor.2 Sed luctus,...",
+            "weight" : 1,
+            "pos" : 166 },
+          
+          { "form" : "Sed",
+            "context" : "...urna, feugiat sed massa non, ullamcorper efficitur dolor.2 <mark>Sed<\/mark> luctus, massa eget pharetra posuere, nibh sem...",
+            "weight" : 1,
+            "pos" : 172 },
+          
+          { "form" : "sed",
+            "context" : "...magna. Nunc accumsan sem quis tristique iaculis. Quisque <mark>sed<\/mark> lorem tortor. Quisque viverra sem a orci...",
+            "weight" : 1,
+            "pos" : 242 },
+          
+          { "form" : "Sed",
+            "context" : "...massa turpis. Aliquam aliquam consectetur magna non dignissim. <mark>Sed<\/mark> fringilla a ligula vitae molestie.",
+            "weight" : 1,
+            "pos" : 265 },
+          
+          { "form" : "Sed",
+            "context" : "...non velit viverra tincidunt. Fusce efficitur laoreet convallis. <mark>Sed<\/mark> sem felis, porttitor sit amet volutpat ac,...",
+            "weight" : 1,
+            "pos" : 281 },
+          
+          { "form" : "sed",
+            "context" : "...magna. Nunc accumsan sem quis tristique iaculis. Quisque <mark>sed<\/mark> lorem tortor. ↩︎",
+            "weight" : 1,
+            "pos" : 368 } ] } ] }

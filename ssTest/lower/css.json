@@ -1,0 +1,18 @@
+
+  { "stem" : "css",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "CSS",
+            "context" : "...static. This means they consist of flat HTML, <mark>CSS<\/mark>, and JavaScript files that don't need to...",
+            "weight" : 1,
+            "pos" : 94 },
+          
+          { "form" : "CSS",
+            "context" : "Editing HTML, <mark>CSS<\/mark>, and some JavaScript.",
+            "weight" : 1,
+            "pos" : 257 } ] } ] }

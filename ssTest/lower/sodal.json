@@ -1,0 +1,33 @@
+
+  { "stem" : "sodal",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sodales",
+            "context" : "...lorem tortor. Quisque viverra sem a orci aliquet <mark>sodales<\/mark>. Aliquam commodo eros at sagittis vehicula. Quisque...",
+            "weight" : 1,
+            "pos" : 250 },
+          
+          { "form" : "sodales",
+            "context" : "...Pellentesque lorem mauris, malesuada a fringilla et, iaculis <mark>sodales<\/mark> metus. Suspendisse finibus purus ut sem commodo...",
+            "weight" : 1,
+            "pos" : 344 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sodales",
+            "context" : "...lorem tortor. Quisque viverra sem a orci aliquet <mark>sodales<\/mark>. Aliquam commodo eros at sagittis vehicula. Quisque...",
+            "weight" : 1,
+            "pos" : 246 },
+          
+          { "form" : "sodales",
+            "context" : "...Pellentesque lorem mauris, malesuada a fringilla et, iaculis <mark>sodales<\/mark> metus. Suspendisse finibus purus ut sem commodo...",
+            "weight" : 1,
+            "pos" : 340 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "Csvs",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "CSVs",
+            "context" : "...this one complete with interactive DataTables and downloadable <mark>CSVs<\/mark> of collection metadata.",
+            "weight" : 1,
+            "pos" : 47 } ] } ] }

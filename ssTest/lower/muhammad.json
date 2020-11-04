@@ -1,0 +1,13 @@
+
+  { "stem" : "muhammad",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Muhammad",
+            "context" : "...The Dalaʾil al-Khayrat of al-Juzuli Artist Al-Hajj Hafiz <mark>Muhammad<\/mark> Nuri Type manuscript Location Turkey Current Location...",
+            "weight" : 1,
+            "pos" : 30 } ] } ] }

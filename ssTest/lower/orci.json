@@ -1,0 +1,23 @@
+
+  { "stem" : "orci",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "orci",
+            "context" : "...Quisque sed lorem tortor. Quisque viverra sem a <mark>orci<\/mark> aliquet sodales. Aliquam commodo eros at sagittis...",
+            "weight" : 1,
+            "pos" : 248 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "orci",
+            "context" : "...Quisque sed lorem tortor. Quisque viverra sem a <mark>orci<\/mark> aliquet sodales. Aliquam commodo eros at sagittis...",
+            "weight" : 1,
+            "pos" : 244 } ] } ] }

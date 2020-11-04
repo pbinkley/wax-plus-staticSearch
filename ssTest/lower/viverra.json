@@ -1,0 +1,43 @@
+
+  { "stem" : "viverra",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "viverra",
+            "context" : "...quis tristique iaculis. Quisque sed lorem tortor. Quisque <mark>viverra<\/mark> sem a orci aliquet sodales. Aliquam commodo...",
+            "weight" : 1,
+            "pos" : 246 },
+          
+          { "form" : "viverra",
+            "context" : "Duis finibus leo non velit <mark>viverra<\/mark> tincidunt. Fusce efficitur laoreet convallis. Sed sem...",
+            "weight" : 1,
+            "pos" : 275 },
+          
+          { "form" : "viverra",
+            "context" : "...mattis ut. Phasellus maximus ipsum in nulla sollicitudin <mark>viverra<\/mark>. Morbi semper lectus quis dolor cursus, ut...",
+            "weight" : 1,
+            "pos" : 328 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "viverra",
+            "context" : "...quis tristique iaculis. Quisque sed lorem tortor. Quisque <mark>viverra<\/mark> sem a orci aliquet sodales. Aliquam commodo...",
+            "weight" : 1,
+            "pos" : 242 },
+          
+          { "form" : "viverra",
+            "context" : "Duis finibus leo non velit <mark>viverra<\/mark> tincidunt. Fusce efficitur laoreet convallis. Sed sem...",
+            "weight" : 1,
+            "pos" : 271 },
+          
+          { "form" : "viverra",
+            "context" : "...mattis ut. Phasellus maximus ipsum in nulla sollicitudin <mark>viverra<\/mark>. Morbi semper lectus quis dolor cursus, ut...",
+            "weight" : 1,
+            "pos" : 324 } ] } ] }

@@ -1,0 +1,183 @@
+
+  { "stem" : "locat",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Diwan of Jami Manuscript Artist Unknown Type manuscript <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "Location",
+            "context" : "...Manuscript Artist Unknown Type manuscript Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 29 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...ʾAli Mirza Shuja al-Saltana Artist Unknown Type portrait <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 34 },
+          
+          { "form" : "Location",
+            "context" : "...al-Saltana Artist Unknown Type portrait Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 37 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Page from the Shahnama Artist Unknown Type manuscript <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 24 },
+          
+          { "form" : "Location",
+            "context" : "...Shahnama Artist Unknown Type manuscript Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Label Sulwan Al-Mutaʾa Artist Unknown Type manuscript <mark>Location<\/mark> Egypt Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "Location",
+            "context" : "...Al-Mutaʾa Artist Unknown Type manuscript Location Egypt Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 29 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...al-Juzuli Artist Al-Hajj Hafiz Muhammad Nuri Type manuscript <mark>Location<\/mark> Turkey Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 34 },
+          
+          { "form" : "Location",
+            "context" : "...Hafiz Muhammad Nuri Type manuscript Location Turkey Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 37 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Fath ʾAli Shah Artist Mihr ʾAli Type portrait <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 29 },
+          
+          { "form" : "Location",
+            "context" : "...Artist Mihr ʾAli Type portrait Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 32 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...of Sheikh Ali Mirza Artist Unknown Type portrait <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 28 },
+          
+          { "form" : "Location",
+            "context" : "...Mirza Artist Unknown Type portrait Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 31 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...River Dijla, fol. 33v Artist Unknown Type manuscript <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 30 },
+          
+          { "form" : "Location",
+            "context" : "...33v Artist Unknown Type manuscript Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 33 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Label Panel from Iran Artist Unknown Type panel <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 24 },
+          
+          { "form" : "Location",
+            "context" : "...Iran Artist Unknown Type panel Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Artist Bahādur Fīrūz, ʻAbd Allāh Khān Type manuscript <mark>Location<\/mark> Middle East and North Africa Current Location...",
+            "weight" : 1,
+            "pos" : 36 },
+          
+          { "form" : "Location",
+            "context" : "...manuscript Location Middle East and North Africa Current <mark>Location<\/mark> Qatar National Library Date Around 1628 -...",
+            "weight" : 1,
+            "pos" : 42 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...Map of the World Artist Unknown Type map <mark>Location<\/mark> Egypt Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 24 },
+          
+          { "form" : "Location",
+            "context" : "...World Artist Unknown Type map Location Egypt Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Location",
+            "context" : "...of Leila and Majnun Artist Unknown Type panel <mark>Location<\/mark> Iran Current Location The Museum of Islamic...",
+            "weight" : 1,
+            "pos" : 32 },
+          
+          { "form" : "Location",
+            "context" : "...Majnun Artist Unknown Type panel Location Iran Current <mark>Location<\/mark> The Museum of Islamic Art, Qatar Date...",
+            "weight" : 1,
+            "pos" : 35 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "Fīrūz",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fīrūz",
+            "context" : "...Horses\" (فَرَس نامه [رسالة في الخيول) Artist Bahādur <mark>Fīrūz<\/mark>, ʻAbd Allāh Khān Type manuscript Location Middle...",
+            "weight" : 1,
+            "pos" : 30 } ] } ] }

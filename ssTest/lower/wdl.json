@@ -1,0 +1,13 @@
+
+  { "stem" : "wdl",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wdl",
+            "context" : "...National Library Date Around 1628 - 1658 Source www.<mark>wdl<\/mark>.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj12\/manifest.json",
+            "weight" : 1,
+            "pos" : 52 } ] } ] }

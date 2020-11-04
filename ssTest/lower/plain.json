@@ -1,0 +1,13 @@
+
+  { "stem" : "plain",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plain",
+            "context" : "...the fundamentals of web development, data management, and <mark>plain<\/mark> text editing while leveraging a few great...",
+            "weight" : 1,
+            "pos" : 134 } ] } ] }

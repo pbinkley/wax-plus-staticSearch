@@ -1,0 +1,18 @@
+
+  { "stem" : "fol",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "fol",
+            "context" : "Faridun crosses the River Dijla, <mark>fol<\/mark>. 33v",
+            "weight" : 2,
+            "pos" : 19 },
+          
+          { "form" : "fol",
+            "context" : "...Label Faridun crosses the River Dijla, <mark>fol<\/mark>. 33v Artist Unknown Type manuscript Location Iran...",
+            "weight" : 1,
+            "pos" : 25 } ] } ] }

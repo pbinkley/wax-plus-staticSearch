@@ -1,0 +1,23 @@
+
+  { "stem" : "instal",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "install",
+            "context" : "...Using an interactive shell (e.g., Bash\/Terminal) to <mark>install<\/mark> and interact with programs, files, and directories...",
+            "weight" : 1,
+            "pos" : 222 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "installation",
+            "context" : "...start using Wax, please see our documentation for <mark>installation<\/mark> instructions and more.",
+            "weight" : 1,
+            "pos" : 55 } ] } ] }

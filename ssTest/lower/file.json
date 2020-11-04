@@ -1,0 +1,43 @@
+
+  { "stem" : "file",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "files",
+            "context" : "...they consist of flat HTML, CSS, and JavaScript <mark>files<\/mark> that don't need to communicate in a...",
+            "weight" : 1,
+            "pos" : 96 },
+          
+          { "form" : "files",
+            "context" : "...The Wax workflow starts with making standardized image <mark>files<\/mark> and metadata records and builds around them,...",
+            "weight" : 1,
+            "pos" : 158 },
+          
+          { "form" : "files",
+            "context" : "...(e.g., Bash\/Terminal) to install and interact with programs, <mark>files<\/mark>, and directories on your local computer.",
+            "weight" : 1,
+            "pos" : 225 },
+          
+          { "form" : "files",
+            "context" : "Creating and normalizing data <mark>files<\/mark> (e.g., CSV, JSON, YAML)",
+            "weight" : 1,
+            "pos" : 244 },
+          
+          { "form" : "file",
+            "context" : "Using <mark>file<\/mark>-naming conventions and best practices.",
+            "weight" : 1,
+            "pos" : 250 },
+          
+          { "form" : "file",
+            "context" : "...a zoomed-out view. In summary, you create a <mark>file<\/mark> of metadata records for your collection (in...",
+            "weight" : 1,
+            "pos" : 327 },
+          
+          { "form" : "files",
+            "context" : "...YAML, or JSON format), organize your collection image <mark>files<\/mark>, and put both in the Jekyll site...",
+            "weight" : 1,
+            "pos" : 338 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "khān",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Khān",
+            "context" : "...[رسالة في الخيول) Artist Bahādur Fīrūz, ʻAbd Allāh <mark>Khān<\/mark> Type manuscript Location Middle East and North...",
+            "weight" : 1,
+            "pos" : 33 } ] } ] }

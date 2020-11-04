@@ -1,0 +1,13 @@
+
+  { "stem" : "result",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "result",
+            "context" : "...the world and close to home. As a <mark>result<\/mark>, it is purposefully lightweight: a few Ruby...",
+            "weight" : 1,
+            "pos" : 67 } ] } ] }

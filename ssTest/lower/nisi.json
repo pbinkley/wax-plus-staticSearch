@@ -1,0 +1,38 @@
+
+  { "stem" : "nisi",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "nisi",
+            "context" : "...a justo eget blandit. Aliquam vitae magna eget <mark>nisi<\/mark> suscipit finibus id sit amet nulla.1",
+            "weight" : 1,
+            "pos" : 67 },
+          
+          { "form" : "nisi",
+            "context" : "Integer eu augue elementum, venenatis <mark>nisi<\/mark> vitae, ultrices magna. Nunc accumsan sem quis...",
+            "weight" : 1,
+            "pos" : 231 },
+          
+          { "form" : "nisi",
+            "context" : "Integer eu augue elementum, venenatis <mark>nisi<\/mark> vitae, ultrices magna. Nunc accumsan sem quis...",
+            "weight" : 1,
+            "pos" : 357 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nisi",
+            "context" : "...a justo eget blandit. Aliquam vitae magna eget <mark>nisi<\/mark> suscipit finibus id sit amet nulla.",
+            "weight" : 1,
+            "pos" : 67 },
+          
+          { "form" : "nisi",
+            "context" : "Integer eu augue elementum, venenatis <mark>nisi<\/mark> vitae, ultrices magna. Nunc accumsan sem quis...",
+            "weight" : 1,
+            "pos" : 227 } ] } ] }

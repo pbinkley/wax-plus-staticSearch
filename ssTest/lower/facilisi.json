@@ -1,0 +1,33 @@
+
+  { "stem" : "facilisi",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "facilisi",
+            "context" : "...vulputate porttitor sapien. Praesent in aliquet dui. Nulla <mark>facilisi<\/mark>. Maecenas nulla ex, facilisis non aliquet ac,...",
+            "weight" : 1,
+            "pos" : 86 },
+          
+          { "form" : "facilisis",
+            "context" : "...in aliquet dui. Nulla facilisi. Maecenas nulla ex, <mark>facilisis<\/mark> non aliquet ac, ultrices eu sem. Sed...",
+            "weight" : 1,
+            "pos" : 89 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "facilisi",
+            "context" : "...vulputate porttitor sapien. Praesent in aliquet dui. Nulla <mark>facilisi<\/mark>. Maecenas nulla ex, facilisis non aliquet ac,...",
+            "weight" : 1,
+            "pos" : 86 },
+          
+          { "form" : "facilisis",
+            "context" : "...in aliquet dui. Nulla facilisi. Maecenas nulla ex, <mark>facilisis<\/mark> non aliquet ac, ultrices eu sem. Sed...",
+            "weight" : 1,
+            "pos" : 89 } ] } ] }

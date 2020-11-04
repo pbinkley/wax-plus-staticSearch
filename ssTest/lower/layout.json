@@ -1,0 +1,13 @@
+
+  { "stem" : "layout",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "layouts",
+            "context" : "...by the Jekyll site. Jekyll then uses special <mark>layouts<\/mark> and Wax components to build the exhibit...",
+            "weight" : 1,
+            "pos" : 358 } ] } ] }

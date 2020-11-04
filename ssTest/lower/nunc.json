@@ -1,0 +1,63 @@
+
+  { "stem" : "nunc",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "nunc",
+            "context" : "...eget, sagittis vestibulum augue. Donec tincidunt mauris et <mark>nunc<\/mark> sagittis, nec consectetur lorem tristique. Nulla tincidunt...",
+            "weight" : 1,
+            "pos" : 152 },
+          
+          { "form" : "Nunc",
+            "context" : "...sit amet est pulvinar convallis vel non tortor. <mark>Nunc<\/mark> semper commodo fringilla. Proin eget metus eget...",
+            "weight" : 1,
+            "pos" : 198 },
+          
+          { "form" : "Nunc",
+            "context" : "...eu augue elementum, venenatis nisi vitae, ultrices magna. <mark>Nunc<\/mark> accumsan sem quis tristique iaculis. Quisque sed...",
+            "weight" : 1,
+            "pos" : 235 },
+          
+          { "form" : "Nunc",
+            "context" : "...eu augue elementum, venenatis nisi vitae, ultrices magna. <mark>Nunc<\/mark> accumsan sem quis tristique iaculis. Quisque sed...",
+            "weight" : 1,
+            "pos" : 361 },
+          
+          { "form" : "Nunc",
+            "context" : "<mark>Nunc<\/mark> semper commodo fringilla. Proin eget metus eget...",
+            "weight" : 1,
+            "pos" : 371 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "nunc",
+            "context" : "...eget, sagittis vestibulum augue. Donec tincidunt mauris et <mark>nunc<\/mark> sagittis, nec consectetur lorem tristique. Nulla tincidunt...",
+            "weight" : 1,
+            "pos" : 148 },
+          
+          { "form" : "Nunc",
+            "context" : "...sit amet est pulvinar convallis vel non tortor. <mark>Nunc<\/mark> semper commodo fringilla. Proin eget metus eget...",
+            "weight" : 1,
+            "pos" : 194 },
+          
+          { "form" : "Nunc",
+            "context" : "...eu augue elementum, venenatis nisi vitae, ultrices magna. <mark>Nunc<\/mark> accumsan sem quis tristique iaculis. Quisque sed...",
+            "weight" : 1,
+            "pos" : 231 },
+          
+          { "form" : "nunc",
+            "context" : "...eget, sagittis vestibulum augue. Donec tincidunt mauris et <mark>nunc<\/mark> sagittis, nec consectetur lorem tristique. Nulla tincidunt...",
+            "weight" : 1,
+            "pos" : 373 },
+          
+          { "form" : "Nunc",
+            "context" : "...sit amet est pulvinar convallis vel non tortor. <mark>Nunc<\/mark> semper commodo fringilla. Proin eget metus eget...",
+            "weight" : 1,
+            "pos" : 419 } ] } ] }

@@ -1,0 +1,133 @@
+
+  { "stem" : "museum",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type manuscript Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 16th century...",
+            "weight" : 1,
+            "pos" : 30 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type portrait Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1800 -...",
+            "weight" : 1,
+            "pos" : 38 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type manuscript Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1525 -...",
+            "weight" : 1,
+            "pos" : 28 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type manuscript Location Egypt Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 14th century...",
+            "weight" : 1,
+            "pos" : 30 } ] },
+      
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Nuri Type manuscript Location Turkey Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1801 Source...",
+            "weight" : 1,
+            "pos" : 38 } ] },
+      
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...ʾAli Type portrait Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1816 Source...",
+            "weight" : 1,
+            "pos" : 33 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type portrait Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1800 -...",
+            "weight" : 1,
+            "pos" : 32 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...collection items in this demo are from The <mark>Museum<\/mark> of Islamic Art, Qatar, (courtesy of WikiMedia...",
+            "weight" : 1,
+            "pos" : 60 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type manuscript Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1525 -...",
+            "weight" : 1,
+            "pos" : 34 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type panel Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1600 -...",
+            "weight" : 1,
+            "pos" : 28 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type map Location Egypt Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 15th century...",
+            "weight" : 1,
+            "pos" : 28 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...Unknown Type panel Location Iran Current Location The <mark>Museum<\/mark> of Islamic Art, Qatar Date 1550 -...",
+            "weight" : 1,
+            "pos" : 36 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Museum",
+            "context" : "...collection items in this demo are from The <mark>Museum<\/mark> of Islamic Art, Qatar, (courtesy of WikiMedia...",
+            "weight" : 1,
+            "pos" : 29 } ] } ] }

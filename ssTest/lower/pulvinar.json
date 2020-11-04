@@ -1,0 +1,38 @@
+
+  { "stem" : "pulvinar",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "pulvinar",
+            "context" : "...massa. Integer luctus nulla vel tellus rutrum, ac <mark>pulvinar<\/mark> erat finibus. Aliquam erat volutpat. Pellentesque vel...",
+            "weight" : 1,
+            "pos" : 110 },
+          
+          { "form" : "pulvinar",
+            "context" : "...non metus. Aenean et est sit amet est <mark>pulvinar<\/mark> convallis vel non tortor. Nunc semper commodo...",
+            "weight" : 1,
+            "pos" : 189 },
+          
+          { "form" : "pulvinar",
+            "context" : "...non metus. Aenean et est sit amet est <mark>pulvinar<\/mark> convallis vel non tortor. Nunc semper commodo...",
+            "weight" : 1,
+            "pos" : 414 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pulvinar",
+            "context" : "...massa. Integer luctus nulla vel tellus rutrum, ac <mark>pulvinar<\/mark> erat finibus. Aliquam erat volutpat. Pellentesque vel...",
+            "weight" : 1,
+            "pos" : 110 },
+          
+          { "form" : "pulvinar",
+            "context" : "...non metus. Aenean et est sit amet est <mark>pulvinar<\/mark> convallis vel non tortor. Nunc semper commodo...",
+            "weight" : 1,
+            "pos" : 193 } ] } ] }

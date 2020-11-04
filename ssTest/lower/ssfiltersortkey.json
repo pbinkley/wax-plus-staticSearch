@@ -1,0 +1,18 @@
+
+  { "stem" : "ssfiltersortkey",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ssFilterSortKey",
+            "context" : "...as a test of the functionality of the @data-<mark>ssFilterSortKey<\/mark> setting; the Random numeric value options should...",
+            "weight" : 1,
+            "pos" : 27 },
+          
+          { "form" : "ssFilterSortKey",
+            "context" : "...order although they do not have a configured @data-<mark>ssFilterSortKey<\/mark> setting.",
+            "weight" : 1,
+            "pos" : 41 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "will",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "willing",
+            "context" : "...exhibits. It's best suited for folks who are <mark>willing<\/mark> to take on some technical responsibility in...",
+            "weight" : 1,
+            "pos" : 198 } ] } ] }

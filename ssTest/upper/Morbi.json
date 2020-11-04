@@ -1,0 +1,23 @@
+
+  { "stem" : "Morbi",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Morbi",
+            "context" : "...ut. Phasellus maximus ipsum in nulla sollicitudin viverra. <mark>Morbi<\/mark> semper lectus quis dolor cursus, ut convallis...",
+            "weight" : 1,
+            "pos" : 329 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Morbi",
+            "context" : "...ut. Phasellus maximus ipsum in nulla sollicitudin viverra. <mark>Morbi<\/mark> semper lectus quis dolor cursus, ut convallis...",
+            "weight" : 1,
+            "pos" : 325 } ] } ] }

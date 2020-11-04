@@ -1,0 +1,13 @@
+
+  { "stem" : "updat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "updating",
+            "context" : "...put both in the Jekyll site folder. After <mark>updating<\/mark> your configuration, you run a few command...",
+            "weight" : 1,
+            "pos" : 343 } ] } ] }

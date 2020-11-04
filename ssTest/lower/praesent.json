@@ -1,0 +1,33 @@
+
+  { "stem" : "praesent",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Praesent",
+            "context" : "...erat, tristique ac libero vitae, bibendum pellentesque nulla. <mark>Praesent<\/mark> accumsan ut mauris ut euismod. Etiam mattis...",
+            "weight" : 1,
+            "pos" : 54 },
+          
+          { "form" : "Praesent",
+            "context" : "...leo, mattis ac dui non, vulputate porttitor sapien. <mark>Praesent<\/mark> in aliquet dui. Nulla facilisi. Maecenas nulla...",
+            "weight" : 1,
+            "pos" : 82 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Praesent",
+            "context" : "...erat, tristique ac libero vitae, bibendum pellentesque nulla. <mark>Praesent<\/mark> accumsan ut mauris ut euismod. Etiam mattis...",
+            "weight" : 1,
+            "pos" : 54 },
+          
+          { "form" : "Praesent",
+            "context" : "...leo, mattis ac dui non, vulputate porttitor sapien. <mark>Praesent<\/mark> in aliquet dui. Nulla facilisi. Maecenas nulla...",
+            "weight" : 1,
+            "pos" : 82 } ] } ] }

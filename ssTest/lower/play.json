@@ -1,0 +1,13 @@
+
+  { "stem" : "play",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "play",
+            "context" : "...Wax is also phenomenal for professionals who <mark>play<\/mark> a facilitating role, such as Digital Scholarship...",
+            "weight" : 1,
+            "pos" : 284 } ] } ] }

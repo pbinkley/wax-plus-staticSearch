@@ -1,0 +1,13 @@
+
+  { "stem" : "photograph",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "photographs",
+            "context" : "...is a collection of curated cultural artifacts—manuscripts, paintings, <mark>photographs<\/mark>, sculptures, etc—often accompanied by an explicit narrative...",
+            "weight" : 1,
+            "pos" : 29 } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "nibh",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "nibh",
+            "context" : "...efficitur dolor. Sed luctus, massa eget pharetra posuere, <mark>nibh<\/mark> sem eleifend lectus, lobortis molestie ante libero...",
+            "weight" : 1,
+            "pos" : 174 },
+          
+          { "form" : "nibh",
+            "context" : "...eget felis faucibus aliquet. Cras ultrices turpis id <mark>nibh<\/mark> cursus fringilla. Aenean nec magna turpis. Suspendisse...",
+            "weight" : 1,
+            "pos" : 208 },
+          
+          { "form" : "nibh",
+            "context" : "...efficitur dolor. Sed luctus, massa eget pharetra posuere, <mark>nibh<\/mark> sem eleifend lectus, lobortis molestie ante libero...",
+            "weight" : 1,
+            "pos" : 399 },
+          
+          { "form" : "nibh",
+            "context" : "...eget felis faucibus aliquet. Cras ultrices turpis id <mark>nibh<\/mark> cursus fringilla. Aenean nec magna turpis. Suspendisse...",
+            "weight" : 1,
+            "pos" : 433 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "nibh",
+            "context" : "...efficitur dolor.2 Sed luctus, massa eget pharetra posuere, <mark>nibh<\/mark> sem eleifend lectus, lobortis molestie ante libero...",
+            "weight" : 1,
+            "pos" : 178 },
+          
+          { "form" : "nibh",
+            "context" : "...eget felis faucibus aliquet. Cras ultrices turpis id <mark>nibh<\/mark> cursus fringilla. Aenean nec magna turpis. Suspendisse...",
+            "weight" : 1,
+            "pos" : 212 },
+          
+          { "form" : "nibh",
+            "context" : "...eget felis faucibus aliquet. Cras ultrices turpis id <mark>nibh<\/mark> cursus fringilla. Aenean nec magna turpis. Suspendisse...",
+            "weight" : 1,
+            "pos" : 385 } ] } ] }

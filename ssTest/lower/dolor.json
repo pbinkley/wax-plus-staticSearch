@@ -1,0 +1,83 @@
+
+  { "stem" : "dolor",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "dolor",
+            "context" : "...at erat efficitur bibendum. Ut laoreet elit nec <mark>dolor<\/mark> molestie finibus. Vivamus justo risus, scelerisque nec...",
+            "weight" : 1,
+            "pos" : 33 },
+          
+          { "form" : "dolor",
+            "context" : "...dolor molestie finibus. Vivamus justo risus, scelerisque nec <mark>dolor<\/mark> ut, pretium fringilla purus. Nam nisl erat,...",
+            "weight" : 1,
+            "pos" : 41 },
+          
+          { "form" : "dolor",
+            "context" : "...a pharetra ligula posuere sit amet. Sed ipsum <mark>dolor<\/mark>, elementum eget nisl eget, sagittis vestibulum augue....",
+            "weight" : 1,
+            "pos" : 137 },
+          
+          { "form" : "dolor",
+            "context" : "...mi urna, feugiat sed massa non, ullamcorper efficitur <mark>dolor<\/mark>. Sed luctus, massa eget pharetra posuere, nibh...",
+            "weight" : 1,
+            "pos" : 167 },
+          
+          { "form" : "dolor",
+            "context" : "...Duis faucibus diam vitae faucibus feugiat. Lorem ipsum <mark>dolor<\/mark> sit amet, consectetur adipiscing elit. Mauris pharetra...",
+            "weight" : 1,
+            "pos" : 306 },
+          
+          { "form" : "dolor",
+            "context" : "...in nulla sollicitudin viverra. Morbi semper lectus quis <mark>dolor<\/mark> cursus, ut convallis lacus venenatis. Pellentesque lorem...",
+            "weight" : 1,
+            "pos" : 329 },
+          
+          { "form" : "dolor",
+            "context" : "...a pharetra ligula posuere sit amet. Sed ipsum <mark>dolor<\/mark>, elementum eget nisl eget, sagittis vestibulum augue....",
+            "weight" : 1,
+            "pos" : 362 },
+          
+          { "form" : "dolor",
+            "context" : "...mi urna, feugiat sed massa non, ullamcorper efficitur <mark>dolor<\/mark>. Sed luctus, massa eget pharetra posuere, nibh...",
+            "weight" : 1,
+            "pos" : 392 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "dolor",
+            "context" : "...at erat efficitur bibendum. Ut laoreet elit nec <mark>dolor<\/mark> molestie finibus. Vivamus justo risus, scelerisque nec...",
+            "weight" : 1,
+            "pos" : 33 },
+          
+          { "form" : "dolor",
+            "context" : "...dolor molestie finibus. Vivamus justo risus, scelerisque nec <mark>dolor<\/mark> ut, pretium fringilla purus. Nam nisl erat,...",
+            "weight" : 1,
+            "pos" : 41 },
+          
+          { "form" : "dolor",
+            "context" : "...a pharetra ligula posuere sit amet. Sed ipsum <mark>dolor<\/mark>, elementum eget nisl eget, sagittis vestibulum augue....",
+            "weight" : 1,
+            "pos" : 141 },
+          
+          { "form" : "dolor",
+            "context" : "...mi urna, feugiat sed massa non, ullamcorper efficitur <mark>dolor<\/mark>.2 Sed luctus, massa eget pharetra posuere, nibh...",
+            "weight" : 1,
+            "pos" : 171 },
+          
+          { "form" : "dolor",
+            "context" : "...Duis faucibus diam vitae faucibus feugiat. Lorem ipsum <mark>dolor<\/mark> sit amet, consectetur adipiscing elit. Mauris pharetra...",
+            "weight" : 1,
+            "pos" : 310 },
+          
+          { "form" : "dolor",
+            "context" : "...in nulla sollicitudin viverra. Morbi semper lectus quis <mark>dolor<\/mark> cursus, ut convallis lacus venenatis. Pellentesque lorem...",
+            "weight" : 1,
+            "pos" : 333 } ] } ] }

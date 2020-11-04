@@ -1,0 +1,93 @@
+
+  { "stem" : "unknown",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj6_index",
+        "docUri" : "qatar\/obj6\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Label Diwan of Jami Manuscript Artist <mark>Unknown<\/mark> Type manuscript Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 23 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Portrait of Hasan ʾAli Mirza Shuja al-Saltana Artist <mark>Unknown<\/mark> Type portrait Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 31 } ] },
+      
+      { "docId" : "qatar_obj7_index",
+        "docUri" : "qatar\/obj7\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Label Page from the Shahnama Artist <mark>Unknown<\/mark> Type manuscript Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 21 } ] },
+      
+      { "docId" : "qatar_obj2_index",
+        "docUri" : "qatar\/obj2\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "Label Sulwan Al-Mutaʾa Artist <mark>Unknown<\/mark> Type manuscript Location Egypt Current Location The...",
+            "weight" : 1,
+            "pos" : 23 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Label Portrait of Sheikh Ali Mirza Artist <mark>Unknown<\/mark> Type portrait Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 25 } ] },
+      
+      { "docId" : "qatar_obj4_index",
+        "docUri" : "qatar\/obj4\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Faridun crosses the River Dijla, fol. 33v Artist <mark>Unknown<\/mark> Type manuscript Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "qatar_obj5_index",
+        "docUri" : "qatar\/obj5\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "Label Panel from Iran Artist <mark>Unknown<\/mark> Type panel Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 21 } ] },
+      
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Label Map of the World Artist <mark>Unknown<\/mark> Type map Location Egypt Current Location The...",
+            "weight" : 1,
+            "pos" : 21 } ] },
+      
+      { "docId" : "qatar_obj8_index",
+        "docUri" : "qatar\/obj8\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unknown",
+            "context" : "...Depicting the story of Leila and Majnun Artist <mark>Unknown<\/mark> Type panel Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 29 } ] } ] }

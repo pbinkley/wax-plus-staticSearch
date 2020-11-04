@@ -1,0 +1,13 @@
+
+  { "stem" : "workshop",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "workshop",
+            "context" : "...the creation of Wax exhibitions, check out this <mark>workshop<\/mark>, this GitHub repository, and this custom Wax...",
+            "weight" : 1,
+            "pos" : 274 } ] } ] }

@@ -1,0 +1,23 @@
+
+  { "stem" : "one",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "one",
+            "context" : "...interactive_metadata_table to help you make pages like this <mark>one<\/mark> complete with interactive DataTables and downloadable CSVs...",
+            "weight" : 1,
+            "pos" : 42 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "one",
+            "context" : "...of objects, each of which is represented by <mark>one<\/mark> or more images. The collection items in...",
+            "weight" : 1,
+            "pos" : 24 } ] } ] }

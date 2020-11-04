@@ -1,0 +1,23 @@
+
+  { "stem" : "map",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj3_index",
+        "docUri" : "qatar\/obj3\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Map",
+            "context" : "<mark>Map<\/mark> of the World",
+            "weight" : 2,
+            "pos" : 15 },
+          
+          { "form" : "Map",
+            "context" : "Label <mark>Map<\/mark> of the World Artist Unknown Type map...",
+            "weight" : 1,
+            "pos" : 18 },
+          
+          { "form" : "map",
+            "context" : "...Label Map of the World Artist Unknown Type <mark>map<\/mark> Location Egypt Current Location The Museum of...",
+            "weight" : 1,
+            "pos" : 23 } ] } ] }

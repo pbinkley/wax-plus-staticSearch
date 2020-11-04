@@ -1,0 +1,33 @@
+
+  { "stem" : "publish",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Published",
+            "context" : "<mark>Published<\/mark> on Thursday, November 15, 2018",
+            "weight" : 1,
+            "pos" : 21 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "publish",
+            "context" : "...spits them out as static pages ready to <mark>publish<\/mark>.",
+            "weight" : 1,
+            "pos" : 367 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Published",
+            "context" : "<mark>Published<\/mark> on Thursday, November 15, 2018",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

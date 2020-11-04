@@ -1,0 +1,33 @@
+
+  { "stem" : "Mauris",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mauris",
+            "context" : "...ac, ultrices eu sem. Sed vel aliquet urna. <mark>Mauris<\/mark> quis ex at lectus iaculis elementum id...",
+            "weight" : 1,
+            "pos" : 98 },
+          
+          { "form" : "Mauris",
+            "context" : "...Lorem ipsum dolor sit amet, consectetur adipiscing elit. <mark>Mauris<\/mark> pharetra elit sem, et euismod massa mattis...",
+            "weight" : 1,
+            "pos" : 316 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mauris",
+            "context" : "...ac, ultrices eu sem. Sed vel aliquet urna. <mark>Mauris<\/mark> quis ex at lectus iaculis elementum id...",
+            "weight" : 1,
+            "pos" : 98 },
+          
+          { "form" : "Mauris",
+            "context" : "...Lorem ipsum dolor sit amet, consectetur adipiscing elit. <mark>Mauris<\/mark> pharetra elit sem, et euismod massa mattis...",
+            "weight" : 1,
+            "pos" : 312 } ] } ] }

@@ -1,0 +1,18 @@
+
+  { "stem" : "practic",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "practices",
+            "context" : "Using file-naming conventions and best <mark>practices<\/mark>.",
+            "weight" : 1,
+            "pos" : 254 },
+          
+          { "form" : "practice",
+            "context" : "...as Digital Scholarship Librarians or Coordinators. With some <mark>practice<\/mark>, Wax substantially reduces the time to production...",
+            "weight" : 1,
+            "pos" : 291 } ] } ] }

@@ -1,0 +1,28 @@
+
+  { "stem" : "الخيول",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "الخيول",
+            "context" : "...\"The Book of Horses\" (فَرَس نامه [رسالة في <mark>الخيول<\/mark>)",
+            "weight" : 2,
+            "pos" : 20 },
+          
+          { "form" : "الخيول",
+            "context" : "...\"The Book of Horses\" (فَرَس نامه [رسالة في <mark>الخيول<\/mark>) Artist Bahādur Fīrūz, ʻAbd Allāh Khān Type...",
+            "weight" : 1,
+            "pos" : 27 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "الخيول",
+            "context" : "...\"The Book of Horses\" (فَرَس نامه [رسالة في <mark>الخيول<\/mark>)",
+            "weight" : 1,
+            "pos" : 129 } ] } ] }

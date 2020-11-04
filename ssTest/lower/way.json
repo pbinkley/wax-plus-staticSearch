@@ -1,0 +1,18 @@
+
+  { "stem" : "way",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "way",
+            "context" : "...that don't need to communicate in a complex <mark>way<\/mark> back to a server. This makes them...",
+            "weight" : 1,
+            "pos" : 100 },
+          
+          { "form" : "way",
+            "context" : "...great open source libraries and frameworks along the <mark>way<\/mark>.",
+            "weight" : 1,
+            "pos" : 144 } ] } ] }

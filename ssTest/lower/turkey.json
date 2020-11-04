@@ -1,0 +1,13 @@
+
+  { "stem" : "turkey",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Turkey",
+            "context" : "...Artist Al-Hajj Hafiz Muhammad Nuri Type manuscript Location <mark>Turkey<\/mark> Current Location The Museum of Islamic Art,...",
+            "weight" : 1,
+            "pos" : 35 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "provid",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provide",
+            "context" : "...colleagues or any other collaborators just have to <mark>provide<\/mark> you with a properly formatted spreadsheet and...",
+            "weight" : 1,
+            "pos" : 309 } ] } ] }

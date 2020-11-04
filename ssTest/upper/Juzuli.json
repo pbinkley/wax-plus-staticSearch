@@ -1,0 +1,18 @@
+
+  { "stem" : "Juzuli",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj1_index",
+        "docUri" : "qatar\/obj1\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Juzuli",
+            "context" : "The Dalaʾil al-Khayrat of al-<mark>Juzuli<\/mark>",
+            "weight" : 2,
+            "pos" : 19 },
+          
+          { "form" : "Juzuli",
+            "context" : "Label The Dalaʾil al-Khayrat of al-<mark>Juzuli<\/mark> Artist Al-Hajj Hafiz Muhammad Nuri Type manuscript...",
+            "weight" : 1,
+            "pos" : 25 } ] } ] }

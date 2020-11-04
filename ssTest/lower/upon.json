@@ -1,0 +1,13 @@
+
+  { "stem" : "upon",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "upon",
+            "context" : "...Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr. Wax builds <mark>upon<\/mark> work by Peter Binkley, David Newbury, and...",
+            "weight" : 1,
+            "pos" : 47 } ] } ] }

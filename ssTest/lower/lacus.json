@@ -1,0 +1,33 @@
+
+  { "stem" : "lacus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lacus",
+            "context" : "Ut eleifend <mark>lacus<\/mark> at erat efficitur bibendum. Ut laoreet elit...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "lacus",
+            "context" : "...Morbi semper lectus quis dolor cursus, ut convallis <mark>lacus<\/mark> venenatis. Pellentesque lorem mauris, malesuada a fringilla...",
+            "weight" : 1,
+            "pos" : 336 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lacus",
+            "context" : "Ut eleifend <mark>lacus<\/mark> at erat efficitur bibendum. Ut laoreet elit...",
+            "weight" : 1,
+            "pos" : 26 },
+          
+          { "form" : "lacus",
+            "context" : "...Morbi semper lectus quis dolor cursus, ut convallis <mark>lacus<\/mark> venenatis. Pellentesque lorem mauris, malesuada a fringilla...",
+            "weight" : 1,
+            "pos" : 332 } ] } ] }

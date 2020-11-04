@@ -1,0 +1,38 @@
+
+  { "stem" : "make",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "makes",
+            "context" : "...a complex way back to a server. This <mark>makes<\/mark> them cheaper, safer, and generally easier to...",
+            "weight" : 1,
+            "pos" : 103 },
+          
+          { "form" : "making",
+            "context" : "...the collection data. The Wax workflow starts with <mark>making<\/mark> standardized image files and metadata records and...",
+            "weight" : 1,
+            "pos" : 155 },
+          
+          { "form" : "makes",
+            "context" : "...content, and site styling differently and deliberately. This <mark>makes<\/mark> it easier for you or others to...",
+            "weight" : 1,
+            "pos" : 172 } ] },
+      
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "make",
+            "context" : "...FAIR data principles, and as such strives to <mark>make<\/mark> its collections findable, accessible, interoperable and reusable....",
+            "weight" : 1,
+            "pos" : 23 },
+          
+          { "form" : "make",
+            "context" : "...a specific _include called interactive_metadata_table to help you <mark>make<\/mark> pages like this one complete with interactive...",
+            "weight" : 1,
+            "pos" : 39 } ] } ] }

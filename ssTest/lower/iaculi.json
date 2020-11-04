@@ -1,0 +1,68 @@
+
+  { "stem" : "iaculi",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "iaculis",
+            "context" : "...vel aliquet urna. Mauris quis ex at lectus <mark>iaculis<\/mark> elementum id id massa. Integer luctus nulla...",
+            "weight" : 1,
+            "pos" : 101 },
+          
+          { "form" : "iaculis",
+            "context" : "...fringilla. Aenean nec magna turpis. Suspendisse egestas tellus <mark>iaculis<\/mark> ante pharetra imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 222 },
+          
+          { "form" : "iaculis",
+            "context" : "...vitae, ultrices magna. Nunc accumsan sem quis tristique <mark>iaculis<\/mark>. Quisque sed lorem tortor. Quisque viverra sem...",
+            "weight" : 1,
+            "pos" : 240 },
+          
+          { "form" : "iaculis",
+            "context" : "...venenatis. Pellentesque lorem mauris, malesuada a fringilla et, <mark>iaculis<\/mark> sodales metus. Suspendisse finibus purus ut sem...",
+            "weight" : 1,
+            "pos" : 343 },
+          
+          { "form" : "iaculis",
+            "context" : "...vitae, ultrices magna. Nunc accumsan sem quis tristique <mark>iaculis<\/mark>. Quisque sed lorem tortor. ↩︎",
+            "weight" : 1,
+            "pos" : 366 },
+          
+          { "form" : "iaculis",
+            "context" : "...fringilla. Aenean nec magna turpis. Suspendisse egestas tellus <mark>iaculis<\/mark> ante pharetra imperdiet ac at odio. ↩︎",
+            "weight" : 1,
+            "pos" : 395 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "iaculis",
+            "context" : "...vel aliquet urna. Mauris quis ex at lectus <mark>iaculis<\/mark> elementum id id massa. Integer luctus nulla...",
+            "weight" : 1,
+            "pos" : 101 },
+          
+          { "form" : "iaculis",
+            "context" : "...fringilla. Aenean nec magna turpis. Suspendisse egestas tellus <mark>iaculis<\/mark> ante pharetra imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 218 },
+          
+          { "form" : "iaculis",
+            "context" : "...vitae, ultrices magna. Nunc accumsan sem quis tristique <mark>iaculis<\/mark>. Quisque sed lorem tortor. Quisque viverra sem...",
+            "weight" : 1,
+            "pos" : 236 },
+          
+          { "form" : "iaculis",
+            "context" : "...venenatis. Pellentesque lorem mauris, malesuada a fringilla et, <mark>iaculis<\/mark> sodales metus. Suspendisse finibus purus ut sem...",
+            "weight" : 1,
+            "pos" : 339 },
+          
+          { "form" : "iaculis",
+            "context" : "...fringilla. Aenean nec magna turpis. Suspendisse egestas tellus <mark>iaculis<\/mark> ante pharetra imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 443 } ] } ] }

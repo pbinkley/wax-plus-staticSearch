@@ -1,0 +1,63 @@
+
+  { "stem" : "lorem",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "lorem",
+            "context" : "...Donec tincidunt mauris et nunc sagittis, nec consectetur <mark>lorem<\/mark> tristique. Nulla tincidunt magna ut ullamcorper consectetur....",
+            "weight" : 1,
+            "pos" : 156 },
+          
+          { "form" : "lorem",
+            "context" : "...Nunc accumsan sem quis tristique iaculis. Quisque sed <mark>lorem<\/mark> tortor. Quisque viverra sem a orci aliquet...",
+            "weight" : 1,
+            "pos" : 243 },
+          
+          { "form" : "Lorem",
+            "context" : "...mollis neque. Duis faucibus diam vitae faucibus feugiat. <mark>Lorem<\/mark> ipsum dolor sit amet, consectetur adipiscing elit....",
+            "weight" : 1,
+            "pos" : 308 },
+          
+          { "form" : "lorem",
+            "context" : "...quis dolor cursus, ut convallis lacus venenatis. Pellentesque <mark>lorem<\/mark> mauris, malesuada a fringilla et, iaculis sodales...",
+            "weight" : 1,
+            "pos" : 339 },
+          
+          { "form" : "lorem",
+            "context" : "...Nunc accumsan sem quis tristique iaculis. Quisque sed <mark>lorem<\/mark> tortor. ↩︎",
+            "weight" : 1,
+            "pos" : 369 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "lorem",
+            "context" : "...Donec tincidunt mauris et nunc sagittis, nec consectetur <mark>lorem<\/mark> tristique. Nulla tincidunt magna ut ullamcorper consectetur....",
+            "weight" : 1,
+            "pos" : 152 },
+          
+          { "form" : "lorem",
+            "context" : "...Nunc accumsan sem quis tristique iaculis. Quisque sed <mark>lorem<\/mark> tortor. Quisque viverra sem a orci aliquet...",
+            "weight" : 1,
+            "pos" : 239 },
+          
+          { "form" : "Lorem",
+            "context" : "...mollis neque. Duis faucibus diam vitae faucibus feugiat. <mark>Lorem<\/mark> ipsum dolor sit amet, consectetur adipiscing elit....",
+            "weight" : 1,
+            "pos" : 304 },
+          
+          { "form" : "lorem",
+            "context" : "...quis dolor cursus, ut convallis lacus venenatis. Pellentesque <mark>lorem<\/mark> mauris, malesuada a fringilla et, iaculis sodales...",
+            "weight" : 1,
+            "pos" : 335 },
+          
+          { "form" : "lorem",
+            "context" : "...Donec tincidunt mauris et nunc sagittis, nec consectetur <mark>lorem<\/mark> tristique. Nulla tincidunt magna ut ullamcorper consectetur....",
+            "weight" : 1,
+            "pos" : 377 } ] } ] }

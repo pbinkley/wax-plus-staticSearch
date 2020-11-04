@@ -1,0 +1,13 @@
+
+  { "stem" : "hope",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hopefully",
+            "context" : "...gems, some customizable UI components, good documentation and (<mark>hopefully<\/mark> soon!) recipes for creating, deploying, and maintaining...",
+            "weight" : 1,
+            "pos" : 76 } ] } ] }

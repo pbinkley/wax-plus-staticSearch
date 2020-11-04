@@ -1,0 +1,33 @@
+
+  { "stem" : "via",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "via",
+            "context" : "...the skills above! For examples of digital pedagogy <mark>via<\/mark> the creation of Wax exhibitions, check out...",
+            "weight" : 1,
+            "pos" : 269 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "via",
+            "context" : "...Google Art Project) and The Qatar National Library (<mark>via<\/mark> World Digital Library).",
+            "weight" : 1,
+            "pos" : 72 } ] },
+      
+      { "docId" : "collection_index",
+        "docUri" : "collection\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "via",
+            "context" : "...Google Art Project) and The Qatar National Library (<mark>via<\/mark> World Digital Library).",
+            "weight" : 1,
+            "pos" : 41 } ] } ] }

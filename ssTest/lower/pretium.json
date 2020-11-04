@@ -1,0 +1,23 @@
+
+  { "stem" : "pretium",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretium",
+            "context" : "...finibus. Vivamus justo risus, scelerisque nec dolor ut, <mark>pretium<\/mark> fringilla purus. Nam nisl erat, tristique ac...",
+            "weight" : 1,
+            "pos" : 42 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretium",
+            "context" : "...finibus. Vivamus justo risus, scelerisque nec dolor ut, <mark>pretium<\/mark> fringilla purus. Nam nisl erat, tristique ac...",
+            "weight" : 1,
+            "pos" : 42 } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "ant",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ante",
+            "context" : "...pharetra posuere, nibh sem eleifend lectus, lobortis molestie <mark>ante<\/mark> libero non metus. Aenean et est sit...",
+            "weight" : 1,
+            "pos" : 180 },
+          
+          { "form" : "ante",
+            "context" : "...Aenean nec magna turpis. Suspendisse egestas tellus iaculis <mark>ante<\/mark> pharetra imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 219 },
+          
+          { "form" : "ante",
+            "context" : "...pharetra posuere, nibh sem eleifend lectus, lobortis molestie <mark>ante<\/mark> libero non metus. Aenean et est sit...",
+            "weight" : 1,
+            "pos" : 405 },
+          
+          { "form" : "ante",
+            "context" : "...Aenean nec magna turpis. Suspendisse egestas tellus iaculis <mark>ante<\/mark> pharetra imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 444 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ante",
+            "context" : "...pharetra posuere, nibh sem eleifend lectus, lobortis molestie <mark>ante<\/mark> libero non metus. Aenean et est sit...",
+            "weight" : 1,
+            "pos" : 184 },
+          
+          { "form" : "ante",
+            "context" : "...Aenean nec magna turpis. Suspendisse egestas tellus iaculis <mark>ante<\/mark> pharetra imperdiet ac at odio.",
+            "weight" : 1,
+            "pos" : 223 },
+          
+          { "form" : "ante",
+            "context" : "...Aenean nec magna turpis. Suspendisse egestas tellus iaculis <mark>ante<\/mark> pharetra imperdiet ac at odio. ↩︎",
+            "weight" : 1,
+            "pos" : 396 } ] } ] }

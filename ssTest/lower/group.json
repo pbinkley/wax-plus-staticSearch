@@ -1,0 +1,13 @@
+
+  { "stem" : "group",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "groups",
+            "context" : "Wax was created for individuals and <mark>groups<\/mark> who either don't have or don't want...",
+            "weight" : 1,
+            "pos" : 185 } ] } ] }

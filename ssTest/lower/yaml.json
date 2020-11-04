@@ -1,0 +1,18 @@
+
+  { "stem" : "yaml",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "YAML",
+            "context" : "...Creating and normalizing data files (e.g., CSV, JSON, <mark>YAML<\/mark>)",
+            "weight" : 1,
+            "pos" : 247 },
+          
+          { "form" : "YAML",
+            "context" : "...of metadata records for your collection (in CSV, <mark>YAML<\/mark>, or JSON format), organize your collection image...",
+            "weight" : 1,
+            "pos" : 332 } ] } ] }

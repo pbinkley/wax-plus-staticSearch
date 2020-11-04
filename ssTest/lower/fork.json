@@ -1,0 +1,13 @@
+
+  { "stem" : "fork",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fork",
+            "context" : "...contributors and maintainers. Please get in touch, or <mark>fork<\/mark> the project on GitHub. If you encounter...",
+            "weight" : 1,
+            "pos" : 61 } ] } ] }

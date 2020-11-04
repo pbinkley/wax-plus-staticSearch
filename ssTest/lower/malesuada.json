@@ -1,0 +1,23 @@
+
+  { "stem" : "malesuada",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "malesuada",
+            "context" : "...cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, <mark>malesuada<\/mark> a fringilla et, iaculis sodales metus. Suspendisse...",
+            "weight" : 1,
+            "pos" : 341 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "malesuada",
+            "context" : "...cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, <mark>malesuada<\/mark> a fringilla et, iaculis sodales metus. Suspendisse...",
+            "weight" : 1,
+            "pos" : 337 } ] } ] }

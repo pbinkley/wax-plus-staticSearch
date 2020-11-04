@@ -1,0 +1,23 @@
+
+  { "stem" : "framework",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "frameworks",
+            "context" : "...University Libraries. It uses open source libraries and <mark>frameworks<\/mark> including Jekyll, IIIF, OpenSeaDragon, Rake, and ElasticLunr....",
+            "weight" : 1,
+            "pos" : 38 } ] },
+      
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "frameworks",
+            "context" : "...leveraging a few great open source libraries and <mark>frameworks<\/mark> along the way.",
+            "weight" : 1,
+            "pos" : 142 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "north",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "North",
+            "context" : "...Allāh Khān Type manuscript Location Middle East and <mark>North<\/mark> Africa Current Location Qatar National Library Date...",
+            "weight" : 1,
+            "pos" : 39 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "want",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "want",
+            "context" : "...and groups who either don't have or don't <mark>want<\/mark> to use a lot of resources to...",
+            "weight" : 1,
+            "pos" : 187 } ] } ] }

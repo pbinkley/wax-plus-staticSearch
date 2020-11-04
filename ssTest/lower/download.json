@@ -1,0 +1,13 @@
+
+  { "stem" : "download",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "downloadable",
+            "context" : "...like this one complete with interactive DataTables and <mark>downloadable<\/mark> CSVs of collection metadata.",
+            "weight" : 1,
+            "pos" : 46 } ] } ] }

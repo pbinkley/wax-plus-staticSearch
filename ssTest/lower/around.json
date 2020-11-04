@@ -1,0 +1,28 @@
+
+  { "stem" : "around",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "context" : "...hyper-aware of differences in resources, control and access <mark>around<\/mark> the world and close to home. As...",
+            "weight" : 1,
+            "pos" : 63 },
+          
+          { "form" : "around",
+            "context" : "...standardized image files and metadata records and builds <mark>around<\/mark> them, handling canonical information, scholarly content, and...",
+            "weight" : 1,
+            "pos" : 162 } ] },
+      
+      { "docId" : "qatar_obj12_index",
+        "docUri" : "qatar\/obj12\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Around",
+            "context" : "...North Africa Current Location Qatar National Library Date <mark>Around<\/mark> 1628 - 1658 Source www.wdl.org IIIF Manifest...",
+            "weight" : 1,
+            "pos" : 47 } ] } ] }

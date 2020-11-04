@@ -1,0 +1,33 @@
+
+  { "stem" : "Proin",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Proin",
+            "context" : "...convallis vel non tortor. Nunc semper commodo fringilla. <mark>Proin<\/mark> eget metus eget felis faucibus aliquet. Cras...",
+            "weight" : 1,
+            "pos" : 202 },
+          
+          { "form" : "Proin",
+            "context" : "Nunc semper commodo fringilla. <mark>Proin<\/mark> eget metus eget felis faucibus aliquet. Cras...",
+            "weight" : 1,
+            "pos" : 375 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Proin",
+            "context" : "...convallis vel non tortor. Nunc semper commodo fringilla. <mark>Proin<\/mark> eget metus eget felis faucibus aliquet. Cras...",
+            "weight" : 1,
+            "pos" : 198 },
+          
+          { "form" : "Proin",
+            "context" : "...convallis vel non tortor. Nunc semper commodo fringilla. <mark>Proin<\/mark> eget metus eget felis faucibus aliquet. Cras...",
+            "weight" : 1,
+            "pos" : 423 } ] } ] }

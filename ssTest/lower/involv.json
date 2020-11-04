@@ -1,0 +1,13 @@
+
+  { "stem" : "involv",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "involves",
+            "context" : "...mean learning how to use a platform. It <mark>involves<\/mark> learning the fundamentals of web development, data...",
+            "weight" : 1,
+            "pos" : 127 } ] } ] }

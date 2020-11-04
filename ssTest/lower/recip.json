@@ -1,0 +1,13 @@
+
+  { "stem" : "recip",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recipes",
+            "context" : "...customizable UI components, good documentation and (hopefully soon!) <mark>recipes<\/mark> for creating, deploying, and maintaining custom digital...",
+            "weight" : 1,
+            "pos" : 78 } ] } ] }

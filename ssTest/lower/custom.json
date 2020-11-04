@@ -1,0 +1,23 @@
+
+  { "stem" : "custom",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "customization",
+            "context" : "...used for sound or video collections with some <mark>customization<\/mark>.",
+            "weight" : 1,
+            "pos" : 47 },
+          
+          { "form" : "custom",
+            "context" : "...(hopefully soon!) recipes for creating, deploying, and maintaining <mark>custom<\/mark> digital exhibitions.",
+            "weight" : 1,
+            "pos" : 82 },
+          
+          { "form" : "custom",
+            "context" : "...out this workshop, this GitHub repository, and this <mark>custom<\/mark> Wax site.",
+            "weight" : 1,
+            "pos" : 277 } ] } ] }

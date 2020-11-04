@@ -1,0 +1,43 @@
+
+  { "stem" : "semper",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "semper",
+            "context" : "...amet est pulvinar convallis vel non tortor. Nunc <mark>semper<\/mark> commodo fringilla. Proin eget metus eget felis...",
+            "weight" : 1,
+            "pos" : 199 },
+          
+          { "form" : "semper",
+            "context" : "...Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi <mark>semper<\/mark> lectus quis dolor cursus, ut convallis lacus...",
+            "weight" : 1,
+            "pos" : 330 },
+          
+          { "form" : "semper",
+            "context" : "Nunc <mark>semper<\/mark> commodo fringilla. Proin eget metus eget felis...",
+            "weight" : 1,
+            "pos" : 372 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "semper",
+            "context" : "...amet est pulvinar convallis vel non tortor. Nunc <mark>semper<\/mark> commodo fringilla. Proin eget metus eget felis...",
+            "weight" : 1,
+            "pos" : 195 },
+          
+          { "form" : "semper",
+            "context" : "...Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi <mark>semper<\/mark> lectus quis dolor cursus, ut convallis lacus...",
+            "weight" : 1,
+            "pos" : 326 },
+          
+          { "form" : "semper",
+            "context" : "...amet est pulvinar convallis vel non tortor. Nunc <mark>semper<\/mark> commodo fringilla. Proin eget metus eget felis...",
+            "weight" : 1,
+            "pos" : 420 } ] } ] }

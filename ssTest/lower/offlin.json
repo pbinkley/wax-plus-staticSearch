@@ -1,0 +1,13 @@
+
+  { "stem" : "offlin",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "offline",
+            "context" : "...and how to put it online or in <mark>offline<\/mark> media.",
+            "weight" : 1,
+            "pos" : 376 } ] } ] }

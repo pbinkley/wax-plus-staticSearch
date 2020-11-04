@@ -1,0 +1,13 @@
+
+  { "stem" : "extra",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "extras",
+            "context" : "...spreadsheet and the text for the exhibits. The <mark>extras<\/mark> are up to you.",
+            "weight" : 1,
+            "pos" : 315 } ] } ] }

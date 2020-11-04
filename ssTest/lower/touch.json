@@ -1,0 +1,13 @@
+
+  { "stem" : "touch",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "touch",
+            "context" : "...and encourage contributors and maintainers. Please get in <mark>touch<\/mark>, or fork the project on GitHub. If...",
+            "weight" : 1,
+            "pos" : 60 } ] } ] }

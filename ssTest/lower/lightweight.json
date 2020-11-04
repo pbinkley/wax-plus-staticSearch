@@ -1,0 +1,13 @@
+
+  { "stem" : "lightweight",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lightweight",
+            "context" : "...to home. As a result, it is purposefully <mark>lightweight<\/mark>: a few Ruby gems, some customizable UI...",
+            "weight" : 1,
+            "pos" : 69 } ] } ] }

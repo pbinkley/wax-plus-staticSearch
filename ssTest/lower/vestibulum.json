@@ -1,0 +1,28 @@
+
+  { "stem" : "vestibulum",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "vestibulum",
+            "context" : "...Sed ipsum dolor, elementum eget nisl eget, sagittis <mark>vestibulum<\/mark> augue. Donec tincidunt mauris et nunc sagittis,...",
+            "weight" : 1,
+            "pos" : 143 },
+          
+          { "form" : "vestibulum",
+            "context" : "...Sed ipsum dolor, elementum eget nisl eget, sagittis <mark>vestibulum<\/mark> augue. Donec tincidunt mauris et nunc sagittis,...",
+            "weight" : 1,
+            "pos" : 368 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vestibulum",
+            "context" : "...Sed ipsum dolor, elementum eget nisl eget, sagittis <mark>vestibulum<\/mark> augue. Donec tincidunt mauris et nunc sagittis,...",
+            "weight" : 1,
+            "pos" : 147 } ] } ] }

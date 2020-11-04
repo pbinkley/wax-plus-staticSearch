@@ -1,0 +1,13 @@
+
+  { "stem" : "hyper",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hyper",
+            "context" : "...workflow based on minimal computing principles. Wax is <mark>hyper<\/mark>-aware of differences in resources, control and access...",
+            "weight" : 1,
+            "pos" : 57 } ] } ] }

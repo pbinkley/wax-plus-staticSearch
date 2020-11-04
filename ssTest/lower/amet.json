@@ -1,0 +1,83 @@
+
+  { "stem" : "amet",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "amet",
+            "context" : "...vitae magna eget nisi suscipit finibus id sit <mark>amet<\/mark> nulla.",
+            "weight" : 1,
+            "pos" : 71 },
+          
+          { "form" : "amet",
+            "context" : "...finibus. Aliquam erat volutpat. Pellentesque vel velit sit <mark>amet<\/mark> mauris dignissim feugiat.",
+            "weight" : 1,
+            "pos" : 120 },
+          
+          { "form" : "amet",
+            "context" : "...commodo ligula libero, a pharetra ligula posuere sit <mark>amet<\/mark>. Sed ipsum dolor, elementum eget nisl eget,...",
+            "weight" : 1,
+            "pos" : 134 },
+          
+          { "form" : "amet",
+            "context" : "...ante libero non metus. Aenean et est sit <mark>amet<\/mark> est pulvinar convallis vel non tortor. Nunc...",
+            "weight" : 1,
+            "pos" : 187 },
+          
+          { "form" : "amet",
+            "context" : "...efficitur laoreet convallis. Sed sem felis, porttitor sit <mark>amet<\/mark> volutpat ac, consequat quis lectus. Donec elementum...",
+            "weight" : 1,
+            "pos" : 282 },
+          
+          { "form" : "amet",
+            "context" : "...diam vitae faucibus feugiat. Lorem ipsum dolor sit <mark>amet<\/mark>, consectetur adipiscing elit. Mauris pharetra elit sem,...",
+            "weight" : 1,
+            "pos" : 308 },
+          
+          { "form" : "amet",
+            "context" : "...commodo ligula libero, a pharetra ligula posuere sit <mark>amet<\/mark>. Sed ipsum dolor, elementum eget nisl eget,...",
+            "weight" : 1,
+            "pos" : 359 },
+          
+          { "form" : "amet",
+            "context" : "...ante libero non metus. Aenean et est sit <mark>amet<\/mark> est pulvinar convallis vel non tortor. Nunc...",
+            "weight" : 1,
+            "pos" : 412 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "amet",
+            "context" : "...vitae magna eget nisi suscipit finibus id sit <mark>amet<\/mark> nulla.1",
+            "weight" : 1,
+            "pos" : 71 },
+          
+          { "form" : "amet",
+            "context" : "...finibus. Aliquam erat volutpat. Pellentesque vel velit sit <mark>amet<\/mark> mauris dignissim feugiat.",
+            "weight" : 1,
+            "pos" : 120 },
+          
+          { "form" : "amet",
+            "context" : "...commodo ligula libero, a pharetra ligula posuere sit <mark>amet<\/mark>. Sed ipsum dolor, elementum eget nisl eget,...",
+            "weight" : 1,
+            "pos" : 138 },
+          
+          { "form" : "amet",
+            "context" : "...ante libero non metus. Aenean et est sit <mark>amet<\/mark> est pulvinar convallis vel non tortor. Nunc...",
+            "weight" : 1,
+            "pos" : 191 },
+          
+          { "form" : "amet",
+            "context" : "...efficitur laoreet convallis. Sed sem felis, porttitor sit <mark>amet<\/mark> volutpat ac, consequat quis lectus. Donec elementum...",
+            "weight" : 1,
+            "pos" : 286 },
+          
+          { "form" : "amet",
+            "context" : "...diam vitae faucibus feugiat. Lorem ipsum dolor sit <mark>amet<\/mark>, consectetur adipiscing elit. Mauris pharetra elit sem,...",
+            "weight" : 1,
+            "pos" : 312 } ] } ] }

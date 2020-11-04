@@ -1,0 +1,23 @@
+
+  { "stem" : "2018",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2018",
+            "context" : "Published on Thursday, November 15, <mark>2018<\/mark>",
+            "weight" : 1,
+            "pos" : 24 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "2018",
+            "context" : "Published on Thursday, November 15, <mark>2018<\/mark>",
+            "weight" : 1,
+            "pos" : 24 } ] } ] }

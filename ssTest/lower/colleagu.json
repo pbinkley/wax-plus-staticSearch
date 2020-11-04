@@ -1,0 +1,13 @@
+
+  { "stem" : "colleagu",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "colleagues",
+            "context" : "...team. In the most common scenario, students, faculty, <mark>colleagues<\/mark> or any other collaborators just have to...",
+            "weight" : 1,
+            "pos" : 307 } ] } ] }

@@ -1,0 +1,43 @@
+
+  { "stem" : "bibendum",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "bibendum",
+            "context" : "Ut eleifend lacus at erat efficitur <mark>bibendum<\/mark>. Ut laoreet elit nec dolor molestie finibus....",
+            "weight" : 1,
+            "pos" : 29 },
+          
+          { "form" : "bibendum",
+            "context" : "...purus. Nam nisl erat, tristique ac libero vitae, <mark>bibendum<\/mark> pellentesque nulla. Praesent accumsan ut mauris ut...",
+            "weight" : 1,
+            "pos" : 51 },
+          
+          { "form" : "bibendum",
+            "context" : "...lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex <mark>bibendum<\/mark>, ornare sapien a, mollis neque. Duis faucibus...",
+            "weight" : 1,
+            "pos" : 297 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "bibendum",
+            "context" : "Ut eleifend lacus at erat efficitur <mark>bibendum<\/mark>. Ut laoreet elit nec dolor molestie finibus....",
+            "weight" : 1,
+            "pos" : 29 },
+          
+          { "form" : "bibendum",
+            "context" : "...purus. Nam nisl erat, tristique ac libero vitae, <mark>bibendum<\/mark> pellentesque nulla. Praesent accumsan ut mauris ut...",
+            "weight" : 1,
+            "pos" : 51 },
+          
+          { "form" : "bibendum",
+            "context" : "...lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex <mark>bibendum<\/mark>, ornare sapien a, mollis neque. Duis faucibus...",
+            "weight" : 1,
+            "pos" : 293 } ] } ] }

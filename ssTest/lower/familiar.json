@@ -1,0 +1,13 @@
+
+  { "stem" : "familiar",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "familiarity",
+            "context" : "...most out of Wax, you should have some <mark>familiarity<\/mark> with:",
+            "weight" : 1,
+            "pos" : 216 } ] } ] }

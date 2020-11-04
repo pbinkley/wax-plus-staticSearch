@@ -1,0 +1,48 @@
+
+  { "stem" : "efficitur",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "efficitur",
+            "context" : "Ut eleifend lacus at erat <mark>efficitur<\/mark> bibendum. Ut laoreet elit nec dolor molestie...",
+            "weight" : 1,
+            "pos" : 28 },
+          
+          { "form" : "efficitur",
+            "context" : "...Nulla mi urna, feugiat sed massa non, ullamcorper <mark>efficitur<\/mark> dolor. Sed luctus, massa eget pharetra posuere,...",
+            "weight" : 1,
+            "pos" : 166 },
+          
+          { "form" : "efficitur",
+            "context" : "...Duis finibus leo non velit viverra tincidunt. Fusce <mark>efficitur<\/mark> laoreet convallis. Sed sem felis, porttitor sit...",
+            "weight" : 1,
+            "pos" : 274 },
+          
+          { "form" : "efficitur",
+            "context" : "...Nulla mi urna, feugiat sed massa non, ullamcorper <mark>efficitur<\/mark> dolor. Sed luctus, massa eget pharetra posuere,...",
+            "weight" : 1,
+            "pos" : 391 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "efficitur",
+            "context" : "Ut eleifend lacus at erat <mark>efficitur<\/mark> bibendum. Ut laoreet elit nec dolor molestie...",
+            "weight" : 1,
+            "pos" : 28 },
+          
+          { "form" : "efficitur",
+            "context" : "...Nulla mi urna, feugiat sed massa non, ullamcorper <mark>efficitur<\/mark> dolor.2 Sed luctus, massa eget pharetra posuere,...",
+            "weight" : 1,
+            "pos" : 170 },
+          
+          { "form" : "efficitur",
+            "context" : "...Duis finibus leo non velit viverra tincidunt. Fusce <mark>efficitur<\/mark> laoreet convallis. Sed sem felis, porttitor sit...",
+            "weight" : 1,
+            "pos" : 278 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "pedagogi",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pedagogy",
+            "context" : "...learning the skills above! For examples of digital <mark>pedagogy<\/mark> via the creation of Wax exhibitions, check...",
+            "weight" : 1,
+            "pos" : 268 } ] } ] }

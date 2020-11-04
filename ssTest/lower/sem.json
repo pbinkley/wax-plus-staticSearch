@@ -1,0 +1,93 @@
+
+  { "stem" : "sem",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "sem",
+            "context" : "...nulla ex, facilisis non aliquet ac, ultrices eu <mark>sem<\/mark>. Sed vel aliquet urna. Mauris quis ex...",
+            "weight" : 1,
+            "pos" : 93 },
+          
+          { "form" : "sem",
+            "context" : "...dolor.2 Sed luctus, massa eget pharetra posuere, nibh <mark>sem<\/mark> eleifend lectus, lobortis molestie ante libero non...",
+            "weight" : 1,
+            "pos" : 179 },
+          
+          { "form" : "sem",
+            "context" : "...elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan <mark>sem<\/mark> quis tristique iaculis. Quisque sed lorem tortor....",
+            "weight" : 1,
+            "pos" : 237 },
+          
+          { "form" : "sem",
+            "context" : "...tristique iaculis. Quisque sed lorem tortor. Quisque viverra <mark>sem<\/mark> a orci aliquet sodales. Aliquam commodo eros...",
+            "weight" : 1,
+            "pos" : 247 },
+          
+          { "form" : "sem",
+            "context" : "...velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed <mark>sem<\/mark> felis, porttitor sit amet volutpat ac, consequat...",
+            "weight" : 1,
+            "pos" : 282 },
+          
+          { "form" : "sem",
+            "context" : "...sit amet, consectetur adipiscing elit. Mauris pharetra elit <mark>sem<\/mark>, et euismod massa mattis ut. Phasellus maximus...",
+            "weight" : 1,
+            "pos" : 319 },
+          
+          { "form" : "sem",
+            "context" : "...et, iaculis sodales metus. Suspendisse finibus purus ut <mark>sem<\/mark> commodo feugiat.",
+            "weight" : 1,
+            "pos" : 349 },
+          
+          { "form" : "sem",
+            "context" : "...elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan <mark>sem<\/mark> quis tristique iaculis. Quisque sed lorem tortor. ↩︎...",
+            "weight" : 1,
+            "pos" : 363 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "sem",
+            "context" : "...nulla ex, facilisis non aliquet ac, ultrices eu <mark>sem<\/mark>. Sed vel aliquet urna. Mauris quis ex...",
+            "weight" : 1,
+            "pos" : 93 },
+          
+          { "form" : "sem",
+            "context" : "...dolor. Sed luctus, massa eget pharetra posuere, nibh <mark>sem<\/mark> eleifend lectus, lobortis molestie ante libero non...",
+            "weight" : 1,
+            "pos" : 175 },
+          
+          { "form" : "sem",
+            "context" : "...elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan <mark>sem<\/mark> quis tristique iaculis. Quisque sed lorem tortor....",
+            "weight" : 1,
+            "pos" : 233 },
+          
+          { "form" : "sem",
+            "context" : "...tristique iaculis. Quisque sed lorem tortor. Quisque viverra <mark>sem<\/mark> a orci aliquet sodales. Aliquam commodo eros...",
+            "weight" : 1,
+            "pos" : 243 },
+          
+          { "form" : "sem",
+            "context" : "...velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed <mark>sem<\/mark> felis, porttitor sit amet volutpat ac, consequat...",
+            "weight" : 1,
+            "pos" : 278 },
+          
+          { "form" : "sem",
+            "context" : "...sit amet, consectetur adipiscing elit. Mauris pharetra elit <mark>sem<\/mark>, et euismod massa mattis ut. Phasellus maximus...",
+            "weight" : 1,
+            "pos" : 315 },
+          
+          { "form" : "sem",
+            "context" : "...et, iaculis sodales metus. Suspendisse finibus purus ut <mark>sem<\/mark> commodo feugiat.",
+            "weight" : 1,
+            "pos" : 345 },
+          
+          { "form" : "sem",
+            "context" : "...dolor. Sed luctus, massa eget pharetra posuere, nibh <mark>sem<\/mark> eleifend lectus, lobortis molestie ante libero non...",
+            "weight" : 1,
+            "pos" : 400 } ] } ] }

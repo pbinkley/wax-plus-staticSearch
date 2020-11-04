@@ -1,0 +1,118 @@
+
+  { "stem" : "eget",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "eget",
+            "context" : "...ut mauris ut euismod. Etiam mattis a justo <mark>eget<\/mark> blandit. Aliquam vitae magna eget nisi suscipit...",
+            "weight" : 1,
+            "pos" : 61 },
+          
+          { "form" : "eget",
+            "context" : "...mattis a justo eget blandit. Aliquam vitae magna <mark>eget<\/mark> nisi suscipit finibus id sit amet nulla....",
+            "weight" : 1,
+            "pos" : 66 },
+          
+          { "form" : "eget",
+            "context" : "...ligula posuere sit amet. Sed ipsum dolor, elementum <mark>eget<\/mark> nisl eget, sagittis vestibulum augue. Donec tincidunt...",
+            "weight" : 1,
+            "pos" : 139 },
+          
+          { "form" : "eget",
+            "context" : "...sit amet. Sed ipsum dolor, elementum eget nisl <mark>eget<\/mark>, sagittis vestibulum augue. Donec tincidunt mauris et...",
+            "weight" : 1,
+            "pos" : 141 },
+          
+          { "form" : "eget",
+            "context" : "...massa non, ullamcorper efficitur dolor. Sed luctus, massa <mark>eget<\/mark> pharetra posuere, nibh sem eleifend lectus, lobortis...",
+            "weight" : 1,
+            "pos" : 171 },
+          
+          { "form" : "eget",
+            "context" : "...vel non tortor. Nunc semper commodo fringilla. Proin <mark>eget<\/mark> metus eget felis faucibus aliquet. Cras ultrices...",
+            "weight" : 1,
+            "pos" : 199 },
+          
+          { "form" : "eget",
+            "context" : "...tortor. Nunc semper commodo fringilla. Proin eget metus <mark>eget<\/mark> felis faucibus aliquet. Cras ultrices turpis id...",
+            "weight" : 1,
+            "pos" : 201 },
+          
+          { "form" : "eget",
+            "context" : "...ligula posuere sit amet. Sed ipsum dolor, elementum <mark>eget<\/mark> nisl eget, sagittis vestibulum augue. Donec tincidunt...",
+            "weight" : 1,
+            "pos" : 364 },
+          
+          { "form" : "eget",
+            "context" : "...sit amet. Sed ipsum dolor, elementum eget nisl <mark>eget<\/mark>, sagittis vestibulum augue. Donec tincidunt mauris et...",
+            "weight" : 1,
+            "pos" : 366 },
+          
+          { "form" : "eget",
+            "context" : "...massa non, ullamcorper efficitur dolor. Sed luctus, massa <mark>eget<\/mark> pharetra posuere, nibh sem eleifend lectus, lobortis...",
+            "weight" : 1,
+            "pos" : 396 },
+          
+          { "form" : "eget",
+            "context" : "...vel non tortor. Nunc semper commodo fringilla. Proin <mark>eget<\/mark> metus eget felis faucibus aliquet. Cras ultrices...",
+            "weight" : 1,
+            "pos" : 424 },
+          
+          { "form" : "eget",
+            "context" : "...tortor. Nunc semper commodo fringilla. Proin eget metus <mark>eget<\/mark> felis faucibus aliquet. Cras ultrices turpis id...",
+            "weight" : 1,
+            "pos" : 426 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "eget",
+            "context" : "...ut mauris ut euismod. Etiam mattis a justo <mark>eget<\/mark> blandit. Aliquam vitae magna eget nisi suscipit...",
+            "weight" : 1,
+            "pos" : 61 },
+          
+          { "form" : "eget",
+            "context" : "...mattis a justo eget blandit. Aliquam vitae magna <mark>eget<\/mark> nisi suscipit finibus id sit amet nulla.1...",
+            "weight" : 1,
+            "pos" : 66 },
+          
+          { "form" : "eget",
+            "context" : "...ligula posuere sit amet. Sed ipsum dolor, elementum <mark>eget<\/mark> nisl eget, sagittis vestibulum augue. Donec tincidunt...",
+            "weight" : 1,
+            "pos" : 143 },
+          
+          { "form" : "eget",
+            "context" : "...sit amet. Sed ipsum dolor, elementum eget nisl <mark>eget<\/mark>, sagittis vestibulum augue. Donec tincidunt mauris et...",
+            "weight" : 1,
+            "pos" : 145 },
+          
+          { "form" : "eget",
+            "context" : "...massa non, ullamcorper efficitur dolor.2 Sed luctus, massa <mark>eget<\/mark> pharetra posuere, nibh sem eleifend lectus, lobortis...",
+            "weight" : 1,
+            "pos" : 175 },
+          
+          { "form" : "eget",
+            "context" : "...vel non tortor. Nunc semper commodo fringilla. Proin <mark>eget<\/mark> metus eget felis faucibus aliquet. Cras ultrices...",
+            "weight" : 1,
+            "pos" : 203 },
+          
+          { "form" : "eget",
+            "context" : "...tortor. Nunc semper commodo fringilla. Proin eget metus <mark>eget<\/mark> felis faucibus aliquet. Cras ultrices turpis id...",
+            "weight" : 1,
+            "pos" : 205 },
+          
+          { "form" : "eget",
+            "context" : "Nunc semper commodo fringilla. Proin <mark>eget<\/mark> metus eget felis faucibus aliquet. Cras ultrices...",
+            "weight" : 1,
+            "pos" : 376 },
+          
+          { "form" : "eget",
+            "context" : "...Nunc semper commodo fringilla. Proin eget metus <mark>eget<\/mark> felis faucibus aliquet. Cras ultrices turpis id...",
+            "weight" : 1,
+            "pos" : 378 } ] } ] }

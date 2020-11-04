@@ -1,0 +1,13 @@
+
+  { "stem" : "server",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "server",
+            "context" : "...communicate in a complex way back to a <mark>server<\/mark>. This makes them cheaper, safer, and generally...",
+            "weight" : 1,
+            "pos" : 102 } ] } ] }

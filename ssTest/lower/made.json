@@ -1,0 +1,13 @@
+
+  { "stem" : "made",
+    "instances" : 
+    [ 
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "made",
+            "context" : "...low costs, and flexibility. Our underlying technology is <mark>made<\/mark> to learn and to teach, and can...",
+            "weight" : 1,
+            "pos" : 36 } ] } ] }

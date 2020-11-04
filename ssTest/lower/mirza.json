@@ -1,0 +1,43 @@
+
+  { "stem" : "mirza",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Mirza",
+            "context" : "Portrait of Hasan ʾAli <mark>Mirza<\/mark> Shuja al-Saltana",
+            "weight" : 2,
+            "pos" : 18 },
+          
+          { "form" : "Mirza",
+            "context" : "Label Portrait of Hasan ʾAli <mark>Mirza<\/mark> Shuja al-Saltana Artist Unknown Type portrait Location...",
+            "weight" : 1,
+            "pos" : 26 } ] },
+      
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Mirza",
+            "context" : "Portrait of Sheikh Ali <mark>Mirza<\/mark>",
+            "weight" : 2,
+            "pos" : 18 },
+          
+          { "form" : "Mirza",
+            "context" : "Label Portrait of Sheikh Ali <mark>Mirza<\/mark> Artist Unknown Type portrait Location Iran Current...",
+            "weight" : 1,
+            "pos" : 23 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mirza",
+            "context" : "Above: Portrait of Hasan ʾAli <mark>Mirza<\/mark> Shuja al-Saltana",
+            "weight" : 1,
+            "pos" : 18 } ] } ] }

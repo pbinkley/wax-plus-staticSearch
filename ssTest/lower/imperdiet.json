@@ -1,0 +1,33 @@
+
+  { "stem" : "imperdiet",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "imperdiet",
+            "context" : "...magna turpis. Suspendisse egestas tellus iaculis ante pharetra <mark>imperdiet<\/mark> ac at odio.",
+            "weight" : 1,
+            "pos" : 225 },
+          
+          { "form" : "imperdiet",
+            "context" : "...magna turpis. Suspendisse egestas tellus iaculis ante pharetra <mark>imperdiet<\/mark> ac at odio. ↩︎",
+            "weight" : 1,
+            "pos" : 398 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "imperdiet",
+            "context" : "...magna turpis. Suspendisse egestas tellus iaculis ante pharetra <mark>imperdiet<\/mark> ac at odio.",
+            "weight" : 1,
+            "pos" : 221 },
+          
+          { "form" : "imperdiet",
+            "context" : "...magna turpis. Suspendisse egestas tellus iaculis ante pharetra <mark>imperdiet<\/mark> ac at odio.",
+            "weight" : 1,
+            "pos" : 446 } ] } ] }

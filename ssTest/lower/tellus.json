@@ -1,0 +1,43 @@
+
+  { "stem" : "tellus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tellus",
+            "context" : "...elementum id id massa. Integer luctus nulla vel <mark>tellus<\/mark> rutrum, ac pulvinar erat finibus. Aliquam erat...",
+            "weight" : 1,
+            "pos" : 108 },
+          
+          { "form" : "tellus",
+            "context" : "...cursus fringilla. Aenean nec magna turpis. Suspendisse egestas <mark>tellus<\/mark> iaculis ante pharetra imperdiet ac at odio....",
+            "weight" : 1,
+            "pos" : 221 },
+          
+          { "form" : "tellus",
+            "context" : "...cursus fringilla. Aenean nec magna turpis. Suspendisse egestas <mark>tellus<\/mark> iaculis ante pharetra imperdiet ac at odio. ↩︎...",
+            "weight" : 1,
+            "pos" : 394 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tellus",
+            "context" : "...elementum id id massa. Integer luctus nulla vel <mark>tellus<\/mark> rutrum, ac pulvinar erat finibus. Aliquam erat...",
+            "weight" : 1,
+            "pos" : 108 },
+          
+          { "form" : "tellus",
+            "context" : "...cursus fringilla. Aenean nec magna turpis. Suspendisse egestas <mark>tellus<\/mark> iaculis ante pharetra imperdiet ac at odio....",
+            "weight" : 1,
+            "pos" : 217 },
+          
+          { "form" : "tellus",
+            "context" : "...cursus fringilla. Aenean nec magna turpis. Suspendisse egestas <mark>tellus<\/mark> iaculis ante pharetra imperdiet ac at odio....",
+            "weight" : 1,
+            "pos" : 442 } ] } ] }

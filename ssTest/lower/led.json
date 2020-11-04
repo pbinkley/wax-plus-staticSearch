@@ -1,0 +1,13 @@
+
+  { "stem" : "led",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "led",
+            "context" : "...Wax is a minimal computing (minicomp) project <mark>led<\/mark> by Marii Nyröp. The project is currently...",
+            "weight" : 1,
+            "pos" : 21 } ] } ] }

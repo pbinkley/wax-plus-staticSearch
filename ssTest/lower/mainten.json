@@ -1,0 +1,13 @@
+
+  { "stem" : "mainten",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maintenance",
+            "context" : "...substantially reduces the time to production and post-production <mark>maintenance<\/mark> costs for you and your team. In...",
+            "weight" : 1,
+            "pos" : 300 } ] } ] }

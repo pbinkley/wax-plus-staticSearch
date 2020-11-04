@@ -1,0 +1,13 @@
+
+  { "stem" : "standard",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "standardized",
+            "context" : "...collection data. The Wax workflow starts with making <mark>standardized<\/mark> image files and metadata records and builds...",
+            "weight" : 1,
+            "pos" : 156 } ] } ] }

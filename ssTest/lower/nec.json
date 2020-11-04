@@ -1,0 +1,68 @@
+
+  { "stem" : "nec",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "nec",
+            "context" : "...lacus at erat efficitur bibendum. Ut laoreet elit <mark>nec<\/mark> dolor molestie finibus. Vivamus justo risus, scelerisque...",
+            "weight" : 1,
+            "pos" : 32 },
+          
+          { "form" : "nec",
+            "context" : "...nec dolor molestie finibus. Vivamus justo risus, scelerisque <mark>nec<\/mark> dolor ut, pretium fringilla purus. Nam nisl...",
+            "weight" : 1,
+            "pos" : 40 },
+          
+          { "form" : "nec",
+            "context" : "...vestibulum augue. Donec tincidunt mauris et nunc sagittis, <mark>nec<\/mark> consectetur lorem tristique. Nulla tincidunt magna ut...",
+            "weight" : 1,
+            "pos" : 150 },
+          
+          { "form" : "nec",
+            "context" : "...Cras ultrices turpis id nibh cursus fringilla. Aenean <mark>nec<\/mark> magna turpis. Suspendisse egestas tellus iaculis ante...",
+            "weight" : 1,
+            "pos" : 212 },
+          
+          { "form" : "nec",
+            "context" : "...vestibulum augue. Donec tincidunt mauris et nunc sagittis, <mark>nec<\/mark> consectetur lorem tristique. Nulla tincidunt magna ut...",
+            "weight" : 1,
+            "pos" : 375 },
+          
+          { "form" : "nec",
+            "context" : "...Cras ultrices turpis id nibh cursus fringilla. Aenean <mark>nec<\/mark> magna turpis. Suspendisse egestas tellus iaculis ante...",
+            "weight" : 1,
+            "pos" : 437 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "nec",
+            "context" : "...lacus at erat efficitur bibendum. Ut laoreet elit <mark>nec<\/mark> dolor molestie finibus. Vivamus justo risus, scelerisque...",
+            "weight" : 1,
+            "pos" : 32 },
+          
+          { "form" : "nec",
+            "context" : "...nec dolor molestie finibus. Vivamus justo risus, scelerisque <mark>nec<\/mark> dolor ut, pretium fringilla purus. Nam nisl...",
+            "weight" : 1,
+            "pos" : 40 },
+          
+          { "form" : "nec",
+            "context" : "...vestibulum augue. Donec tincidunt mauris et nunc sagittis, <mark>nec<\/mark> consectetur lorem tristique. Nulla tincidunt magna ut...",
+            "weight" : 1,
+            "pos" : 154 },
+          
+          { "form" : "nec",
+            "context" : "...Cras ultrices turpis id nibh cursus fringilla. Aenean <mark>nec<\/mark> magna turpis. Suspendisse egestas tellus iaculis ante...",
+            "weight" : 1,
+            "pos" : 216 },
+          
+          { "form" : "nec",
+            "context" : "...Cras ultrices turpis id nibh cursus fringilla. Aenean <mark>nec<\/mark> magna turpis. Suspendisse egestas tellus iaculis ante...",
+            "weight" : 1,
+            "pos" : 389 } ] } ] }

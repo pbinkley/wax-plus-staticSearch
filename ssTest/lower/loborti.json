@@ -1,0 +1,28 @@
+
+  { "stem" : "loborti",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lobortis",
+            "context" : "...massa eget pharetra posuere, nibh sem eleifend lectus, <mark>lobortis<\/mark> molestie ante libero non metus. Aenean et...",
+            "weight" : 1,
+            "pos" : 178 },
+          
+          { "form" : "lobortis",
+            "context" : "...massa eget pharetra posuere, nibh sem eleifend lectus, <mark>lobortis<\/mark> molestie ante libero non metus. Aenean et...",
+            "weight" : 1,
+            "pos" : 403 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lobortis",
+            "context" : "...massa eget pharetra posuere, nibh sem eleifend lectus, <mark>lobortis<\/mark> molestie ante libero non metus. Aenean et...",
+            "weight" : 1,
+            "pos" : 182 } ] } ] }

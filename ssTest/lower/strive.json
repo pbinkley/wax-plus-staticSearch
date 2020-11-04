@@ -1,0 +1,13 @@
+
+  { "stem" : "strive",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strives",
+            "context" : "...inspired by FAIR data principles, and as such <mark>strives<\/mark> to make its collections findable, accessible, interoperable...",
+            "weight" : 1,
+            "pos" : 22 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "along",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "context" : "...a few great open source libraries and frameworks <mark>along<\/mark> the way.",
+            "weight" : 1,
+            "pos" : 143 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "load",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "load",
+            "context" : "...It runs a number of automated tests on <mark>load<\/mark>. Note that the Document type options should...",
+            "weight" : 1,
+            "pos" : 13 } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "ʾali",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj9_index",
+        "docUri" : "qatar\/obj9\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ʾAli",
+            "context" : "Portrait of Fath <mark>ʾAli<\/mark> Shah",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "ʾAli",
+            "context" : "Label Portrait of Fath <mark>ʾAli<\/mark> Shah Artist Mihr ʾAli Type portrait Location...",
+            "weight" : 1,
+            "pos" : 22 },
+          
+          { "form" : "ʾAli",
+            "context" : "...Label Portrait of Fath ʾAli Shah Artist Mihr <mark>ʾAli<\/mark> Type portrait Location Iran Current Location The...",
+            "weight" : 1,
+            "pos" : 26 } ] },
+      
+      { "docId" : "qatar_obj10_index",
+        "docUri" : "qatar\/obj10\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ʾAli",
+            "context" : "Portrait of Hasan <mark>ʾAli<\/mark> Mirza Shuja al-Saltana",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "ʾAli",
+            "context" : "Label Portrait of Hasan <mark>ʾAli<\/mark> Mirza Shuja al-Saltana Artist Unknown Type portrait...",
+            "weight" : 1,
+            "pos" : 25 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ʾAli",
+            "context" : "Above: Portrait of Hasan <mark>ʾAli<\/mark> Mirza Shuja al-Saltana",
+            "weight" : 1,
+            "pos" : 17 } ] } ] }

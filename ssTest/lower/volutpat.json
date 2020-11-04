@@ -1,0 +1,33 @@
+
+  { "stem" : "volutpat",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "volutpat",
+            "context" : "...tellus rutrum, ac pulvinar erat finibus. Aliquam erat <mark>volutpat<\/mark>. Pellentesque vel velit sit amet mauris dignissim...",
+            "weight" : 1,
+            "pos" : 115 },
+          
+          { "form" : "volutpat",
+            "context" : "...laoreet convallis. Sed sem felis, porttitor sit amet <mark>volutpat<\/mark> ac, consequat quis lectus. Donec elementum dignissim...",
+            "weight" : 1,
+            "pos" : 287 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "volutpat",
+            "context" : "...tellus rutrum, ac pulvinar erat finibus. Aliquam erat <mark>volutpat<\/mark>. Pellentesque vel velit sit amet mauris dignissim...",
+            "weight" : 1,
+            "pos" : 115 },
+          
+          { "form" : "volutpat",
+            "context" : "...laoreet convallis. Sed sem felis, porttitor sit amet <mark>volutpat<\/mark> ac, consequat quis lectus. Donec elementum dignissim...",
+            "weight" : 1,
+            "pos" : 283 } ] } ] }

@@ -1,0 +1,33 @@
+
+  { "stem" : "laoreet",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "laoreet",
+            "context" : "...Ut eleifend lacus at erat efficitur bibendum. Ut <mark>laoreet<\/mark> elit nec dolor molestie finibus. Vivamus justo...",
+            "weight" : 1,
+            "pos" : 30 },
+          
+          { "form" : "laoreet",
+            "context" : "...finibus leo non velit viverra tincidunt. Fusce efficitur <mark>laoreet<\/mark> convallis. Sed sem felis, porttitor sit amet...",
+            "weight" : 1,
+            "pos" : 279 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "laoreet",
+            "context" : "...Ut eleifend lacus at erat efficitur bibendum. Ut <mark>laoreet<\/mark> elit nec dolor molestie finibus. Vivamus justo...",
+            "weight" : 1,
+            "pos" : 30 },
+          
+          { "form" : "laoreet",
+            "context" : "...finibus leo non velit viverra tincidunt. Fusce efficitur <mark>laoreet<\/mark> convallis. Sed sem felis, porttitor sit amet...",
+            "weight" : 1,
+            "pos" : 275 } ] } ] }

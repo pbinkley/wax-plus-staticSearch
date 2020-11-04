@@ -1,0 +1,18 @@
+
+  { "stem" : "resourc",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "resources",
+            "context" : "...computing principles. Wax is hyper-aware of differences in <mark>resources<\/mark>, control and access around the world and...",
+            "weight" : 1,
+            "pos" : 60 },
+          
+          { "form" : "resources",
+            "context" : "...or don't want to use a lot of <mark>resources<\/mark> to create their scholarly or cultural exhibits....",
+            "weight" : 1,
+            "pos" : 190 } ] } ] }

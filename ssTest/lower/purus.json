@@ -1,0 +1,33 @@
+
+  { "stem" : "purus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "purus",
+            "context" : "...justo risus, scelerisque nec dolor ut, pretium fringilla <mark>purus<\/mark>. Nam nisl erat, tristique ac libero vitae,...",
+            "weight" : 1,
+            "pos" : 44 },
+          
+          { "form" : "purus",
+            "context" : "...a fringilla et, iaculis sodales metus. Suspendisse finibus <mark>purus<\/mark> ut sem commodo feugiat.",
+            "weight" : 1,
+            "pos" : 348 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "purus",
+            "context" : "...justo risus, scelerisque nec dolor ut, pretium fringilla <mark>purus<\/mark>. Nam nisl erat, tristique ac libero vitae,...",
+            "weight" : 1,
+            "pos" : 44 },
+          
+          { "form" : "purus",
+            "context" : "...a fringilla et, iaculis sodales metus. Suspendisse finibus <mark>purus<\/mark> ut sem commodo feugiat.",
+            "weight" : 1,
+            "pos" : 344 } ] } ] }

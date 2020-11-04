@@ -1,0 +1,13 @@
+
+  { "stem" : "zoom",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "zoomed",
+            "context" : "...Below is a diagram to give you a <mark>zoomed<\/mark>-out view. In summary, you create a file...",
+            "weight" : 1,
+            "pos" : 323 } ] } ] }

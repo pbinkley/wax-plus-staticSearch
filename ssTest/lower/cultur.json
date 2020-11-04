@@ -1,0 +1,18 @@
+
+  { "stem" : "cultur",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cultural",
+            "context" : "...A digital exhibit is a collection of curated <mark>cultural<\/mark> artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by...",
+            "weight" : 1,
+            "pos" : 25 },
+          
+          { "form" : "cultural",
+            "context" : "...lot of resources to create their scholarly or <mark>cultural<\/mark> exhibits. It's best suited for folks who...",
+            "weight" : 1,
+            "pos" : 193 } ] } ] }

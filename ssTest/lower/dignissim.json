@@ -1,0 +1,43 @@
+
+  { "stem" : "dignissim",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "dignissim",
+            "context" : "...erat volutpat. Pellentesque vel velit sit amet mauris <mark>dignissim<\/mark> feugiat.",
+            "weight" : 1,
+            "pos" : 122 },
+          
+          { "form" : "dignissim",
+            "context" : "...in massa turpis. Aliquam aliquam consectetur magna non <mark>dignissim<\/mark>. Sed fringilla a ligula vitae molestie.",
+            "weight" : 1,
+            "pos" : 264 },
+          
+          { "form" : "dignissim",
+            "context" : "...amet volutpat ac, consequat quis lectus. Donec elementum <mark>dignissim<\/mark> vehicula. Pellentesque fringilla ex bibendum, ornare sapien...",
+            "weight" : 1,
+            "pos" : 293 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "dignissim",
+            "context" : "...erat volutpat. Pellentesque vel velit sit amet mauris <mark>dignissim<\/mark> feugiat.",
+            "weight" : 1,
+            "pos" : 122 },
+          
+          { "form" : "dignissim",
+            "context" : "...in massa turpis. Aliquam aliquam consectetur magna non <mark>dignissim<\/mark>. Sed fringilla a ligula vitae molestie.",
+            "weight" : 1,
+            "pos" : 260 },
+          
+          { "form" : "dignissim",
+            "context" : "...amet volutpat ac, consequat quis lectus. Donec elementum <mark>dignissim<\/mark> vehicula. Pellentesque fringilla ex bibendum, ornare sapien...",
+            "weight" : 1,
+            "pos" : 289 } ] } ] }

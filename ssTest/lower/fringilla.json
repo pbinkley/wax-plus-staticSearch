@@ -1,0 +1,93 @@
+
+  { "stem" : "fringilla",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "fringilla",
+            "context" : "...Vivamus justo risus, scelerisque nec dolor ut, pretium <mark>fringilla<\/mark> purus. Nam nisl erat, tristique ac libero...",
+            "weight" : 1,
+            "pos" : 43 },
+          
+          { "form" : "fringilla",
+            "context" : "...pulvinar convallis vel non tortor. Nunc semper commodo <mark>fringilla<\/mark>. Proin eget metus eget felis faucibus aliquet....",
+            "weight" : 1,
+            "pos" : 201 },
+          
+          { "form" : "fringilla",
+            "context" : "...faucibus aliquet. Cras ultrices turpis id nibh cursus <mark>fringilla<\/mark>. Aenean nec magna turpis. Suspendisse egestas tellus...",
+            "weight" : 1,
+            "pos" : 214 },
+          
+          { "form" : "fringilla",
+            "context" : "...turpis. Aliquam aliquam consectetur magna non dignissim. Sed <mark>fringilla<\/mark> a ligula vitae molestie.",
+            "weight" : 1,
+            "pos" : 266 },
+          
+          { "form" : "fringilla",
+            "context" : "...consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque <mark>fringilla<\/mark> ex bibendum, ornare sapien a, mollis neque....",
+            "weight" : 1,
+            "pos" : 296 },
+          
+          { "form" : "fringilla",
+            "context" : "...convallis lacus venenatis. Pellentesque lorem mauris, malesuada a <mark>fringilla<\/mark> et, iaculis sodales metus. Suspendisse finibus purus...",
+            "weight" : 1,
+            "pos" : 342 },
+          
+          { "form" : "fringilla",
+            "context" : "Nunc semper commodo <mark>fringilla<\/mark>. Proin eget metus eget felis faucibus aliquet....",
+            "weight" : 1,
+            "pos" : 374 },
+          
+          { "form" : "fringilla",
+            "context" : "...faucibus aliquet. Cras ultrices turpis id nibh cursus <mark>fringilla<\/mark>. Aenean nec magna turpis. Suspendisse egestas tellus...",
+            "weight" : 1,
+            "pos" : 387 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "fringilla",
+            "context" : "...Vivamus justo risus, scelerisque nec dolor ut, pretium <mark>fringilla<\/mark> purus. Nam nisl erat, tristique ac libero...",
+            "weight" : 1,
+            "pos" : 43 },
+          
+          { "form" : "fringilla",
+            "context" : "...pulvinar convallis vel non tortor. Nunc semper commodo <mark>fringilla<\/mark>. Proin eget metus eget felis faucibus aliquet....",
+            "weight" : 1,
+            "pos" : 197 },
+          
+          { "form" : "fringilla",
+            "context" : "...faucibus aliquet. Cras ultrices turpis id nibh cursus <mark>fringilla<\/mark>. Aenean nec magna turpis. Suspendisse egestas tellus...",
+            "weight" : 1,
+            "pos" : 210 },
+          
+          { "form" : "fringilla",
+            "context" : "...turpis. Aliquam aliquam consectetur magna non dignissim. Sed <mark>fringilla<\/mark> a ligula vitae molestie.",
+            "weight" : 1,
+            "pos" : 262 },
+          
+          { "form" : "fringilla",
+            "context" : "...consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque <mark>fringilla<\/mark> ex bibendum, ornare sapien a, mollis neque....",
+            "weight" : 1,
+            "pos" : 292 },
+          
+          { "form" : "fringilla",
+            "context" : "...convallis lacus venenatis. Pellentesque lorem mauris, malesuada a <mark>fringilla<\/mark> et, iaculis sodales metus. Suspendisse finibus purus...",
+            "weight" : 1,
+            "pos" : 338 },
+          
+          { "form" : "fringilla",
+            "context" : "...pulvinar convallis vel non tortor. Nunc semper commodo <mark>fringilla<\/mark>. Proin eget metus eget felis faucibus aliquet....",
+            "weight" : 1,
+            "pos" : 422 },
+          
+          { "form" : "fringilla",
+            "context" : "...faucibus aliquet. Cras ultrices turpis id nibh cursus <mark>fringilla<\/mark>. Aenean nec magna turpis. Suspendisse egestas tellus...",
+            "weight" : 1,
+            "pos" : 435 } ] } ] }

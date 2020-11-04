@@ -1,0 +1,28 @@
+
+  { "stem" : "pleas",
+    "instances" : 
+    [ 
+      { "docId" : "credits_index",
+        "docUri" : "credits\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Please",
+            "context" : "...We welcome and encourage contributors and maintainers. <mark>Please<\/mark> get in touch, or fork the project...",
+            "weight" : 1,
+            "pos" : 58 },
+          
+          { "form" : "please",
+            "context" : "...If you encounter any issue with the software, <mark>please<\/mark> create an issue on our repository or...",
+            "weight" : 1,
+            "pos" : 67 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "please",
+            "context" : "...collections and scholarly exhibits. To start using Wax, <mark>please<\/mark> see our documentation for installation instructions and...",
+            "weight" : 1,
+            "pos" : 52 } ] } ] }

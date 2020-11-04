@@ -1,0 +1,18 @@
+
+  { "stem" : "control",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "control",
+            "context" : "...principles. Wax is hyper-aware of differences in resources, <mark>control<\/mark> and access around the world and close...",
+            "weight" : 1,
+            "pos" : 61 },
+          
+          { "form" : "control",
+            "context" : "Using Git and GitHub to version <mark>control<\/mark> and collaborate on projects.",
+            "weight" : 1,
+            "pos" : 233 } ] } ] }

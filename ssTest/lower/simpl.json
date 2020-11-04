@@ -1,0 +1,13 @@
+
+  { "stem" : "simpl",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "simple",
+            "context" : "This is a <mark>simple<\/mark> search page for the test collection. It...",
+            "weight" : 1,
+            "pos" : 4 } ] } ] }

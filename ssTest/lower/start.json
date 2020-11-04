@@ -1,0 +1,23 @@
+
+  { "stem" : "start",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "starts",
+            "context" : "...separate from the collection data. The Wax workflow <mark>starts<\/mark> with making standardized image files and metadata...",
+            "weight" : 1,
+            "pos" : 154 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "start",
+            "context" : "...rendered, high-quality image collections and scholarly exhibits. To <mark>start<\/mark> using Wax, please see our documentation for...",
+            "weight" : 1,
+            "pos" : 49 } ] } ] }

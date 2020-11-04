@@ -1,0 +1,38 @@
+
+  { "stem" : "ali",
+    "instances" : 
+    [ 
+      { "docId" : "qatar_obj11_index",
+        "docUri" : "qatar\/obj11\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Ali",
+            "context" : "Portrait of Sheikh <mark>Ali<\/mark> Mirza",
+            "weight" : 2,
+            "pos" : 17 },
+          
+          { "form" : "Ali",
+            "context" : "Label Portrait of Sheikh <mark>Ali<\/mark> Mirza Artist Unknown Type portrait Location Iran...",
+            "weight" : 1,
+            "pos" : 22 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Ali",
+            "context" : "Mihr '<mark>Ali<\/mark>",
+            "weight" : 2,
+            "pos" : 16 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Ali",
+            "context" : "Mihr '<mark>Ali<\/mark>",
+            "weight" : 2,
+            "pos" : 16 } ] } ] }

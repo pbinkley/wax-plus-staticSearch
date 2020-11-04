@@ -1,0 +1,58 @@
+
+  { "stem" : "metus",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "metus",
+            "context" : "...sem eleifend lectus, lobortis molestie ante libero non <mark>metus<\/mark>. Aenean et est sit amet est pulvinar...",
+            "weight" : 1,
+            "pos" : 183 },
+          
+          { "form" : "metus",
+            "context" : "...non tortor. Nunc semper commodo fringilla. Proin eget <mark>metus<\/mark> eget felis faucibus aliquet. Cras ultrices turpis...",
+            "weight" : 1,
+            "pos" : 200 },
+          
+          { "form" : "metus",
+            "context" : "...lorem mauris, malesuada a fringilla et, iaculis sodales <mark>metus<\/mark>. Suspendisse finibus purus ut sem commodo feugiat....",
+            "weight" : 1,
+            "pos" : 341 },
+          
+          { "form" : "metus",
+            "context" : "...sem eleifend lectus, lobortis molestie ante libero non <mark>metus<\/mark>. Aenean et est sit amet est pulvinar...",
+            "weight" : 1,
+            "pos" : 408 },
+          
+          { "form" : "metus",
+            "context" : "...non tortor. Nunc semper commodo fringilla. Proin eget <mark>metus<\/mark> eget felis faucibus aliquet. Cras ultrices turpis...",
+            "weight" : 1,
+            "pos" : 425 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "metus",
+            "context" : "...sem eleifend lectus, lobortis molestie ante libero non <mark>metus<\/mark>. Aenean et est sit amet est pulvinar...",
+            "weight" : 1,
+            "pos" : 187 },
+          
+          { "form" : "metus",
+            "context" : "...non tortor. Nunc semper commodo fringilla. Proin eget <mark>metus<\/mark> eget felis faucibus aliquet. Cras ultrices turpis...",
+            "weight" : 1,
+            "pos" : 204 },
+          
+          { "form" : "metus",
+            "context" : "...lorem mauris, malesuada a fringilla et, iaculis sodales <mark>metus<\/mark>. Suspendisse finibus purus ut sem commodo feugiat....",
+            "weight" : 1,
+            "pos" : 345 },
+          
+          { "form" : "metus",
+            "context" : "Nunc semper commodo fringilla. Proin eget <mark>metus<\/mark> eget felis faucibus aliquet. Cras ultrices turpis...",
+            "weight" : 1,
+            "pos" : 377 } ] } ] }

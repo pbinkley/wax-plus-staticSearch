@@ -1,0 +1,13 @@
+
+  { "stem" : "general-purpos",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "general-purpose",
+            "context" : "...For beginners, Wax has a relatively high, but <mark>general-purpose<\/mark> learning curve. To get the most out...",
+            "weight" : 1,
+            "pos" : 209 } ] } ] }

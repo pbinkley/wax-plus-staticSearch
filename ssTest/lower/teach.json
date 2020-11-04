@@ -1,0 +1,23 @@
+
+  { "stem" : "teach",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teaching",
+            "context" : "However, Wax is also great for <mark>teaching<\/mark> or learning the skills above! For examples...",
+            "weight" : 1,
+            "pos" : 263 } ] },
+      
+      { "docId" : "index",
+        "docUri" : "index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teach",
+            "context" : "...underlying technology is made to learn and to <mark>teach<\/mark>, and can produce beautifully rendered, high-quality image...",
+            "weight" : 1,
+            "pos" : 38 } ] } ] }

@@ -1,0 +1,63 @@
+
+  { "stem" : "consectetur",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "consectetur",
+            "context" : "...augue. Donec tincidunt mauris et nunc sagittis, nec <mark>consectetur<\/mark> lorem tristique. Nulla tincidunt magna ut ullamcorper...",
+            "weight" : 1,
+            "pos" : 151 },
+          
+          { "form" : "consectetur",
+            "context" : "...consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper <mark>consectetur<\/mark>. Nulla mi urna, feugiat sed massa non,...",
+            "weight" : 1,
+            "pos" : 158 },
+          
+          { "form" : "consectetur",
+            "context" : "...sagittis vehicula. Quisque in massa turpis. Aliquam aliquam <mark>consectetur<\/mark> magna non dignissim. Sed fringilla a ligula...",
+            "weight" : 1,
+            "pos" : 257 },
+          
+          { "form" : "consectetur",
+            "context" : "...vitae faucibus feugiat. Lorem ipsum dolor sit amet, <mark>consectetur<\/mark> adipiscing elit. Mauris pharetra elit sem, et...",
+            "weight" : 1,
+            "pos" : 309 },
+          
+          { "form" : "consectetur",
+            "context" : "...augue. Donec tincidunt mauris et nunc sagittis, nec <mark>consectetur<\/mark> lorem tristique. Nulla tincidunt magna ut ullamcorper...",
+            "weight" : 1,
+            "pos" : 376 },
+          
+          { "form" : "consectetur",
+            "context" : "...consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper <mark>consectetur<\/mark>. Nulla mi urna, feugiat sed massa non,...",
+            "weight" : 1,
+            "pos" : 383 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "consectetur",
+            "context" : "...augue. Donec tincidunt mauris et nunc sagittis, nec <mark>consectetur<\/mark> lorem tristique. Nulla tincidunt magna ut ullamcorper...",
+            "weight" : 1,
+            "pos" : 155 },
+          
+          { "form" : "consectetur",
+            "context" : "...consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper <mark>consectetur<\/mark>. Nulla mi urna, feugiat sed massa non,...",
+            "weight" : 1,
+            "pos" : 162 },
+          
+          { "form" : "consectetur",
+            "context" : "...sagittis vehicula. Quisque in massa turpis. Aliquam aliquam <mark>consectetur<\/mark> magna non dignissim. Sed fringilla a ligula...",
+            "weight" : 1,
+            "pos" : 261 },
+          
+          { "form" : "consectetur",
+            "context" : "...vitae faucibus feugiat. Lorem ipsum dolor sit amet, <mark>consectetur<\/mark> adipiscing elit. Mauris pharetra elit sem, et...",
+            "weight" : 1,
+            "pos" : 313 } ] } ] }

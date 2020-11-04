@@ -1,0 +1,13 @@
+
+  { "stem" : "close",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "close",
+            "context" : "...resources, control and access around the world and <mark>close<\/mark> to home. As a result, it is...",
+            "weight" : 1,
+            "pos" : 65 } ] } ] }

@@ -1,0 +1,38 @@
+
+  { "stem" : "nisl",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "nisl",
+            "context" : "...scelerisque nec dolor ut, pretium fringilla purus. Nam <mark>nisl<\/mark> erat, tristique ac libero vitae, bibendum pellentesque...",
+            "weight" : 1,
+            "pos" : 46 },
+          
+          { "form" : "nisl",
+            "context" : "...posuere sit amet. Sed ipsum dolor, elementum eget <mark>nisl<\/mark> eget, sagittis vestibulum augue. Donec tincidunt mauris...",
+            "weight" : 1,
+            "pos" : 140 },
+          
+          { "form" : "nisl",
+            "context" : "...posuere sit amet. Sed ipsum dolor, elementum eget <mark>nisl<\/mark> eget, sagittis vestibulum augue. Donec tincidunt mauris...",
+            "weight" : 1,
+            "pos" : 365 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nisl",
+            "context" : "...scelerisque nec dolor ut, pretium fringilla purus. Nam <mark>nisl<\/mark> erat, tristique ac libero vitae, bibendum pellentesque...",
+            "weight" : 1,
+            "pos" : 46 },
+          
+          { "form" : "nisl",
+            "context" : "...posuere sit amet. Sed ipsum dolor, elementum eget <mark>nisl<\/mark> eget, sagittis vestibulum augue. Donec tincidunt mauris...",
+            "weight" : 1,
+            "pos" : 144 } ] } ] }

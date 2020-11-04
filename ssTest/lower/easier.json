@@ -1,0 +1,18 @@
+
+  { "stem" : "easier",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "easier",
+            "context" : "...server. This makes them cheaper, safer, and generally <mark>easier<\/mark> to maintain.",
+            "weight" : 1,
+            "pos" : 107 },
+          
+          { "form" : "easier",
+            "context" : "...site styling differently and deliberately. This makes it <mark>easier<\/mark> for you or others to share, reuse...",
+            "weight" : 1,
+            "pos" : 173 } ] } ] }

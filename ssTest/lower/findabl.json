@@ -1,0 +1,13 @@
+
+  { "stem" : "findabl",
+    "instances" : 
+    [ 
+      { "docId" : "reuse_index",
+        "docUri" : "reuse\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "findable",
+            "context" : "...and as such strives to make its collections <mark>findable<\/mark>, accessible, interoperable and reusable.",
+            "weight" : 1,
+            "pos" : 25 } ] } ] }

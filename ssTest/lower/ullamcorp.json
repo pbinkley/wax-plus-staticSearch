@@ -1,0 +1,43 @@
+
+  { "stem" : "ullamcorp",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ullamcorper",
+            "context" : "...nec consectetur lorem tristique. Nulla tincidunt magna ut <mark>ullamcorper<\/mark> consectetur. Nulla mi urna, feugiat sed massa...",
+            "weight" : 1,
+            "pos" : 157 },
+          
+          { "form" : "ullamcorper",
+            "context" : "...consectetur. Nulla mi urna, feugiat sed massa non, <mark>ullamcorper<\/mark> efficitur dolor. Sed luctus, massa eget pharetra...",
+            "weight" : 1,
+            "pos" : 165 },
+          
+          { "form" : "ullamcorper",
+            "context" : "...nec consectetur lorem tristique. Nulla tincidunt magna ut <mark>ullamcorper<\/mark> consectetur. Nulla mi urna, feugiat sed massa...",
+            "weight" : 1,
+            "pos" : 382 },
+          
+          { "form" : "ullamcorper",
+            "context" : "...consectetur. Nulla mi urna, feugiat sed massa non, <mark>ullamcorper<\/mark> efficitur dolor. Sed luctus, massa eget pharetra...",
+            "weight" : 1,
+            "pos" : 390 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ullamcorper",
+            "context" : "...nec consectetur lorem tristique. Nulla tincidunt magna ut <mark>ullamcorper<\/mark> consectetur. Nulla mi urna, feugiat sed massa...",
+            "weight" : 1,
+            "pos" : 161 },
+          
+          { "form" : "ullamcorper",
+            "context" : "...consectetur. Nulla mi urna, feugiat sed massa non, <mark>ullamcorper<\/mark> efficitur dolor.2 Sed luctus, massa eget pharetra...",
+            "weight" : 1,
+            "pos" : 169 } ] } ] }

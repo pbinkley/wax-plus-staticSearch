@@ -1,0 +1,18 @@
+
+  { "stem" : "Html",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "HTML",
+            "context" : "...are static. This means they consist of flat <mark>HTML<\/mark>, CSS, and JavaScript files that don't need...",
+            "weight" : 1,
+            "pos" : 93 },
+          
+          { "form" : "HTML",
+            "context" : "Editing <mark>HTML<\/mark>, CSS, and some JavaScript.",
+            "weight" : 1,
+            "pos" : 256 } ] } ] }

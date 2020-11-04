@@ -1,0 +1,13 @@
+
+  { "stem" : "relat",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "relatively",
+            "context" : "For beginners, Wax has a <mark>relatively<\/mark> high, but general-purpose learning curve. To get...",
+            "weight" : 1,
+            "pos" : 207 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "good",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "good",
+            "context" : "...a few Ruby gems, some customizable UI components, <mark>good<\/mark> documentation and (hopefully soon!) recipes for creating,...",
+            "weight" : 1,
+            "pos" : 74 } ] } ] }

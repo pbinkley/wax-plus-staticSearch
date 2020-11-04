@@ -1,0 +1,33 @@
+
+  { "stem" : "odio",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "odio",
+            "context" : "...egestas tellus iaculis ante pharetra imperdiet ac at <mark>odio<\/mark>.",
+            "weight" : 1,
+            "pos" : 226 },
+          
+          { "form" : "odio",
+            "context" : "...egestas tellus iaculis ante pharetra imperdiet ac at <mark>odio<\/mark>. ↩︎",
+            "weight" : 1,
+            "pos" : 399 } ] },
+      
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "odio",
+            "context" : "...egestas tellus iaculis ante pharetra imperdiet ac at <mark>odio<\/mark>.",
+            "weight" : 1,
+            "pos" : 222 },
+          
+          { "form" : "odio",
+            "context" : "...egestas tellus iaculis ante pharetra imperdiet ac at <mark>odio<\/mark>.",
+            "weight" : 1,
+            "pos" : 447 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "student",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "students",
+            "context" : "...and your team. In the most common scenario, <mark>students<\/mark>, faculty, colleagues or any other collaborators just...",
+            "weight" : 1,
+            "pos" : 305 } ] } ] }

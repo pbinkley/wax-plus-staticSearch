@@ -1,0 +1,58 @@
+
+  { "stem" : "feugiat",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "feugiat",
+            "context" : "...volutpat. Pellentesque vel velit sit amet mauris dignissim <mark>feugiat<\/mark>.",
+            "weight" : 1,
+            "pos" : 123 },
+          
+          { "form" : "feugiat",
+            "context" : "...tincidunt magna ut ullamcorper consectetur. Nulla mi urna, <mark>feugiat<\/mark> sed massa non, ullamcorper efficitur dolor. Sed...",
+            "weight" : 1,
+            "pos" : 161 },
+          
+          { "form" : "feugiat",
+            "context" : "...a, mollis neque. Duis faucibus diam vitae faucibus <mark>feugiat<\/mark>. Lorem ipsum dolor sit amet, consectetur adipiscing...",
+            "weight" : 1,
+            "pos" : 303 },
+          
+          { "form" : "feugiat",
+            "context" : "...sodales metus. Suspendisse finibus purus ut sem commodo <mark>feugiat<\/mark>.",
+            "weight" : 1,
+            "pos" : 347 },
+          
+          { "form" : "feugiat",
+            "context" : "...tincidunt magna ut ullamcorper consectetur. Nulla mi urna, <mark>feugiat<\/mark> sed massa non, ullamcorper efficitur dolor. Sed...",
+            "weight" : 1,
+            "pos" : 386 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "feugiat",
+            "context" : "...volutpat. Pellentesque vel velit sit amet mauris dignissim <mark>feugiat<\/mark>.",
+            "weight" : 1,
+            "pos" : 123 },
+          
+          { "form" : "feugiat",
+            "context" : "...tincidunt magna ut ullamcorper consectetur. Nulla mi urna, <mark>feugiat<\/mark> sed massa non, ullamcorper efficitur dolor.2 Sed...",
+            "weight" : 1,
+            "pos" : 165 },
+          
+          { "form" : "feugiat",
+            "context" : "...a, mollis neque. Duis faucibus diam vitae faucibus <mark>feugiat<\/mark>. Lorem ipsum dolor sit amet, consectetur adipiscing...",
+            "weight" : 1,
+            "pos" : 307 },
+          
+          { "form" : "feugiat",
+            "context" : "...sodales metus. Suspendisse finibus purus ut sem commodo <mark>feugiat<\/mark>.",
+            "weight" : 1,
+            "pos" : 351 } ] } ] }

@@ -1,0 +1,13 @@
+
+  { "stem" : "soon",
+    "instances" : 
+    [ 
+      { "docId" : "about_index",
+        "docUri" : "about\/index.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soon",
+            "context" : "...some customizable UI components, good documentation and (hopefully <mark>soon<\/mark>!) recipes for creating, deploying, and maintaining custom...",
+            "weight" : 1,
+            "pos" : 77 } ] } ] }

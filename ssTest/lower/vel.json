@@ -1,0 +1,58 @@
+
+  { "stem" : "vel",
+    "instances" : 
+    [ 
+      { "docId" : "exhibits_b_index",
+        "docUri" : "exhibits\/b\/index.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "vel",
+            "context" : "...facilisis non aliquet ac, ultrices eu sem. Sed <mark>vel<\/mark> aliquet urna. Mauris quis ex at lectus...",
+            "weight" : 1,
+            "pos" : 95 },
+          
+          { "form" : "vel",
+            "context" : "...iaculis elementum id id massa. Integer luctus nulla <mark>vel<\/mark> tellus rutrum, ac pulvinar erat finibus. Aliquam...",
+            "weight" : 1,
+            "pos" : 107 },
+          
+          { "form" : "vel",
+            "context" : "...ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque <mark>vel<\/mark> velit sit amet mauris dignissim feugiat.",
+            "weight" : 1,
+            "pos" : 117 },
+          
+          { "form" : "vel",
+            "context" : "...Aenean et est sit amet est pulvinar convallis <mark>vel<\/mark> non tortor. Nunc semper commodo fringilla. Proin...",
+            "weight" : 1,
+            "pos" : 191 },
+          
+          { "form" : "vel",
+            "context" : "...Aenean et est sit amet est pulvinar convallis <mark>vel<\/mark> non tortor. Nunc semper commodo fringilla. Proin...",
+            "weight" : 1,
+            "pos" : 416 } ] },
+      
+      { "docId" : "exhibits_a_index",
+        "docUri" : "exhibits\/a\/index.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "vel",
+            "context" : "...facilisis non aliquet ac, ultrices eu sem. Sed <mark>vel<\/mark> aliquet urna. Mauris quis ex at lectus...",
+            "weight" : 1,
+            "pos" : 95 },
+          
+          { "form" : "vel",
+            "context" : "...iaculis elementum id id massa. Integer luctus nulla <mark>vel<\/mark> tellus rutrum, ac pulvinar erat finibus. Aliquam...",
+            "weight" : 1,
+            "pos" : 107 },
+          
+          { "form" : "vel",
+            "context" : "...ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque <mark>vel<\/mark> velit sit amet mauris dignissim feugiat.",
+            "weight" : 1,
+            "pos" : 117 },
+          
+          { "form" : "vel",
+            "context" : "...Aenean et est sit amet est pulvinar convallis <mark>vel<\/mark> non tortor. Nunc semper commodo fringilla. Proin...",
+            "weight" : 1,
+            "pos" : 195 } ] } ] }
