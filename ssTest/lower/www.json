@@ -8,6 +8,6 @@
         "contexts" : 
         [ 
           { "form" : "www",
-            "context" : "...National Library Date Around 1628 - 1658 Source <mark>www<\/mark>.wdl.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj12\/manifest.json",
+            "context" : "<mark>www<\/mark>.wdl.org",
             "weight" : 1,
-            "pos" : 51 } ] } ] }
+            "pos" : 43 } ] } ] }

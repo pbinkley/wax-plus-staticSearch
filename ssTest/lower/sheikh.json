@@ -13,6 +13,6 @@
             "pos" : 16 },
           
           { "form" : "Sheikh",
-            "context" : "Label Portrait of <mark>Sheikh<\/mark> Ali Mirza Artist Unknown Type portrait Location...",
+            "context" : "Portrait of <mark>Sheikh<\/mark> Ali Mirza",
             "weight" : 1,
-            "pos" : 21 } ] } ] }
+            "pos" : 20 } ] } ] }

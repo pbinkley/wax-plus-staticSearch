@@ -8,9 +8,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...of Islamic Art, Qatar Date 16th century Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj6\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 37 } ] },
+            "pos" : 29 } ] },
       
       { "docId" : "qatar_obj10_index",
         "docUri" : "qatar\/obj10\/index.html",
@@ -18,9 +18,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Islamic Art, Qatar Date 1800 - 1850 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj10\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 46 } ] },
+            "pos" : 38 } ] },
       
       { "docId" : "qatar_obj7_index",
         "docUri" : "qatar\/obj7\/index.html",
@@ -28,9 +28,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Islamic Art, Qatar Date 1525 - 1535 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj7\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 36 } ] },
+            "pos" : 28 } ] },
       
       { "docId" : "qatar_obj2_index",
         "docUri" : "qatar\/obj2\/index.html",
@@ -38,9 +38,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...of Islamic Art, Qatar Date 14th century Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj2\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 37 } ] },
+            "pos" : 29 } ] },
       
       { "docId" : "qatar_obj1_index",
         "docUri" : "qatar\/obj1\/index.html",
@@ -48,9 +48,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Museum of Islamic Art, Qatar Date 1801 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj1\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 45 } ] },
+            "pos" : 37 } ] },
       
       { "docId" : "about_index",
         "docUri" : "about\/index.html",
@@ -68,9 +68,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Museum of Islamic Art, Qatar Date 1816 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj9\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 40 } ] },
+            "pos" : 32 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -78,9 +78,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Islamic Art, Qatar Date 1800 - 1850 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj11\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 40 } ] },
+            "pos" : 32 } ] },
       
       { "docId" : "qatar_obj4_index",
         "docUri" : "qatar\/obj4\/index.html",
@@ -88,9 +88,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Islamic Art, Qatar Date 1525 - 1535 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj4\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 42 } ] },
+            "pos" : 34 } ] },
       
       { "docId" : "qatar_obj5_index",
         "docUri" : "qatar\/obj5\/index.html",
@@ -98,9 +98,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Islamic Art, Qatar Date 1600 - 1625 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj5\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 36 } ] },
+            "pos" : 28 } ] },
       
       { "docId" : "qatar_obj3_index",
         "docUri" : "qatar\/obj3\/index.html",
@@ -108,9 +108,9 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...of Islamic Art, Qatar Date 15th century Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj3\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 35 } ] },
+            "pos" : 27 } ] },
       
       { "docId" : "qatar_obj8_index",
         "docUri" : "qatar\/obj8\/index.html",
@@ -118,6 +118,6 @@
         "contexts" : 
         [ 
           { "form" : "commons",
-            "context" : "...Islamic Art, Qatar Date 1550 - 1650 Source <mark>commons<\/mark>.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj8\/manifest.json",
+            "context" : "<mark>commons<\/mark>.wikimedia.org",
             "weight" : 1,
-            "pos" : 44 } ] } ] }
+            "pos" : 36 } ] } ] }

@@ -2,6 +2,31 @@
   { "stem" : "search",
     "instances" : 
     [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "search",
+            "context" : "Test <mark>search<\/mark> page",
+            "weight" : 2,
+            "pos" : 2 },
+          
+          { "form" : "search",
+            "context" : "This is a simple <mark>search<\/mark> page for the test collection. It runs...",
+            "weight" : 1,
+            "pos" : 5 },
+          
+          { "form" : "Search",
+            "context" : " <mark>Search<\/mark> ",
+            "weight" : 1,
+            "pos" : 43 },
+          
+          { "form" : "Searching",
+            "context" : "<mark>Searching<\/mark>...",
+            "weight" : 1,
+            "pos" : 44 } ] },
+      
       { "docId" : "search_index",
         "docUri" : "search\/index.html",
         "score" : 3,
@@ -16,21 +41,6 @@
             "context" : "<mark>Search<\/mark>",
             "weight" : 1,
             "pos" : 13 } ] },
-      
-      { "docId" : "search",
-        "docUri" : "search.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "search",
-            "context" : "Test <mark>search<\/mark> page",
-            "weight" : 2,
-            "pos" : 2 },
-          
-          { "form" : "search",
-            "context" : "This is a simple <mark>search<\/mark> page for the test collection. It runs...",
-            "weight" : 1,
-            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj6_index",
         "docUri" : "qatar\/obj6\/index.html",

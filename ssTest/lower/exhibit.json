@@ -4,7 +4,7 @@
     [ 
       { "docId" : "about_index",
         "docUri" : "about\/index.html",
-        "score" : 10,
+        "score" : 9,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
@@ -50,16 +50,11 @@
           { "form" : "exhibit",
             "context" : "...special layouts and Wax components to build the <mark>exhibit<\/mark> and spits them out as static pages...",
             "weight" : 1,
-            "pos" : 362 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 380 } ] },
+            "pos" : 362 } ] },
       
       { "docId" : "exhibits_index",
         "docUri" : "exhibits\/index.html",
-        "score" : 6,
+        "score" : 5,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
@@ -80,16 +75,11 @@
           { "form" : "Exhibit",
             "context" : "<mark>Exhibit<\/mark> B: Inline Image References",
             "weight" : 1,
-            "pos" : 21 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 27 } ] },
+            "pos" : 21 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",
-        "score" : 4,
+        "score" : 3,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
@@ -105,16 +95,11 @@
           { "form" : "exhibits",
             "context" : "...produce beautifully rendered, high-quality image collections and scholarly <mark>exhibits<\/mark>. To start using Wax, please see our...",
             "weight" : 1,
-            "pos" : 48 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 80 } ] },
+            "pos" : 48 } ] },
       
       { "docId" : "exhibits_a_index",
         "docUri" : "exhibits\/a\/index.html",
-        "score" : 4,
+        "score" : 3,
         "contexts" : 
         [ 
           { "form" : "Exhibit",
@@ -125,16 +110,11 @@
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 402 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "exhibits_b_index",
         "docUri" : "exhibits\/b\/index.html",
-        "score" : 4,
+        "score" : 3,
         "contexts" : 
         [ 
           { "form" : "Exhibit",
@@ -145,264 +125,174 @@
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 450 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj6_index",
         "docUri" : "qatar\/obj6\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 54 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj10_index",
         "docUri" : "qatar\/obj10\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 63 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj7_index",
         "docUri" : "qatar\/obj7\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 53 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj2_index",
         "docUri" : "qatar\/obj2\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 54 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "credits_index",
         "docUri" : "credits\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 81 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "search_index",
         "docUri" : "search\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 19 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj1_index",
         "docUri" : "qatar\/obj1\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 62 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "reuse_index",
         "docUri" : "reuse\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 52 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj9_index",
         "docUri" : "qatar\/obj9\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 57 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 57 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj4_index",
         "docUri" : "qatar\/obj4\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 59 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj5_index",
         "docUri" : "qatar\/obj5\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 53 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj12_index",
         "docUri" : "qatar\/obj12\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 68 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj3_index",
         "docUri" : "qatar\/obj3\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 52 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "404",
         "docUri" : "404.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 24 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "qatar_obj8_index",
         "docUri" : "qatar\/obj8\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 61 } ] },
+            "pos" : 5 } ] },
       
       { "docId" : "collection_index",
         "docUri" : "collection\/index.html",
-        "score" : 2,
+        "score" : 1,
         "contexts" : 
         [ 
           { "form" : "Exhibits",
             "context" : "<mark>Exhibits<\/mark> ",
             "weight" : 1,
-            "pos" : 5 },
-          
-          { "form" : "Exhibitions",
-            "context" : "Minimal <mark>Exhibitions<\/mark> with Jekyll",
-            "weight" : 1,
-            "pos" : 47 } ] } ] }
+            "pos" : 5 } ] } ] }

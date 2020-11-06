@@ -13,9 +13,9 @@
             "pos" : 16 },
           
           { "form" : "Hasan",
-            "context" : "Label Portrait of <mark>Hasan<\/mark> ʾAli Mirza Shuja al-Saltana Artist Unknown Type...",
+            "context" : "Portrait of <mark>Hasan<\/mark> ʾAli Mirza Shuja al-Saltana",
             "weight" : 1,
-            "pos" : 24 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",

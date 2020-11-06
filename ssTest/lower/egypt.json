@@ -8,9 +8,9 @@
         "contexts" : 
         [ 
           { "form" : "Egypt",
-            "context" : "...Label Sulwan Al-Mutaʾa Artist Unknown Type manuscript Location <mark>Egypt<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Egypt<\/mark>",
             "weight" : 1,
-            "pos" : 27 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "qatar_obj3_index",
         "docUri" : "qatar\/obj3\/index.html",
@@ -18,6 +18,6 @@
         "contexts" : 
         [ 
           { "form" : "Egypt",
-            "context" : "...of the World Artist Unknown Type map Location <mark>Egypt<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Egypt<\/mark>",
             "weight" : 1,
-            "pos" : 25 } ] } ] }
+            "pos" : 21 } ] } ] }

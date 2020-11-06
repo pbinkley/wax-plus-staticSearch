@@ -13,9 +13,9 @@
             "pos" : 19 },
           
           { "form" : "Shuja",
-            "context" : "...Label Portrait of Hasan ʾAli Mirza <mark>Shuja<\/mark> al-Saltana Artist Unknown Type portrait Location Iran...",
+            "context" : "Portrait of Hasan ʾAli Mirza <mark>Shuja<\/mark> al-Saltana",
             "weight" : 1,
-            "pos" : 27 } ] },
+            "pos" : 26 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",

@@ -13,6 +13,6 @@
             "pos" : 15 },
           
           { "form" : "Diwan",
-            "context" : "Label <mark>Diwan<\/mark> of Jami Manuscript Artist Unknown Type manuscript...",
+            "context" : "<mark>Diwan<\/mark> of Jami Manuscript",
             "weight" : 1,
-            "pos" : 19 } ] } ] }
+            "pos" : 18 } ] } ] }

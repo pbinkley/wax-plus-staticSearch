@@ -13,9 +13,9 @@
             "pos" : 19 },
           
           { "form" : "رسالة",
-            "context" : "...Excerpt from \"The Book of Horses\" (فَرَس نامه [<mark>رسالة<\/mark> في الخيول) Artist Bahādur Fīrūz, ʻAbd Allāh...",
+            "context" : "...Excerpt from \"The Book of Horses\" (فَرَس نامه [<mark>رسالة<\/mark> في الخيول)",
             "weight" : 1,
-            "pos" : 26 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "exhibits_a_index",
         "docUri" : "exhibits\/a\/index.html",

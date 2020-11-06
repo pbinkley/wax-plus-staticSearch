@@ -13,9 +13,9 @@
             "pos" : 16 },
           
           { "form" : "Shahnama",
-            "context" : "Label Page from the <mark>Shahnama<\/mark> Artist Unknown Type manuscript Location Iran Current...",
+            "context" : "Page from the <mark>Shahnama<\/mark>",
             "weight" : 1,
-            "pos" : 19 } ] },
+            "pos" : 18 } ] },
       
       { "docId" : "exhibits_b_index",
         "docUri" : "exhibits\/b\/index.html",

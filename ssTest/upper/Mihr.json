@@ -18,9 +18,9 @@
         "contexts" : 
         [ 
           { "form" : "Mihr",
-            "context" : "...Label Portrait of Fath ʾAli Shah Artist <mark>Mihr<\/mark> ʾAli Type portrait Location Iran Current Location...",
+            "context" : "<mark>Mihr<\/mark> ʾAli",
             "weight" : 1,
-            "pos" : 25 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "exhibits_b_index",
         "docUri" : "exhibits\/b\/index.html",

@@ -23,6 +23,6 @@
         "contexts" : 
         [ 
           { "form" : "Around",
-            "context" : "...North Africa Current Location Qatar National Library Date <mark>Around<\/mark> 1628 - 1658 Source www.wdl.org IIIF Manifest...",
+            "context" : "<mark>Around<\/mark> 1628 - 1658",
             "weight" : 1,
-            "pos" : 47 } ] } ] }
+            "pos" : 40 } ] } ] }

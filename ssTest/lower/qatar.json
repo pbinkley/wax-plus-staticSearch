@@ -38,9 +38,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 16th century Source commons.wikimedia.org IIIF Manifest...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 33 } ] },
+            "pos" : 27 } ] },
       
       { "docId" : "qatar_obj10_index",
         "docUri" : "qatar\/obj10\/index.html",
@@ -48,9 +48,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1800 - 1850 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 41 } ] },
+            "pos" : 35 } ] },
       
       { "docId" : "qatar_obj7_index",
         "docUri" : "qatar\/obj7\/index.html",
@@ -58,9 +58,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1525 - 1535 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 31 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj2_index",
         "docUri" : "qatar\/obj2\/index.html",
@@ -68,9 +68,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Egypt Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 14th century Source commons.wikimedia.org IIIF Manifest...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 33 } ] },
+            "pos" : 27 } ] },
       
       { "docId" : "qatar_obj1_index",
         "docUri" : "qatar\/obj1\/index.html",
@@ -78,9 +78,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Turkey Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1801 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj1\/manifest.json...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 41 } ] },
+            "pos" : 35 } ] },
       
       { "docId" : "qatar_obj9_index",
         "docUri" : "qatar\/obj9\/index.html",
@@ -88,9 +88,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1816 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj9\/manifest.json...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 36 } ] },
+            "pos" : 30 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -98,9 +98,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1800 - 1850 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 35 } ] },
+            "pos" : 29 } ] },
       
       { "docId" : "qatar_obj4_index",
         "docUri" : "qatar\/obj4\/index.html",
@@ -108,9 +108,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1525 - 1535 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 37 } ] },
+            "pos" : 31 } ] },
       
       { "docId" : "qatar_obj5_index",
         "docUri" : "qatar\/obj5\/index.html",
@@ -118,9 +118,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1600 - 1625 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 31 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj12_index",
         "docUri" : "qatar\/obj12\/index.html",
@@ -128,9 +128,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Location Middle East and North Africa Current Location <mark>Qatar<\/mark> National Library Date Around 1628 - 1658...",
+            "context" : "<mark>Qatar<\/mark> National Library",
             "weight" : 1,
-            "pos" : 43 } ] },
+            "pos" : 37 } ] },
       
       { "docId" : "qatar_obj3_index",
         "docUri" : "qatar\/obj3\/index.html",
@@ -138,9 +138,9 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Egypt Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 15th century Source commons.wikimedia.org IIIF Manifest...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 31 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj8_index",
         "docUri" : "qatar\/obj8\/index.html",
@@ -148,6 +148,6 @@
         "contexts" : 
         [ 
           { "form" : "Qatar",
-            "context" : "...Iran Current Location The Museum of Islamic Art, <mark>Qatar<\/mark> Date 1550 - 1650 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of Islamic Art, <mark>Qatar<\/mark>",
             "weight" : 1,
-            "pos" : 39 } ] } ] }
+            "pos" : 33 } ] } ] }

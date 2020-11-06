@@ -13,9 +13,9 @@
             "pos" : 15 },
           
           { "form" : "Page",
-            "context" : "Label <mark>Page<\/mark> from the Shahnama Artist Unknown Type manuscript...",
+            "context" : "<mark>Page<\/mark> from the Shahnama",
             "weight" : 1,
-            "pos" : 18 } ] },
+            "pos" : 17 } ] },
       
       { "docId" : "search",
         "docUri" : "search.html",

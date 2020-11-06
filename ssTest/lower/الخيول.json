@@ -13,9 +13,9 @@
             "pos" : 20 },
           
           { "form" : "الخيول",
-            "context" : "...\"The Book of Horses\" (فَرَس نامه [رسالة في <mark>الخيول<\/mark>) Artist Bahādur Fīrūz, ʻAbd Allāh Khān Type...",
+            "context" : "...\"The Book of Horses\" (فَرَس نامه [رسالة في <mark>الخيول<\/mark>)",
             "weight" : 1,
-            "pos" : 27 } ] },
+            "pos" : 26 } ] },
       
       { "docId" : "exhibits_a_index",
         "docUri" : "exhibits\/a\/index.html",

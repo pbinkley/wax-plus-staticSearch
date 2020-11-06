@@ -8,6 +8,6 @@
         "contexts" : 
         [ 
           { "form" : "1625",
-            "context" : "...Museum of Islamic Art, Qatar Date 1600 - <mark>1625<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj5\/manifest.json",
+            "context" : "1600 - <mark>1625<\/mark>",
             "weight" : 1,
-            "pos" : 34 } ] } ] }
+            "pos" : 27 } ] } ] }

@@ -19,4 +19,23 @@
         <indentJSON>true</indentJSON>
         <outputFolder>ssTest</outputFolder>
     </params>
+
+    <rules>
+        <!-- do not index footer -->
+        <rule weight="0" match="footer"/>
+        <!-- do not index metadata labels -->
+        <rule weight="0" match="dt"/>
+        <!-- do not index manifest uri -->
+        <rule weight="0" match="dd[a[starts-with(., 'http')]]"/>
+    </rules>
+
+    <contexts>
+        <!-- set metadata field as its own context (ideally would be dt/dd pair) -->
+        <context match="dd"/>
+    </contexts>
+
+    <excludes>
+        <!-- exclude the notes file -->
+        <exclude type="index" match="html[head/title[normalize-space(.)='Wax | Notes on staticSearch implementation']]"/>
+    </excludes>
 </config>

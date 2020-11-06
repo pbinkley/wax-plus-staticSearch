@@ -13,6 +13,6 @@
             "pos" : 15 },
           
           { "form" : "Faridun",
-            "context" : "Label <mark>Faridun<\/mark> crosses the River Dijla, fol. 33v Artist...",
+            "context" : "<mark>Faridun<\/mark> crosses the River Dijla, fol. 33v",
             "weight" : 1,
-            "pos" : 21 } ] } ] }
+            "pos" : 20 } ] } ] }

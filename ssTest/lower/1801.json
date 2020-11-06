@@ -8,6 +8,6 @@
         "contexts" : 
         [ 
           { "form" : "1801",
-            "context" : "...Location The Museum of Islamic Art, Qatar Date <mark>1801<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj1\/manifest.json",
+            "context" : "<mark>1801<\/mark>",
             "weight" : 1,
-            "pos" : 43 } ] } ] }
+            "pos" : 36 } ] } ] }

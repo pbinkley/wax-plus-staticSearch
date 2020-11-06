@@ -13,11 +13,11 @@
             "pos" : 15 },
           
           { "form" : "Map",
-            "context" : "Label <mark>Map<\/mark> of the World Artist Unknown Type map...",
+            "context" : "<mark>Map<\/mark> of the World",
             "weight" : 1,
-            "pos" : 18 },
+            "pos" : 17 },
           
           { "form" : "map",
-            "context" : "...Label Map of the World Artist Unknown Type <mark>map<\/mark> Location Egypt Current Location The Museum of...",
+            "context" : "<mark>map<\/mark>",
             "weight" : 1,
-            "pos" : 23 } ] } ] }
+            "pos" : 20 } ] } ] }

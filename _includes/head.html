@@ -1,6 +1,9 @@
 <head>
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  {% if page.thumbnail %}
+  <meta name="docImage" class="staticSearch.docImage" content="{{ page.thumbnail | absolute_url }}"/>
+  {% endif %}
   <title>
     {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>

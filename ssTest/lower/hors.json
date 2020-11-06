@@ -13,9 +13,9 @@
             "pos" : 17 },
           
           { "form" : "Horses\"",
-            "context" : "...Label Excerpt from \"The Book of <mark>Horses\"<\/mark> (فَرَس نامه [رسالة في الخيول) Artist Bahādur...",
+            "context" : "Excerpt from \"The Book of <mark>Horses\"<\/mark> (فَرَس نامه [رسالة في الخيول)",
             "weight" : 1,
-            "pos" : 24 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "exhibits_a_index",
         "docUri" : "exhibits\/a\/index.html",

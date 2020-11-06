@@ -37,3 +37,8 @@ bundle exec jekyll serve
 - visit [search.html?q=qatar]({{ '/search.html?q=qatar' | relative_url }})
 
 We can now add features to ```staticSearch-config.xml```.
+
+
+### Notes
+
+- Firefox does't like the ```<![CDATA[ ]]>``` wrapping in a ```script``` element (it's ok in css though) - is this from tidy, or from the xsl?

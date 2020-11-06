@@ -13,14 +13,14 @@
             "pos" : 15 },
           
           { "form" : "Panel",
-            "context" : "Label <mark>Panel<\/mark> from Iran Artist Unknown Type panel Location...",
+            "context" : "<mark>Panel<\/mark> from Iran",
             "weight" : 1,
-            "pos" : 18 },
+            "pos" : 17 },
           
           { "form" : "panel",
-            "context" : "...Label Panel from Iran Artist Unknown Type <mark>panel<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>panel<\/mark>",
             "weight" : 1,
-            "pos" : 23 } ] },
+            "pos" : 20 } ] },
       
       { "docId" : "qatar_obj8_index",
         "docUri" : "qatar\/obj8\/index.html",
@@ -28,6 +28,6 @@
         "contexts" : 
         [ 
           { "form" : "panel",
-            "context" : "...story of Leila and Majnun Artist Unknown Type <mark>panel<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>panel<\/mark>",
             "weight" : 1,
-            "pos" : 31 } ] } ] }
+            "pos" : 28 } ] } ] }

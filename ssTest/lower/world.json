@@ -13,9 +13,9 @@
             "pos" : 16 },
           
           { "form" : "World",
-            "context" : "Label Map of the <mark>World<\/mark> Artist Unknown Type map Location Egypt Current...",
+            "context" : "Map of the <mark>World<\/mark>",
             "weight" : 1,
-            "pos" : 19 } ] },
+            "pos" : 18 } ] },
       
       { "docId" : "about_index",
         "docUri" : "about\/index.html",

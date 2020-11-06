@@ -8,6 +8,6 @@
         "contexts" : 
         [ 
           { "form" : "Turkey",
-            "context" : "...Artist Al-Hajj Hafiz Muhammad Nuri Type manuscript Location <mark>Turkey<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Turkey<\/mark>",
             "weight" : 1,
-            "pos" : 35 } ] } ] }
+            "pos" : 31 } ] } ] }

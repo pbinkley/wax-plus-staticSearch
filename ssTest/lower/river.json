@@ -13,6 +13,6 @@
             "pos" : 17 },
           
           { "form" : "River",
-            "context" : "Label Faridun crosses the <mark>River<\/mark> Dijla, fol. 33v Artist Unknown Type manuscript...",
+            "context" : "Faridun crosses the <mark>River<\/mark> Dijla, fol. 33v",
             "weight" : 1,
-            "pos" : 23 } ] } ] }
+            "pos" : 22 } ] } ] }

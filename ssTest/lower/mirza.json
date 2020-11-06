@@ -13,9 +13,9 @@
             "pos" : 18 },
           
           { "form" : "Mirza",
-            "context" : "Label Portrait of Hasan ʾAli <mark>Mirza<\/mark> Shuja al-Saltana Artist Unknown Type portrait Location...",
+            "context" : "Portrait of Hasan ʾAli <mark>Mirza<\/mark> Shuja al-Saltana",
             "weight" : 1,
-            "pos" : 26 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -28,9 +28,9 @@
             "pos" : 18 },
           
           { "form" : "Mirza",
-            "context" : "Label Portrait of Sheikh Ali <mark>Mirza<\/mark> Artist Unknown Type portrait Location Iran Current...",
+            "context" : "Portrait of Sheikh Ali <mark>Mirza<\/mark>",
             "weight" : 1,
-            "pos" : 23 } ] },
+            "pos" : 22 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",

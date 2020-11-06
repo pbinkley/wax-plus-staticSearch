@@ -13,9 +13,9 @@
             "pos" : 16 },
           
           { "form" : "Al-Mutaʾa",
-            "context" : "Label Sulwan <mark>Al-Mutaʾa<\/mark> Artist Unknown Type manuscript Location Egypt Current...",
+            "context" : "Sulwan <mark>Al-Mutaʾa<\/mark>",
             "weight" : 1,
-            "pos" : 20 } ] },
+            "pos" : 19 } ] },
       
       { "docId" : "exhibits_b_index",
         "docUri" : "exhibits\/b\/index.html",

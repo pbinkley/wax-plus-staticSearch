@@ -13,9 +13,9 @@
             "pos" : 16 },
           
           { "form" : "Book",
-            "context" : "Label Excerpt from \"The <mark>Book<\/mark> of Horses\" (فَرَس نامه [رسالة في الخيول)...",
+            "context" : "Excerpt from \"The <mark>Book<\/mark> of Horses\" (فَرَس نامه [رسالة في الخيول)...",
             "weight" : 1,
-            "pos" : 23 } ] },
+            "pos" : 22 } ] },
       
       { "docId" : "exhibits_a_index",
         "docUri" : "exhibits\/a\/index.html",

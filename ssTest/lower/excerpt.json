@@ -13,9 +13,9 @@
             "pos" : 15 },
           
           { "form" : "Excerpt",
-            "context" : "Label <mark>Excerpt<\/mark> from \"The Book of Horses\" (فَرَس نامه...",
+            "context" : "<mark>Excerpt<\/mark> from \"The Book of Horses\" (فَرَس نامه...",
             "weight" : 1,
-            "pos" : 22 } ] },
+            "pos" : 21 } ] },
       
       { "docId" : "exhibits_a_index",
         "docUri" : "exhibits\/a\/index.html",

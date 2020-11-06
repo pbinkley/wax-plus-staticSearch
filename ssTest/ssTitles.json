@@ -1,20 +1,25 @@
 
   { "qatar\/obj6\/index.html" : 
-    [ "Wax | Diwan of Jami Manuscript" ],
+    [ "Wax | Diwan of Jami Manuscript",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj6\/full\/250,\/0\/default.jpg" ],
     "qatar\/obj10\/index.html" : 
-    [ "Wax | Portrait of Hasan ʾAli Mirza Shuja al-Saltana" ],
+    [ "Wax | Portrait of Hasan ʾAli Mirza Shuja al-Saltana",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj10\/full\/250,\/0\/default.jpg" ],
     "qatar\/obj7\/index.html" : 
-    [ "Wax | Page from the Shahnama" ],
+    [ "Wax | Page from the Shahnama",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj7\/full\/250,\/0\/default.jpg" ],
     "exhibits\/a\/index.html" : 
     [ "Wax | Exhibit A: Inline Parallax Image" ],
     "qatar\/obj2\/index.html" : 
-    [ "Wax | Sulwan Al-Mutaʾa" ],
+    [ "Wax | Sulwan Al-Mutaʾa",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj2\/full\/250,\/0\/default.jpg" ],
     "credits\/index.html" : 
     [ "Wax | Credits" ],
     "search\/index.html" : 
     [ "Wax | Search the Collection" ],
     "qatar\/obj1\/index.html" : 
-    [ "Wax | The Dalaʾil al-Khayrat of al-Juzuli" ],
+    [ "Wax | The Dalaʾil al-Khayrat of al-Juzuli",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj1\/full\/250,\/0\/default.jpg" ],
     "exhibits\/index.html" : 
     [ "Wax | Featured Exhibits" ],
     "reuse\/index.html" : 
@@ -22,26 +27,33 @@
     "about\/index.html" : 
     [ "Wax | What is Wax?" ],
     "qatar\/obj9\/index.html" : 
-    [ "Wax | Portrait of Fath ʾAli Shah" ],
+    [ "Wax | Portrait of Fath ʾAli Shah",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj9\/full\/250,\/0\/default.jpg" ],
     "qatar\/obj11\/index.html" : 
-    [ "Wax | Portrait of Sheikh Ali Mirza" ],
+    [ "Wax | Portrait of Sheikh Ali Mirza",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj11\/full\/250,\/0\/default.jpg" ],
     "search.html" : 
     [ "Test search page" ],
     "index.html" : 
     [ "Wax" ],
     "qatar\/obj4\/index.html" : 
-    [ "Wax | Faridun crosses the River Dijla, fol. 33v" ],
+    [ "Wax | Faridun crosses the River Dijla, fol. 33v",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj4\/full\/250,\/0\/default.jpg" ],
     "exhibits\/b\/index.html" : 
     [ "Wax | Exhibit B: Inline Image References" ],
     "qatar\/obj5\/index.html" : 
-    [ "Wax | Panel from Iran" ],
+    [ "Wax | Panel from Iran",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj5\/full\/250,\/0\/default.jpg" ],
     "qatar\/obj12\/index.html" : 
-    [ "Wax | Excerpt from \"The Book of Horses\" (فَرَس نامه [رسالة في الخيول)" ],
+    [ "Wax | Excerpt from \"The Book of Horses\" (فَرَس نامه [رسالة في الخيول)",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj12_00\/full\/250,\/0\/default.jpg" ],
     "qatar\/obj3\/index.html" : 
-    [ "Wax | Map of the World" ],
+    [ "Wax | Map of the World",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj3\/full\/250,\/0\/default.jpg" ],
     "404.html" : 
     [ "Wax" ],
     "qatar\/obj8\/index.html" : 
-    [ "Wax | Silk Tapestry Depicting the story of Leila and Majnun" ],
+    [ "Wax | Silk Tapestry Depicting the story of Leila and Majnun",
+      "https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/images\/obj8\/full\/250,\/0\/default.jpg" ],
     "collection\/index.html" : 
     [ "Wax | Browse the Collection" ] }

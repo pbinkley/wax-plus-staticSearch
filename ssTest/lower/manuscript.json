@@ -13,14 +13,14 @@
             "pos" : 17 },
           
           { "form" : "Manuscript",
-            "context" : "Label Diwan of Jami <mark>Manuscript<\/mark> Artist Unknown Type manuscript Location Iran Current...",
+            "context" : "Diwan of Jami <mark>Manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 21 },
+            "pos" : 20 },
           
           { "form" : "manuscript",
-            "context" : "...Label Diwan of Jami Manuscript Artist Unknown Type <mark>manuscript<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 25 } ] },
+            "pos" : 22 } ] },
       
       { "docId" : "qatar_obj7_index",
         "docUri" : "qatar\/obj7\/index.html",
@@ -28,9 +28,9 @@
         "contexts" : 
         [ 
           { "form" : "manuscript",
-            "context" : "...Label Page from the Shahnama Artist Unknown Type <mark>manuscript<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 23 } ] },
+            "pos" : 20 } ] },
       
       { "docId" : "qatar_obj2_index",
         "docUri" : "qatar\/obj2\/index.html",
@@ -38,9 +38,9 @@
         "contexts" : 
         [ 
           { "form" : "manuscript",
-            "context" : "...Label Sulwan Al-Mutaʾa Artist Unknown Type <mark>manuscript<\/mark> Location Egypt Current Location The Museum of...",
+            "context" : "<mark>manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 25 } ] },
+            "pos" : 22 } ] },
       
       { "docId" : "qatar_obj1_index",
         "docUri" : "qatar\/obj1\/index.html",
@@ -48,9 +48,9 @@
         "contexts" : 
         [ 
           { "form" : "manuscript",
-            "context" : "...of al-Juzuli Artist Al-Hajj Hafiz Muhammad Nuri Type <mark>manuscript<\/mark> Location Turkey Current Location The Museum of...",
+            "context" : "<mark>manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 33 } ] },
+            "pos" : 30 } ] },
       
       { "docId" : "about_index",
         "docUri" : "about\/index.html",
@@ -68,9 +68,9 @@
         "contexts" : 
         [ 
           { "form" : "manuscript",
-            "context" : "...the River Dijla, fol. 33v Artist Unknown Type <mark>manuscript<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 29 } ] },
+            "pos" : 26 } ] },
       
       { "docId" : "qatar_obj12_index",
         "docUri" : "qatar\/obj12\/index.html",
@@ -78,6 +78,6 @@
         "contexts" : 
         [ 
           { "form" : "manuscript",
-            "context" : "...الخيول) Artist Bahādur Fīrūz, ʻAbd Allāh Khān Type <mark>manuscript<\/mark> Location Middle East and North Africa Current...",
+            "context" : "<mark>manuscript<\/mark>",
             "weight" : 1,
-            "pos" : 35 } ] } ] }
+            "pos" : 32 } ] } ] }

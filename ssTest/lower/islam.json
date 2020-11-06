@@ -8,9 +8,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...manuscript Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 16th century Source commons.wikimedia.org...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 31 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj10_index",
         "docUri" : "qatar\/obj10\/index.html",
@@ -18,9 +18,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...portrait Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1800 - 1850 Source...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 39 } ] },
+            "pos" : 33 } ] },
       
       { "docId" : "qatar_obj7_index",
         "docUri" : "qatar\/obj7\/index.html",
@@ -28,9 +28,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...manuscript Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1525 - 1535 Source...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 29 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "qatar_obj2_index",
         "docUri" : "qatar\/obj2\/index.html",
@@ -38,9 +38,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...manuscript Location Egypt Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 14th century Source commons.wikimedia.org...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 31 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj1_index",
         "docUri" : "qatar\/obj1\/index.html",
@@ -48,9 +48,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...manuscript Location Turkey Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1801 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 39 } ] },
+            "pos" : 33 } ] },
       
       { "docId" : "qatar_obj9_index",
         "docUri" : "qatar\/obj9\/index.html",
@@ -58,9 +58,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...portrait Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1816 Source commons.wikimedia.org IIIF...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 34 } ] },
+            "pos" : 28 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -68,9 +68,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...portrait Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1800 - 1850 Source...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 33 } ] },
+            "pos" : 27 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",
@@ -88,9 +88,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...manuscript Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1525 - 1535 Source...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 35 } ] },
+            "pos" : 29 } ] },
       
       { "docId" : "qatar_obj5_index",
         "docUri" : "qatar\/obj5\/index.html",
@@ -98,9 +98,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...panel Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1600 - 1625 Source...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 29 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "qatar_obj3_index",
         "docUri" : "qatar\/obj3\/index.html",
@@ -108,9 +108,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...map Location Egypt Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 15th century Source commons.wikimedia.org...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 29 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "qatar_obj8_index",
         "docUri" : "qatar\/obj8\/index.html",
@@ -118,9 +118,9 @@
         "contexts" : 
         [ 
           { "form" : "Islamic",
-            "context" : "...panel Location Iran Current Location The Museum of <mark>Islamic<\/mark> Art, Qatar Date 1550 - 1650 Source...",
+            "context" : "The Museum of <mark>Islamic<\/mark> Art, Qatar",
             "weight" : 1,
-            "pos" : 37 } ] },
+            "pos" : 31 } ] },
       
       { "docId" : "collection_index",
         "docUri" : "collection\/index.html",

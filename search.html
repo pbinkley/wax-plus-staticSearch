@@ -1,13 +1,12 @@
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
    
+   
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       
-      <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.6.0"/>
       
       
       <style>
-
         #testResults{
           margin: 2em;
           border-top: solid 1pt black;
@@ -18,8 +17,8 @@
         .failure{
           background-color: #ffcccc;
           }
-
-</style>
+      </style>
+      
       <!-- 
              This is the style element that is inserted by the static search 
              build process. It will be replaced every time you build the search. 
@@ -110,26 +109,30 @@
         }
     --></style>
       
+      
       <title>Test search page</title>
       </head>
    
+   
    <body>
+      
       
       <h1>Test search page</h1>
       
-      <p>This is a simple search page for the test collection. It runs a
-         number of automated tests on load. Note that the <q>Document
-            type</q> options should appear sorted in reverse alphabetical
-         order, as a test of the functionality of the
-         <code>@data-ssFilterSortKey</code> setting; the <q>Random numeric
-            value</q> options should appear in ascending numeric order although
-         they do not have a configured <code>@data-ssFilterSortKey</code>
-         setting.</p>
+      
+      <p>This is a simple search page for the test collection. It runs a number of automated
+         tests on load.
+         Note that the <q>Document type</q> options should appear sorted in reverse alphabetical order, 
+         as a test of the functionality of the <code>@data-ssFilterSortKey</code> setting; the <q>Random 
+            numeric value</q> options should appear in ascending numeric order although they do not have a
+         configured <code>@data-ssFilterSortKey</code> setting.</p>
+      
       <!-- 
              This is the div into which the JavaScript and page components required for the
              search are inserted during the build process. The contents of this div are replaced
             every time you run a search build.
       -->
+      
       
       <div id="staticSearch"><script src="ssTest/ssStemmer.js"></script><script src="ssTest/ssSearch.js"></script><script>
                 var Sch;
@@ -138,5 +141,6 @@
          <div id="ssSearching">Searching...</div>
          <div id="ssResults"></div>
       </div>
+      
       </body>
    </html>

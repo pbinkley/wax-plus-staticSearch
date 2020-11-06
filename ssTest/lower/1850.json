@@ -8,9 +8,9 @@
         "contexts" : 
         [ 
           { "form" : "1850",
-            "context" : "...Museum of Islamic Art, Qatar Date 1800 - <mark>1850<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj10\/manifest.json",
+            "context" : "1800 - <mark>1850<\/mark>",
             "weight" : 1,
-            "pos" : 44 } ] },
+            "pos" : 37 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -18,6 +18,6 @@
         "contexts" : 
         [ 
           { "form" : "1850",
-            "context" : "...Museum of Islamic Art, Qatar Date 1800 - <mark>1850<\/mark> Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj11\/manifest.json",
+            "context" : "1800 - <mark>1850<\/mark>",
             "weight" : 1,
-            "pos" : 38 } ] } ] }
+            "pos" : 31 } ] } ] }

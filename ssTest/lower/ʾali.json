@@ -13,14 +13,14 @@
             "pos" : 17 },
           
           { "form" : "ʾAli",
-            "context" : "Label Portrait of Fath <mark>ʾAli<\/mark> Shah Artist Mihr ʾAli Type portrait Location...",
+            "context" : "Portrait of Fath <mark>ʾAli<\/mark> Shah",
             "weight" : 1,
-            "pos" : 22 },
+            "pos" : 21 },
           
           { "form" : "ʾAli",
-            "context" : "...Label Portrait of Fath ʾAli Shah Artist Mihr <mark>ʾAli<\/mark> Type portrait Location Iran Current Location The...",
+            "context" : "Mihr <mark>ʾAli<\/mark>",
             "weight" : 1,
-            "pos" : 26 } ] },
+            "pos" : 24 } ] },
       
       { "docId" : "qatar_obj10_index",
         "docUri" : "qatar\/obj10\/index.html",
@@ -33,9 +33,9 @@
             "pos" : 17 },
           
           { "form" : "ʾAli",
-            "context" : "Label Portrait of Hasan <mark>ʾAli<\/mark> Mirza Shuja al-Saltana Artist Unknown Type portrait...",
+            "context" : "Portrait of Hasan <mark>ʾAli<\/mark> Mirza Shuja al-Saltana",
             "weight" : 1,
-            "pos" : 25 } ] },
+            "pos" : 24 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",

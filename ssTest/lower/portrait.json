@@ -13,14 +13,14 @@
             "pos" : 15 },
           
           { "form" : "Portrait",
-            "context" : "Label <mark>Portrait<\/mark> of Hasan ʾAli Mirza Shuja al-Saltana Artist...",
+            "context" : "<mark>Portrait<\/mark> of Hasan ʾAli Mirza Shuja al-Saltana",
             "weight" : 1,
-            "pos" : 23 },
+            "pos" : 22 },
           
           { "form" : "portrait",
-            "context" : "...Hasan ʾAli Mirza Shuja al-Saltana Artist Unknown Type <mark>portrait<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>portrait<\/mark>",
             "weight" : 1,
-            "pos" : 33 } ] },
+            "pos" : 30 } ] },
       
       { "docId" : "qatar_obj9_index",
         "docUri" : "qatar\/obj9\/index.html",
@@ -33,14 +33,14 @@
             "pos" : 15 },
           
           { "form" : "Portrait",
-            "context" : "Label <mark>Portrait<\/mark> of Fath ʾAli Shah Artist Mihr ʾAli...",
+            "context" : "<mark>Portrait<\/mark> of Fath ʾAli Shah",
             "weight" : 1,
-            "pos" : 20 },
+            "pos" : 19 },
           
           { "form" : "portrait",
-            "context" : "...of Fath ʾAli Shah Artist Mihr ʾAli Type <mark>portrait<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>portrait<\/mark>",
             "weight" : 1,
-            "pos" : 28 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -53,14 +53,14 @@
             "pos" : 15 },
           
           { "form" : "Portrait",
-            "context" : "Label <mark>Portrait<\/mark> of Sheikh Ali Mirza Artist Unknown Type...",
+            "context" : "<mark>Portrait<\/mark> of Sheikh Ali Mirza",
             "weight" : 1,
-            "pos" : 20 },
+            "pos" : 19 },
           
           { "form" : "portrait",
-            "context" : "...Portrait of Sheikh Ali Mirza Artist Unknown Type <mark>portrait<\/mark> Location Iran Current Location The Museum of...",
+            "context" : "<mark>portrait<\/mark>",
             "weight" : 1,
-            "pos" : 27 } ] },
+            "pos" : 24 } ] },
       
       { "docId" : "index",
         "docUri" : "index.html",

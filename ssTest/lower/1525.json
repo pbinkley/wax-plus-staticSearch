@@ -8,9 +8,9 @@
         "contexts" : 
         [ 
           { "form" : "1525",
-            "context" : "...Location The Museum of Islamic Art, Qatar Date <mark>1525<\/mark> - 1535 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj7\/manifest.json...",
+            "context" : "<mark>1525<\/mark> - 1535",
             "weight" : 1,
-            "pos" : 33 } ] },
+            "pos" : 26 } ] },
       
       { "docId" : "qatar_obj4_index",
         "docUri" : "qatar\/obj4\/index.html",
@@ -18,6 +18,6 @@
         "contexts" : 
         [ 
           { "form" : "1525",
-            "context" : "...Location The Museum of Islamic Art, Qatar Date <mark>1525<\/mark> - 1535 Source commons.wikimedia.org IIIF Manifest https:\/\/minicomp.github.io\/wax\/img\/derivatives\/iiif\/obj4\/manifest.json...",
+            "context" : "<mark>1525<\/mark> - 1535",
             "weight" : 1,
-            "pos" : 39 } ] } ] }
+            "pos" : 32 } ] } ] }

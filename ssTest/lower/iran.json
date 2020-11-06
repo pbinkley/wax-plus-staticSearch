@@ -13,14 +13,14 @@
             "pos" : 16 },
           
           { "form" : "Iran",
-            "context" : "Label Panel from <mark>Iran<\/mark> Artist Unknown Type panel Location Iran Current...",
+            "context" : "Panel from <mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 19 },
+            "pos" : 18 },
           
           { "form" : "Iran",
-            "context" : "...Panel from Iran Artist Unknown Type panel Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 25 } ] },
+            "pos" : 21 } ] },
       
       { "docId" : "qatar_obj6_index",
         "docUri" : "qatar\/obj6\/index.html",
@@ -28,9 +28,9 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...of Jami Manuscript Artist Unknown Type manuscript Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 27 } ] },
+            "pos" : 23 } ] },
       
       { "docId" : "qatar_obj10_index",
         "docUri" : "qatar\/obj10\/index.html",
@@ -38,9 +38,9 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...Mirza Shuja al-Saltana Artist Unknown Type portrait Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 35 } ] },
+            "pos" : 31 } ] },
       
       { "docId" : "qatar_obj7_index",
         "docUri" : "qatar\/obj7\/index.html",
@@ -48,9 +48,9 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...from the Shahnama Artist Unknown Type manuscript Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 25 } ] },
+            "pos" : 21 } ] },
       
       { "docId" : "qatar_obj9_index",
         "docUri" : "qatar\/obj9\/index.html",
@@ -58,9 +58,9 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...ʾAli Shah Artist Mihr ʾAli Type portrait Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 30 } ] },
+            "pos" : 26 } ] },
       
       { "docId" : "qatar_obj11_index",
         "docUri" : "qatar\/obj11\/index.html",
@@ -68,9 +68,9 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...Sheikh Ali Mirza Artist Unknown Type portrait Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 29 } ] },
+            "pos" : 25 } ] },
       
       { "docId" : "qatar_obj4_index",
         "docUri" : "qatar\/obj4\/index.html",
@@ -78,9 +78,9 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...Dijla, fol. 33v Artist Unknown Type manuscript Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 31 } ] },
+            "pos" : 27 } ] },
       
       { "docId" : "qatar_obj8_index",
         "docUri" : "qatar\/obj8\/index.html",
@@ -88,6 +88,6 @@
         "contexts" : 
         [ 
           { "form" : "Iran",
-            "context" : "...Leila and Majnun Artist Unknown Type panel Location <mark>Iran<\/mark> Current Location The Museum of Islamic Art,...",
+            "context" : "<mark>Iran<\/mark>",
             "weight" : 1,
-            "pos" : 33 } ] } ] }
+            "pos" : 29 } ] } ] }

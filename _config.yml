@@ -39,6 +39,7 @@ exclude:
   - vendor
   - spec
   - README.md
+  - updateStaticSearch.sh
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
