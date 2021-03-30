@@ -119,8 +119,12 @@ menu:
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
+  - label: Search
+    sub: 
+    - label: 'Wax Search'
+      link: '/search/'
+    - label: 'staticSearch'
+      link: '/staticSearch.html'
   - label: 'Reuse'
     link: '/reuse/'
 
