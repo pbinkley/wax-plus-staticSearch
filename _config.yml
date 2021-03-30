@@ -20,8 +20,8 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://pbinkley.github.io'
+baseurl:          '/wax-plus-staticSearch'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
