@@ -17,7 +17,7 @@
         <stopwordsFile>dicts/test_stopwords.txt</stopwordsFile>
         <dictionaryFile>dicts/english_words.txt</dictionaryFile>
         <indentJSON>true</indentJSON>
-        <outputFolder>ssTest</outputFolder>
+        <outputFolder>ssIndex</outputFolder>
     </params>
 
     <rules>
