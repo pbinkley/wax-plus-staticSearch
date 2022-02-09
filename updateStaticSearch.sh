@@ -17,7 +17,8 @@ find _site -name \*.html | grep -v _site/search.html | xargs -n 1 tidy -mq -asxh
 
 # run staticSearch to do the indexing
 cd $STATICSEARCH_HOME
-ant -DconfigFile=$WAX_HOME/_site/staticSearch-config.xml
+
+docker run -v ".\:/work" staticsearchant
 
 # return to Wax, copy the staticSearch artefacts up from _site
 cd $WAX_HOME
